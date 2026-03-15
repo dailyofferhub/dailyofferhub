@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>DAILY OFFER HUB | Premium Deals</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<script src="https://cdn.tailwindcss.com"></script>
+
+<script>
+tailwind.config = {
+theme:{
+extend:{
+fontFamily:{ sans:['Inter','sans-serif'] },
+colors:{
+brand:{50:'#f0f9ff',500:'#0ea5e9',600:'#0284c7',900:'#0c4a6e'},
+amazon:'#FF9900'
+}
+}
+}
+}
+</script>
+
+<style>
+
+.glass-nav{
+background:rgba(255,255,255,0.95);
+backdrop-filter:blur(10px);
+}
+
+.hero-gradient{
+background:linear-gradient(135deg,#1e293b 0%,#0369a1 100%);
+}
+
+/* ---------- IMAGE ZOOM FEATURE ---------- */
+
+.image-container{
+position:relative;
+overflow:hidden;
+}
+
+.image-container img{
+max-height:260px;
+cursor:zoom-in;
+}
+
+.zoom-view{
+position:absolute;
+top:0;
+left:105%;
+width:380px;
+height:380px;
+border:1px solid #ddd;
+background-repeat:no-repeat;
+background-size:800px;
+background-color:white;
+display:none;
+z-index:50;
+}
+
+</style>
+
+</head>
+
+<body class="bg-gray-50 text-gray-800 antialiased font-sans">
+
+
+<!-- NAVBAR -->
+
+<nav class="fixed w-full z-50 glass-nav shadow-sm border-b border-gray-100">
+
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
+<div class="flex justify-between items-center h-16">
+
+<div class="flex items-center">
+
+<img src="image/logo.jpeg.jpeg" class="h-10 w-10 mr-2">
+
+<span class="font-bold text-2xl text-gray-900">
+DAILY<span class="text-brand-600">OFFER HUB</span>
+</span>
+
+</div>
+
+</div>
+
+</div>
+
+</nav>
+
+
+
+<!-- HERO SECTION -->
+
+<header class="hero-gradient pt-24 pb-16 text-center text-white">
+
+<h1 class="text-4xl md:text-6xl font-extrabold mb-6">
+Top Picks Just For You
+</h1>
+
+<p class="text-lg md:text-xl max-w-2xl mx-auto">
+Compare and buy from Amazon directly from our curated list of premium items.
+</p>
+
+</header>
+
+
+
+<!-- PRODUCTS SECTION -->
+
+<main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+
+<h2 class="text-3xl font-bold text-gray-900 mb-8 text-center">
+Featured Products
+</h2>
+
+<div id="product-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"></div>
+
+</main>
+
+
+
+<!-- CART DRAWER -->
+
+<div id="cart-drawer"
+class="fixed inset-y-0 right-0 z-50 w-full max-w-md bg-white shadow-2xl hidden flex-col">
+
+<div class="px-6 py-4 border-b border-gray-200 flex justify-between items-center">
+
+<h2 class="text-lg font-bold text-gray-900">
+Your Cart
+</h2>
+
+<button onclick="toggleCart()">
+<i class="fa-solid fa-xmark text-xl"></i>
+</button>
+
+</div>
+
+
+<div id="cart-items" class="flex-1 overflow-y-auto p-6 space-y-6">
+
+<div id="empty-cart-msg" class="text-center text-gray-500 mt-10">
+Your cart is empty.
+</div>
+
+</div>
+
+
+<div class="border-t border-gray-200 p-6 bg-gray-50">
+
+<div class="flex justify-between text-base font-medium text-gray-900 mb-4">
+
+<p>Subtotal</p>
+
+<p id="cart-total">₹0</p>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<script src="app.js"></script>
+
+</body>
+</html>
