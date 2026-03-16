@@ -310,7 +310,21 @@ const products = [
 "offerNote":"✨ Limited Luxury Deal – Experience the glow of 24K Gold with this premium Ayurvedic serum today!",
 "image":"https://m.media-amazon.com/images/I/61weSXDu22L._SL1500_.jpg",
 "amazon":"https://amzn.to/4lDbCHO"
+},
+
+{
+"id":25,
+"name":"GDC - Theory Pharmacist Exam At Your TIPS - For All Pharmacist Exams of 2025-26",
+"category":"Books & Education",
+"originalPrice":1199,
+"price":899,
+"rating":4,
+"description":"A complete exam preparation guide for pharmacist competitive exams 2025–26, covering important pharmacy theory and key exam topics for quick revision.",
+"offerNote":"📚 Limited Study Deal – Prepare smarter for upcoming pharmacist exams with this trusted guide.",
+"image":"https://m.media-amazon.com/images/I/61ooTQ7NTpL._SL1024_.jpg",
+"amazon":"https://amzn.to/4bhhCRu"
 }
+
 
   
 
