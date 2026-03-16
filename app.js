@@ -293,7 +293,7 @@ const products = [
 "originalPrice":2890,
 "price":1349,
 "rating":4,
-"description":"WINSTON Turbo Pro Hair Dryer – 1800W is designed for fast, efficient hair drying while protecting your hair from excess heat damage. The powerful 1800W motor delivers strong airflow to reduce drying time, making it perfect for busy mornings or quick styling. It features a cool shot function that helps lock in your hairstyle and add a smooth, salon-like finish.The dryer also operates with low noise technology, giving you a more comfortable styling experience. Built with overheat protection, it ensures safe and reliable performance during everyday use.",
+"description":"WINSTON Turbo Pro Hair Dryer – 1800W is designed for fast, efficient hair drying while protecting your hair from excess heat damage. The powerful 1800W motor delivers strong airflow to reduce drying time, making it perfect for busy mornings or quick styling. It features a cool shot function that helps lock in your hairstyle and add a smooth, salon-like finish.",
 "offerNote":"✨ Special Beauty Offer – Achieve salon-style hair at home with this fast-drying hair dryer!",
 "image":"https://m.media-amazon.com/images/I/51q1JoHsM0L._SL1080_.jpg",
 "amazon":"https://amzn.to/4sITpL9"
