@@ -323,6 +323,19 @@ const products = [
 "offerNote":"📚 Limited Study Deal – Prepare smarter for upcoming pharmacist exams with this trusted guide.",
 "image":"https://m.media-amazon.com/images/I/61ooTQ7NTpL._SL1024_.jpg",
 "amazon":"https://amzn.to/4bhhCRu"
+},
+
+{
+"id":26,
+"name":"SkinSide Ice Roller for Face & Eye Care | Reusable Ice Cube Facial Massager for Glowing Skin, Puffy Eyes & Pore Tightening | Unbreakable Design for Men & Women (Black)",
+"category":"Skincare",
+"originalPrice":499,
+"price":129,
+"rating":4,
+"description":"Struggling with puffy eyes, dull skin, or open pores? This SkinSide Ice Roller is a simple yet powerful solution used by many skincare lovers.It helps reduce puffiness, tighten pores, calm acne, and improve blood circulation, giving your skin a fresh and natural glow. The cooling effect instantly relaxes your skin and can even help reduce redness and irritation after a long day.Made with a reusable and unbreakable design, it’s safe, easy to use, and perfect for both men and women. Just freeze, roll, and feel the difference.✨ Many users love how it gives a refreshing, spa-like experience at home without expensive treatments.",
+"offerNote":"⚡ Limited Time Deal – This viral ice roller is trending fast!",
+"image":"https://m.media-amazon.com/images/I/61TRYeixXmL._SL1500_.jpg",
+"amazon":"https://amzn.to/4rDqA1U"
 }
 
 
