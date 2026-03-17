@@ -337,6 +337,20 @@ const products = [
 "image":"https://m.media-amazon.com/images/I/61TRYeixXmL._SL1500_.jpg",
 "amazon":"https://amzn.to/4rDqA1U"
 }
+  ,
+
+{
+"id":27,
+"name":"Smart LED Digital Alarm Clock with Temperature & Date Display | Loud Alarm, USB Powered Bedside Clock for Bedroom & Office | Modern Desk Clock with Continuous Display",
+"category":"Luxury Gadgets",
+"originalPrice":1999,
+"price":499,
+"rating":4,
+"description":"Smart LED Digital Alarm Clock with Temperature & Date Display | Loud Alarm, USB Powered Bedside Clock for Bedroom & Office | Modern Desk Clock with Continuous Display✨ A must-have for anyone looking for a smart, budget-friendly, and useful everyday product.",
+"offerNote":"⚡ Limited Time Deal – This trending digital clock is selling fast!",
+"image":"https://m.media-amazon.com/images/I/61vnaJIOY8L._SL1160_.jpg",
+"amazon":"https://amzn.to/4sf8gwZ"
+}
 
 
   
