@@ -389,6 +389,19 @@ const products = [
 "offerNote":"⚡ Limited Time Deal – Keep your car spotless with this powerful vacuum! Grab it now before the price increases or stock runs out 🚗✨",
 "image":"https://m.media-amazon.com/images/I/71pQ3So6+1L._SL1500_.jpg",
 "amazon":"https://amzn.to/4bs18WR"
+},
+
+{
+"id":31,
+"name":"CAR SAAZ Universal Fit Curly Car Floor Mat Set of 5 | Anti-Slip Noodle Design | Waterproof, Dustproof & All-Weather Car Mats for Interior Protection (Black)",
+"category":"Luxury Gadgets",
+"originalPrice":2999,
+"price":1329,
+"rating":4,
+"description":"Protect your car interior from dust, mud, and spills with this CAR SAAZ Curly Car Floor Mat Set. Designed with a curly noodle texture, it effectively traps dirt and debris, keeping your car clean every day.Made from durable, waterproof material, these mats are perfect for all weather conditions—rain, dust, or daily use. The universal fit design makes it suitable for almost all cars, while the anti-slip base keeps the mats securely in place.Easy to clean and maintain, just shake or wash to keep them fresh.✨ A must-have accessory for anyone who wants a clean, stylish, and protected car interior.",
+"offerNote":"⚡⚡ Limited Time Deal – Upgrade your car interior with these premium floor mats! Grab now before stock runs out 🚗✨",
+"image":"https://m.media-amazon.com/images/I/91-s5x4U7lL._SL1500_.jpg",
+"amazon":"https://amzn.to/4lB4efX"
 }
 
 
