@@ -373,9 +373,22 @@ const products = [
 "price":1496,
 "rating":4,
 "description":"Tired of dust, crumbs, and dirt inside your car? This UN1QUE Car Vacuum Cleaner makes cleaning quick and effortless. With 6000Pa powerful suction, it easily removes dust, food particles, and debris from seats, carpets, and tight corners.The built-in LED light helps you clean even in dark areas, while the 4-meter long cord allows easy reach throughout your car. Equipped with a HEPA and stainless steel filter, it ensures efficient cleaning and better dust filtration.",
-"offerNote":"⚡ Limited Time Deal – Keep your car spotless with this powerful vacuum! Grab it now before the price increases or stock runs out 🚗✨",
+"offerNote":"⚡ Limited Time Deal – Keep your car spotless with this must-have cleaning kit! Grab it now before stock runs out 🚗✨",
 "image":"https://m.media-amazon.com/images/I/61IB82MtijL._SL1500_.jpg",
 "amazon":"https://amzn.to/4lAhj9f"
+},
+
+{
+"id":30,
+"name":"Azaria 5PCS Microfiber Car Duster Kit | Scratch-Free Interior & Exterior Car Cleaning Tool | Extendable Handle Dust Remover for Car & Bike Detailing (A1)",
+"category":"Luxury Gadgets",
+"originalPrice":999,
+"price":474,
+"rating":4,
+"description":"Azaria 5PCS Microfiber Car Duster Kit | Scratch-Free Interior & Exterior Car Cleaning Tool | Extendable Handle Dust Remover for Car & Bike Detailing (A1)",
+"offerNote":"⚡ Limited Time Deal – Keep your car spotless with this powerful vacuum! Grab it now before the price increases or stock runs out 🚗✨",
+"image":"https://m.media-amazon.com/images/I/71pQ3So6+1L._SL1500_.jpg",
+"amazon":"https://amzn.to/4bs18WR"
 }
 
 
