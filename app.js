@@ -363,6 +363,19 @@ const products = [
 "offerNote":"👉 LIMITED TIME DEAL ⚡💰 Grab it now at best price on Amazon 📉 Price may increase anytime!",
 "image":"https://m.media-amazon.com/images/I/61ZERX1dg1L._SX679_.jpg",
 "amazon":"https://amzn.to/4uBNoBK"
+},
+
+{
+"id":29,
+"name":"UN1QUE Car Vacuum Cleaner 6000Pa Powerful Suction | DC 12V Portable Car Vacuum with LED Light, HEPA & Steel Filter | 4m Cord for Deep Car Cleaning (Cigarette Lighter Use)",
+"category":"Luxury Gadgets",
+"originalPrice":1999,
+"price":1496,
+"rating":4,
+"description":"Tired of dust, crumbs, and dirt inside your car? This UN1QUE Car Vacuum Cleaner makes cleaning quick and effortless. With 6000Pa powerful suction, it easily removes dust, food particles, and debris from seats, carpets, and tight corners.The built-in LED light helps you clean even in dark areas, while the 4-meter long cord allows easy reach throughout your car. Equipped with a HEPA and stainless steel filter, it ensures efficient cleaning and better dust filtration.",
+"offerNote":"⚡ Limited Time Deal – Keep your car spotless with this powerful vacuum! Grab it now before the price increases or stock runs out 🚗✨",
+"image":"https://m.media-amazon.com/images/I/61IB82MtijL._SL1500_.jpg",
+"amazon":"https://amzn.to/4lAhj9f"
 }
 
 
