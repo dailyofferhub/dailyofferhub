@@ -350,7 +350,22 @@ const products = [
 "offerNote":"⚡ Limited Time Deal – This trending digital clock is selling fast!",
 "image":"https://m.media-amazon.com/images/I/61vnaJIOY8L._SL1160_.jpg",
 "amazon":"https://amzn.to/4sf8gwZ"
+},
+
+{
+"id":28,
+"name":"Safari Forge 34L Laptop Backpack | Rain Cover, Anti-Theft Pocket, 3 Compartments",
+"category":"Luxury BackPacks",
+"originalPrice":3999,
+"price":999,
+"rating":4,
+"description":"Spacious, stylish, and travel-friendly backpack with 3 compartments, rain cover, anti-theft pocket, trolley sleeve, and organizer. Perfect for college, school, office, and daily use.",
+"offerNote":"👉 LIMITED TIME DEAL ⚡💰 Grab it now at best price on Amazon 📉 Price may increase anytime!",
+"image":"https://m.media-amazon.com/images/I/61ZERX1dg1L._SX679_.jpg",
+"amazon":"https://amzn.to/4uBNoBK"
 }
+
+
 
 
   
