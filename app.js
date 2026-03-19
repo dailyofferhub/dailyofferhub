@@ -402,6 +402,19 @@ const products = [
 "offerNote":"⚡⚡ Limited Time Deal – Upgrade your car interior with these premium floor mats! Grab now before stock runs out 🚗✨",
 "image":"https://m.media-amazon.com/images/I/91-s5x4U7lL._SL1500_.jpg",
 "amazon":"https://amzn.to/4lB4efX"
+},
+
+{
+"id":32,
+"name":"Fire-Boltt Brillia Smartwatch AMOLED Display | Bluetooth Calling Fitness Watch | SpO2 & Heart Rate Tracker | Best Smartwatch 2026)",
+"category":"Luxury Gadgets",
+"originalPrice":1699,
+"price":18999,
+"rating":4,
+"description":"Upgrade your style and fitness with the Fire-Boltt Brillia Smartwatch. Featuring a stunning 2.02” AMOLED display, Bluetooth calling, and advanced health tracking like SpO2 & heart rate monitoring. Perfect for daily fitness, sports, and smart lifestyle.",
+"offerNote":"⚡ Limited Time Deal Best Price on Amazon Stylish + Fitness ComboGrab Now Before Stock Ends!",
+"image":"https://m.media-amazon.com/images/I/71PtxgLJltL._SL1500_.jpg",
+"amazon":"https://amzn.to/4se9Mzs"
 }
 
 
