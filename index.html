@@ -7,9 +7,7 @@
 <title>DAILY OFFER HUB | Premium Deals</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
 <script src="https://cdn.tailwindcss.com"></script>
 
 <script>
@@ -37,9 +35,8 @@ backdrop-filter:blur(10px);
 background:linear-gradient(135deg,#1e293b 0%,#0369a1 100%);
 }
 
-/* ZOOM FIX */
+/* ✅ CLEAN ZOOM STYLE (important) */
 .image-container{
-position:relative;
 overflow:hidden;
 }
 
@@ -48,18 +45,7 @@ max-height:260px;
 cursor:zoom-in;
 display:block;
 margin:auto;
-}
-
-.zoom-view{
-position:absolute;
-top:0;
-left:0;
-width:100%;
-height:100%;
-background-repeat:no-repeat;
-background-size:800px;
-display:none;
-z-index:10;
+transition:transform 0.2s ease;
 }
 
 </style>
@@ -84,10 +70,10 @@ DAILY<span class="text-brand-600">OFFER HUB</span>
 </span>
 </div>
 
-<!-- ✅ ABOUT BUTTON -->
+<!-- ✅ FIXED BUTTON -->
 <div>
 <button onclick="showAbout()" class="text-gray-700 font-medium hover:text-brand-600">
-About
+About us
 </button>
 </div>
 
@@ -129,7 +115,7 @@ Featured Products
 
 
 
-<!-- ✅ ABOUT SECTION (HIDDEN) -->
+<!-- ABOUT SECTION -->
 
 <section id="about-section" style="display:none;" class="bg-white py-12 mt-10">
 
@@ -138,16 +124,13 @@ Featured Products
 <h2 class="text-3xl font-bold text-gray-900 mb-4">About Daily Offer Hub</h2>
 
 <p class="text-gray-600 text-lg leading-relaxed">
-Daily Offer Hub is your trusted destination to discover the best deals on premium products.
-We carefully select high-quality, trending, and value-for-money items from Amazon to help you make smart buying decisions.
+Daily Offer Hub helps you discover the best deals on premium products.
+We carefully select high-quality and trending items from Amazon so you can shop confidently.
 Our goal is to save your time and money by showing only the best offers available online.
 </p>
 
 <p class="text-gray-500 mt-4">
-✔ Trusted Product Suggestions  
-✔ Best Price Deals  
-✔ Direct Amazon Purchase  
-✔ Updated Trending Products
+✔ Trusted Products • ✔ Best Deals • ✔ Direct Amazon Links • ✔ Daily Updates
 </p>
 
 </div>
@@ -162,37 +145,26 @@ Our goal is to save your time and money by showing only the best offers availabl
 class="fixed inset-y-0 right-0 z-50 w-full max-w-md bg-white shadow-2xl hidden flex-col">
 
 <div class="px-6 py-4 border-b border-gray-200 flex justify-between items-center">
-
-<h2 class="text-lg font-bold text-gray-900">
-Your Cart
-</h2>
-
+<h2 class="text-lg font-bold text-gray-900">Your Cart</h2>
 <button onclick="toggleCart()">
 <i class="fa-solid fa-xmark text-xl"></i>
 </button>
-
 </div>
 
 <div id="cart-items" class="flex-1 overflow-y-auto p-6 space-y-6">
-
 <div id="empty-cart-msg" class="text-center text-gray-500 mt-10">
 Your cart is empty.
 </div>
-
 </div>
 
 <div class="border-t border-gray-200 p-6 bg-gray-50">
-
 <div class="flex justify-between text-base font-medium text-gray-900 mb-4">
 <p>Subtotal</p>
 <p id="cart-total">₹0</p>
 </div>
-
 </div>
 
 </div>
-
-
 
 <script src="app.js"></script>
 
