@@ -40,48 +40,57 @@ const products = [
 "price":1699,
 "rating":4,
 "description":"Upgrade your style and fitness with the Fire-Boltt Brillia Smartwatch. Featuring a stunning 2.02” AMOLED display, Bluetooth calling, and advanced health tracking like SpO2 & heart rate monitoring. Perfect for daily fitness, sports, and smart lifestyle.",
-"offerNote":"⚡ Limited Time Deal Best Price on Amazon Stylish + Fitness ComboGrab Now Before Stock Ends!",
+"offerNote":"⚡ Limited Time Deal Best Price on Amazon Stylish + Fitness Combo Grab Now Before Stock Ends!",
 "image":"https://m.media-amazon.com/images/I/71PtxgLJltL._SL1500_.jpg",
 "amazon":"https://amzn.to/4se9Mzs"
 }
 
 ]
 
+// INR format
 function formatINR(amount){
-return "₹"+amount.toLocaleString("en-IN")
+return "₹" + amount.toLocaleString("en-IN")
 }
 
-// USD conversion (approx)
+// USD format
 function formatUSD(amount){
-const usd = amount / 83   // 1 USD ≈ ₹83
-return "$"+usd.toFixed(2)
+const usd = amount / 83
+return "$" + usd.toFixed(2)
 }
 
+// URL product highlight
 function getProductFromURL(){
-
-const params=new URLSearchParams(window.location.search)
-const productId=params.get("product")
+const params = new URLSearchParams(window.location.search)
+const productId = params.get("product")
 
 if(!productId) return
 
-const index=products.findIndex(p=>p.id==productId)
+const index = products.findIndex(p => p.id == productId)
 
-if(index>-1){
-const selectedProduct=products.splice(index,1)[0]
+if(index > -1){
+const selectedProduct = products.splice(index,1)[0]
 products.unshift(selectedProduct)
 }
-
 }
 
+// Render products
 function renderProducts(){
 
-const grid=document.getElementById("product-grid")
+const grid = document.getElementById("product-grid")
 
-products.forEach(product=>{
+if(!grid){
+console.error("Grid not found")
+return
+}
 
-const discount=Math.round(((product.originalPrice-product.price)/product.originalPrice)*100)
+// clear before render
+grid.innerHTML = ""
 
-grid.innerHTML+=`
+products.forEach(product => {
+
+const discount = Math.round(((product.originalPrice - product.price) / product.originalPrice) * 100)
+
+grid.innerHTML += `
 
 <div class="bg-white rounded-xl shadow-md border flex flex-col p-4">
 
@@ -110,12 +119,10 @@ ${product.description}
 -${discount}%
 </span>
 
-<!-- USD PRICE (MAIN) -->
 <div style="font-size:26px;font-weight:bold;">
 ${formatUSD(product.price)}
 </div>
 
-<!-- INR PRICE (SMALL) -->
 <div style="font-size:14px;color:#555;">
 ${formatINR(product.price)}
 </div>
@@ -134,28 +141,28 @@ Buy on Amazon
 </a>
 
 </div>
-`
 
+`
 })
 
 }
 
+// Zoom effect
 function zoomImage(e,img){
+const rect = img.getBoundingClientRect()
 
-const rect=img.getBoundingClientRect()
+const x = ((e.clientX - rect.left) / rect.width - 0.5) * 2
+const y = ((e.clientY - rect.top) / rect.height - 0.5) * 2
 
-const x=((e.clientX-rect.left)/rect.width-0.5)*2
-const y=((e.clientY-rect.top)/rect.height-0.5)*2
-
-img.style.transform=`scale(2) translate(${-x*40}px,${-y*40}px)`
-
+img.style.transform = `scale(2) translate(${-x*40}px,${-y*40}px)`
 }
 
 function resetZoom(img){
-img.style.transform="scale(1)"
+img.style.transform = "scale(1)"
 }
 
-document.addEventListener("DOMContentLoaded",()=>{
+// Run after load
+document.addEventListener("DOMContentLoaded", () => {
 getProductFromURL()
 renderProducts()
 })
