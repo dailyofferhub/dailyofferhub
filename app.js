@@ -1,63 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Daily Offer Hub</title>
-<script src="https://cdn.tailwindcss.com"></script>
-</head>
+// ================= PRODUCT DATA =================
 
-<body class="bg-gray-100">
-
-<header class="bg-white shadow p-4 text-center">
-<h1 class="text-2xl font-bold">🔥 Daily Offer Hub</h1>
-<p class="text-sm text-gray-500">Best Deals • Quality Products • Limited Offers</p>
-</header>
-
-<div id="product-grid" class="grid md:grid-cols-3 gap-6 p-6"></div>
-
-<section class="bg-white mt-10 p-6 shadow text-center">
-<h2 class="text-xl font-bold mb-2">About Us</h2>
-<p class="text-gray-600">
-We suggest only high-quality and trending products with the best offers.
-</p>
-</section>
-
-<script>
-
-// ✅ TEST DATA
 const products = [
 {
 id: 1,
-name: "Fire-Boltt Brillia Smartwatch",
+name: "Fire-Boltt Brillia Smartwatch AMOLED Display | Bluetooth Calling Fitness Watch",
 originalPrice: 18999,
 price: 1699,
-description: "Best smartwatch with AMOLED display & Bluetooth calling.",
+description: "Premium smartwatch with AMOLED display, Bluetooth calling, SpO2 & heart rate tracking.",
 image: "https://m.media-amazon.com/images/I/71PtxgLJltL._SL1500_.jpg",
 amazon: "https://amzn.to/4se9Mzs"
 }
 ]
 
-// ✅ FUNCTIONS
+// ================= FORMAT FUNCTIONS =================
+
 function formatINR(amount){
 return "₹" + amount.toLocaleString("en-IN")
 }
 
 function formatUSD(amount){
-return "$" + (amount/83).toFixed(2)
+return "$" + (amount / 83).toFixed(2)
 }
 
-// ✅ RENDER FUNCTION
+// ================= RENDER PRODUCTS =================
+
 function renderProducts(){
 
 const grid = document.getElementById("product-grid")
 
-// 🔴 IMPORTANT DEBUG
-console.log("GRID:", grid)
-console.log("PRODUCTS:", products)
-
 if(!grid){
-alert("Grid not found ❌")
+console.error("❌ product-grid not found")
 return
 }
 
@@ -65,22 +37,52 @@ let html = ""
 
 products.forEach(product => {
 
-const discount = Math.round(((product.originalPrice-product.price)/product.originalPrice)*100)
+const discount = Math.round(((product.originalPrice - product.price) / product.originalPrice) * 100)
 
 html += `
-<div class="bg-white p-4 shadow rounded">
 
-<img src="${product.image}" style="height:200px;object-fit:contain;margin:auto">
+<div class="bg-white rounded-xl shadow-md border p-4">
 
-<h3 class="font-bold mt-3">${product.name}</h3>
+<div style="background:#cc0c39;color:white;font-size:12px;padding:6px 10px;border-radius:4px;width:fit-content;margin-bottom:10px;">
+Limited time deal
+</div>
 
-<p class="text-sm text-gray-600">${product.description}</p>
+<!-- IMAGE WITH ZOOM -->
+<div class="image-container">
 
-<p class="text-red-600 font-bold mt-2">-${discount}%</p>
+<img src="${product.image}"
+onmousemove="zoomImage(event,this)"
+onmouseleave="hideZoom(this)">
 
-<p class="text-xl font-bold">${formatUSD(product.price)}</p>
+<div class="zoom-view"></div>
 
-<p class="text-sm text-gray-500">${formatINR(product.price)}</p>
+</div>
+
+<h3 class="font-semibold mt-3 text-sm">
+${product.name}
+</h3>
+
+<p class="text-xs text-gray-500 mt-1">
+${product.description}
+</p>
+
+<p class="text-red-600 font-bold mt-2">
+-${discount}%
+</p>
+
+<!-- USD -->
+<p class="text-xl font-bold">
+${formatUSD(product.price)}
+</p>
+
+<!-- INR -->
+<p class="text-sm text-gray-500">
+${formatINR(product.price)}
+</p>
+
+<p class="text-sm text-gray-500">
+M.R.P: <span class="line-through">${formatINR(product.originalPrice)}</span>
+</p>
 
 <a href="${product.amazon}" target="_blank"
 class="block mt-3 bg-yellow-400 text-center p-2 rounded font-bold">
@@ -88,16 +90,38 @@ Buy on Amazon
 </a>
 
 </div>
+
 `
 })
 
 grid.innerHTML = html
 }
 
-// ✅ RUN DIRECTLY (NO DOMContentLoaded ISSUE)
+// ================= ZOOM FUNCTION =================
+
+function zoomImage(e,img){
+
+const container = img.parentElement
+const zoom = container.querySelector(".zoom-view")
+
+zoom.style.display = "block"
+zoom.style.backgroundImage = `url(${img.src})`
+
+const rect = img.getBoundingClientRect()
+
+const x = ((e.clientX - rect.left) / rect.width) * 100
+const y = ((e.clientY - rect.top) / rect.height) * 100
+
+zoom.style.backgroundPosition = `${x}% ${y}%`
+}
+
+function hideZoom(img){
+const zoom = img.parentElement.querySelector(".zoom-view")
+zoom.style.display = "none"
+}
+
+// ================= START =================
+
+document.addEventListener("DOMContentLoaded", () => {
 renderProducts()
-
-</script>
-
-</body>
-</html>
+})
