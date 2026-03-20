@@ -53,19 +53,7 @@ Limited time deal
 <img src="${product.image}"
 onmousemove="zoomImage(event,this)"
 onmouseleave="hideZoom(this)"
-style="max-height:260px;display:block;margin:auto;transition:opacity 0.2s;">
-
-<div class="zoom-view" style="
-position:absolute;
-top:0;
-left:0;
-width:100%;
-height:100%;
-background-repeat:no-repeat;
-background-size:800px;
-display:none;
-z-index:10;
-"></div>
+style="max-height:260px;display:block;margin:auto;transition:transform 0.2s;">
 
 </div>
 
@@ -106,30 +94,20 @@ Buy on Amazon
 grid.innerHTML = html
 }
 
-// ================= ZOOM FUNCTION =================
+// ================= REAL ZOOM FUNCTION (FIXED) =================
 
 function zoomImage(e,img){
 
-const container = img.parentElement
-const zoom = container.querySelector(".zoom-view")
-
-zoom.style.display = "block"
-zoom.style.backgroundImage = `url(${img.src})`
-
 const rect = img.getBoundingClientRect()
 
-const x = ((e.clientX - rect.left) / rect.width) * 100
-const y = ((e.clientY - rect.top) / rect.height) * 100
+const x = (e.clientX - rect.left) / rect.width
+const y = (e.clientY - rect.top) / rect.height
 
-zoom.style.backgroundPosition = `${x}% ${y}%`
-
-img.style.opacity = "0"
+img.style.transform = `scale(2) translate(${-x*50}px, ${-y*50}px)`
 }
 
 function hideZoom(img){
-const zoom = img.parentElement.querySelector(".zoom-view")
-zoom.style.display = "none"
-img.style.opacity = "1"
+img.style.transform = "scale(1)"
 }
 
 // ================= ABOUT BUTTON FUNCTION =================
