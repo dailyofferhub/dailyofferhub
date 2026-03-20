@@ -69,19 +69,23 @@ ${product.description}
 -${discount}%
 </p>
 
-<!-- PRICE (USD MAIN) -->
+<!-- ✅ USD PRICE (MAIN) -->
 <p class="text-xl font-bold">
 ${formatUSD(product.price)}
+<span class="text-xs text-gray-500">
+(${formatINR(product.price)})
+</span>
 </p>
 
-<!-- ORIGINAL PRICE (USD) -->
+<!-- ✅ ORIGINAL PRICE (USD) -->
 <p class="text-sm text-gray-500">
-M.R.P: <span class="line-through">${formatUSD(product.originalPrice)}</span>
-</p>
-
-<!-- INR (SMALL) -->
-<p class="text-xs text-gray-400">
-${formatINR(product.price)}
+M.R.P: 
+<span class="line-through">
+${formatUSD(product.originalPrice)}
+</span>
+<span class="text-xs">
+(${formatINR(product.originalPrice)})
+</span>
 </p>
 
 <a href="${product.amazon}" target="_blank"
@@ -122,8 +126,6 @@ const about = document.getElementById("about-section")
 if(!about) return
 
 about.style.display = "block"
-
-// scroll smoothly to top of about section
 about.scrollIntoView({ behavior: "smooth", block: "start" })
 }
 
