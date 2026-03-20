@@ -37,8 +37,7 @@ backdrop-filter:blur(10px);
 background:linear-gradient(135deg,#1e293b 0%,#0369a1 100%);
 }
 
-/* ✅ FIXED ZOOM (IMPORTANT) */
-
+/* ZOOM FIX */
 .image-container{
 position:relative;
 overflow:hidden;
@@ -51,16 +50,14 @@ display:block;
 margin:auto;
 }
 
-/* 🔥 FIXED: now zoom works INSIDE image */
 .zoom-view{
 position:absolute;
 top:0;
-left:0;   /* FIXED */
+left:0;
 width:100%;
 height:100%;
 background-repeat:no-repeat;
 background-size:800px;
-background-color:white;
 display:none;
 z-index:10;
 }
@@ -81,13 +78,17 @@ z-index:10;
 <div class="flex justify-between items-center h-16">
 
 <div class="flex items-center">
-
 <img src="image/logo.jpeg.jpeg" class="h-10 w-10 mr-2">
-
 <span class="font-bold text-2xl text-gray-900">
 DAILY<span class="text-brand-600">OFFER HUB</span>
 </span>
+</div>
 
+<!-- ✅ ABOUT BUTTON -->
+<div>
+<button onclick="showAbout()" class="text-gray-700 font-medium hover:text-brand-600">
+About
+</button>
 </div>
 
 </div>
@@ -98,7 +99,7 @@ DAILY<span class="text-brand-600">OFFER HUB</span>
 
 
 
-<!-- HERO SECTION -->
+<!-- HERO -->
 
 <header class="hero-gradient pt-24 pb-16 text-center text-white">
 
@@ -114,7 +115,7 @@ Compare and buy from Amazon directly from our curated list of premium items.
 
 
 
-<!-- PRODUCTS SECTION -->
+<!-- PRODUCTS -->
 
 <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
 
@@ -128,9 +129,9 @@ Featured Products
 
 
 
-<!-- ✅ ABOUT US (ADDED) -->
+<!-- ✅ ABOUT SECTION (HIDDEN) -->
 
-<section class="bg-white py-12 mt-10">
+<section id="about-section" style="display:none;" class="bg-white py-12 mt-10">
 
 <div class="max-w-4xl mx-auto text-center px-6">
 
@@ -155,7 +156,7 @@ Our goal is to save your time and money by showing only the best offers availabl
 
 
 
-<!-- CART DRAWER -->
+<!-- CART -->
 
 <div id="cart-drawer"
 class="fixed inset-y-0 right-0 z-50 w-full max-w-md bg-white shadow-2xl hidden flex-col">
@@ -183,10 +184,8 @@ Your cart is empty.
 <div class="border-t border-gray-200 p-6 bg-gray-50">
 
 <div class="flex justify-between text-base font-medium text-gray-900 mb-4">
-
 <p>Subtotal</p>
 <p id="cart-total">₹0</p>
-
 </div>
 
 </div>
