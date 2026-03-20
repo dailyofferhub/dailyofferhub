@@ -3,12 +3,12 @@
 const products = [
 {
 id: 1,
-name: "Fire-Boltt Brillia Smartwatch AMOLED Display | Bluetooth Calling Fitness Watch",
-originalPrice: 18999,
-price: 1699,
-description: "Premium smartwatch with AMOLED display, Bluetooth calling, SpO2 & heart rate tracking.",
-image: "https://m.media-amazon.com/images/I/71PtxgLJltL._SL1500_.jpg",
-amazon: "https://amzn.to/4se9Mzs"
+name: "Amazon Echo Dot (Latest Model) Smart Speaker with Alexa | Rich Sound | Compact Design for Home, Bedroom & Office | Glacier White",
+originalPrice:4590.52 ,
+price: 4590.52,
+description: "Upgrade your home with the Amazon Echo Dot, a compact smart speaker designed to deliver clear vocals and balanced sound. Powered by Alexa, it helps you control smart home devices, play music, set reminders, and get instant information using just your voice.Its sleek and modern design fits perfectly in bedrooms, living rooms, and office spaces. Whether you want to stream music, manage your daily routine, or enhance your smart home experience, the Echo Dot is a reliable and user-friendly choice.",
+image: "https://ibb.co/LXDWg78m",
+amazon: "https://www.amazon.com/dp/B09B94RL1R?tag=aadhithyan637-20"
 }
 ]
 
