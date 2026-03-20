@@ -47,13 +47,13 @@ html += `
 Limited time deal
 </div>
 
-<!-- IMAGE WITH ZOOM -->
-<div class="image-container" style="position:relative;overflow:hidden;">
+<!-- ✅ FIXED IMAGE (CLEAR + FULL VIEW) -->
+<div class="image-container" style="position:relative;overflow:hidden;height:260px;display:flex;align-items:center;justify-content:center;">
 
 <img src="${product.image}"
 onmousemove="zoomImage(event,this)"
 onmouseleave="hideZoom(this)"
-style="max-height:260px;display:block;margin:auto;transition:transform 0.2s;">
+style="width:100%;height:100%;object-fit:contain;transition:transform 0.2s;">
 
 </div>
 
@@ -77,14 +77,11 @@ ${formatUSD(product.price)}
 </span>
 </p>
 
-<!-- ✅ ORIGINAL PRICE (USD) -->
+<!-- ❌ REMOVED INR FROM MRP -->
 <p class="text-sm text-gray-500">
 M.R.P: 
 <span class="line-through">
 ${formatUSD(product.originalPrice)}
-</span>
-<span class="text-xs">
-(${formatINR(product.originalPrice)})
 </span>
 </p>
 
