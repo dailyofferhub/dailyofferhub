@@ -106,7 +106,7 @@ Buy on Amazon
 grid.innerHTML = html
 }
 
-// ================= ZOOM FUNCTION (FIXED) =================
+// ================= ZOOM FUNCTION =================
 
 function zoomImage(e,img){
 
@@ -132,30 +132,24 @@ zoom.style.display = "none"
 img.style.opacity = "1"
 }
 
-// ================= ABOUT US (AUTO ADD) =================
+// ================= ABOUT BUTTON FUNCTION =================
 
-function addAboutSection(){
+function showAbout(){
 
-const aboutHTML = `
-<section style="background:#fff;padding:40px;margin-top:40px;text-align:center;">
-<h2 style="font-size:28px;font-weight:bold;margin-bottom:10px;">About Daily Offer Hub</h2>
-<p style="color:#555;max-width:700px;margin:auto;">
-Daily Offer Hub helps you discover the best deals on premium products.
-We select high-quality and trending items from Amazon so you can buy with confidence.
-Our goal is to save your time and money by showing only the best offers available online.
-</p>
-<p style="margin-top:15px;color:#777;">
-✔ Trusted Products • ✔ Best Deals • ✔ Direct Amazon Links • ✔ Daily Updates
-</p>
-</section>
-`
+const about = document.getElementById("about-section")
 
-document.body.insertAdjacentHTML("beforeend", aboutHTML)
+if(!about) return
+
+if(about.style.display === "none" || about.style.display === ""){
+about.style.display = "block"
+about.scrollIntoView({ behavior: "smooth" })
+}else{
+about.style.display = "none"
+}
 }
 
 // ================= START =================
 
 document.addEventListener("DOMContentLoaded", () => {
 renderProducts()
-addAboutSection()
 })
