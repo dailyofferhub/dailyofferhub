@@ -1,3 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Offer Hub</title>
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100">
+
+<!-- HEADER -->
+<header class="bg-white shadow p-4 text-center">
+<h1 class="text-2xl font-bold">🔥 Daily Offer Hub</h1>
+<p class="text-sm text-gray-500">Best Deals • Quality Products • Limited Offers</p>
+</header>
+
+<!-- PRODUCT GRID -->
+<div id="product-grid" class="grid md:grid-cols-3 gap-6 p-6"></div>
+
+<!-- ABOUT US -->
+<section class="bg-white mt-10 p-6 shadow text-center">
+<h2 class="text-xl font-bold mb-2">About Us</h2>
+<p class="text-gray-600 max-w-2xl mx-auto">
+We suggest only high-quality and trending products with the best offers available online.  
+Our goal is to help you save money while buying the best products from trusted platforms like Amazon.  
+Every product listed here is selected based on quality, price, and customer value.
+</p>
+</section>
+
+<script>
+
 const products = [
 
 {
@@ -13,16 +45,16 @@ const products = [
 "amazon":"https://amzn.to/4se9Mzs"
 }
 
-
-
-
-  
-
-
 ]
 
 function formatINR(amount){
 return "₹"+amount.toLocaleString("en-IN")
+}
+
+// USD conversion (approx)
+function formatUSD(amount){
+const usd = amount / 83   // 1 USD ≈ ₹83
+return "$"+usd.toFixed(2)
 }
 
 function getProductFromURL(){
@@ -78,7 +110,13 @@ ${product.description}
 -${discount}%
 </span>
 
+<!-- USD PRICE (MAIN) -->
 <div style="font-size:26px;font-weight:bold;">
+${formatUSD(product.price)}
+</div>
+
+<!-- INR PRICE (SMALL) -->
+<div style="font-size:14px;color:#555;">
 ${formatINR(product.price)}
 </div>
 
@@ -121,3 +159,8 @@ document.addEventListener("DOMContentLoaded",()=>{
 getProductFromURL()
 renderProducts()
 })
+
+</script>
+
+</body>
+</html>
