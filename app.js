@@ -48,13 +48,24 @@ Limited time deal
 </div>
 
 <!-- IMAGE WITH ZOOM -->
-<div class="image-container">
+<div class="image-container" style="position:relative;overflow:hidden;">
 
 <img src="${product.image}"
 onmousemove="zoomImage(event,this)"
-onmouseleave="hideZoom(this)">
+onmouseleave="hideZoom(this)"
+style="max-height:260px;display:block;margin:auto;transition:opacity 0.2s;">
 
-<div class="zoom-view"></div>
+<div class="zoom-view" style="
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background-repeat:no-repeat;
+background-size:800px;
+display:none;
+z-index:10;
+"></div>
 
 </div>
 
@@ -70,12 +81,10 @@ ${product.description}
 -${discount}%
 </p>
 
-<!-- USD -->
 <p class="text-xl font-bold">
 ${formatUSD(product.price)}
 </p>
 
-<!-- INR -->
 <p class="text-sm text-gray-500">
 ${formatINR(product.price)}
 </p>
@@ -97,7 +106,7 @@ Buy on Amazon
 grid.innerHTML = html
 }
 
-// ================= ZOOM FUNCTION =================
+// ================= ZOOM FUNCTION (FIXED) =================
 
 function zoomImage(e,img){
 
@@ -113,15 +122,40 @@ const x = ((e.clientX - rect.left) / rect.width) * 100
 const y = ((e.clientY - rect.top) / rect.height) * 100
 
 zoom.style.backgroundPosition = `${x}% ${y}%`
+
+img.style.opacity = "0"
 }
 
 function hideZoom(img){
 const zoom = img.parentElement.querySelector(".zoom-view")
 zoom.style.display = "none"
+img.style.opacity = "1"
+}
+
+// ================= ABOUT US (AUTO ADD) =================
+
+function addAboutSection(){
+
+const aboutHTML = `
+<section style="background:#fff;padding:40px;margin-top:40px;text-align:center;">
+<h2 style="font-size:28px;font-weight:bold;margin-bottom:10px;">About Daily Offer Hub</h2>
+<p style="color:#555;max-width:700px;margin:auto;">
+Daily Offer Hub helps you discover the best deals on premium products.
+We select high-quality and trending items from Amazon so you can buy with confidence.
+Our goal is to save your time and money by showing only the best offers available online.
+</p>
+<p style="margin-top:15px;color:#777;">
+✔ Trusted Products • ✔ Best Deals • ✔ Direct Amazon Links • ✔ Daily Updates
+</p>
+</section>
+`
+
+document.body.insertAdjacentHTML("beforeend", aboutHTML)
 }
 
 // ================= START =================
 
 document.addEventListener("DOMContentLoaded", () => {
 renderProducts()
+addAboutSection()
 })
