@@ -7,7 +7,7 @@ name: "Amazon Echo Dot (Latest Model) Smart Speaker with Alexa | Rich Sound | Co
 originalPrice:4590.52 ,
 price: 4590.52,
 description: "Upgrade your home with the Amazon Echo Dot, a compact smart speaker designed to deliver clear vocals and balanced sound. Powered by Alexa, it helps you control smart home devices, play music, set reminders, and get instant information using just your voice.Its sleek and modern design fits perfectly in bedrooms, living rooms, and office spaces. Whether you want to stream music, manage your daily routine, or enhance your smart home experience, the Echo Dot is a reliable and user-friendly choice.",
-image: "https://ibb.co/LXDWg78m",
+image: "https://github.com/Aadhi6374/image/blob/main/SMART%20HOME%20DEVICE%20CONTROL%20YOUR%20HOME%20WITH%20VOICE.jpg?raw=true",
 amazon: "https://www.amazon.com/dp/B09B94RL1R?tag=aadhithyan637-20"
 }
 ]
