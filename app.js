@@ -69,16 +69,19 @@ ${product.description}
 -${discount}%
 </p>
 
+<!-- PRICE (USD MAIN) -->
 <p class="text-xl font-bold">
 ${formatUSD(product.price)}
 </p>
 
+<!-- ORIGINAL PRICE (USD) -->
 <p class="text-sm text-gray-500">
-${formatINR(product.price)}
+M.R.P: <span class="line-through">${formatUSD(product.originalPrice)}</span>
 </p>
 
-<p class="text-sm text-gray-500">
-M.R.P: <span class="line-through">${formatINR(product.originalPrice)}</span>
+<!-- INR (SMALL) -->
+<p class="text-xs text-gray-400">
+${formatINR(product.price)}
 </p>
 
 <a href="${product.amazon}" target="_blank"
@@ -94,7 +97,7 @@ Buy on Amazon
 grid.innerHTML = html
 }
 
-// ================= REAL ZOOM FUNCTION (FIXED) =================
+// ================= ZOOM FUNCTION =================
 
 function zoomImage(e,img){
 
@@ -118,12 +121,10 @@ const about = document.getElementById("about-section")
 
 if(!about) return
 
-if(about.style.display === "none" || about.style.display === ""){
 about.style.display = "block"
-about.scrollIntoView({ behavior: "smooth" })
-}else{
-about.style.display = "none"
-}
+
+// scroll smoothly to top of about section
+about.scrollIntoView({ behavior: "smooth", block: "start" })
 }
 
 // ================= START =================
