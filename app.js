@@ -47,28 +47,30 @@ html += `
 Limited time deal
 </div>
 
-<!-- ✅ FIXED IMAGE (FULL VIEW + CLEAR DETAILS) -->
-<div class="image-container" style="
-position:relative;
-height:320px;
-overflow:hidden;
+<!-- ✅ FINAL IMAGE FIX -->
+<div style="
+width:100%;
+height:auto;
 display:flex;
-align-items:center;
 justify-content:center;
+align-items:center;
+padding:10px 0;
 background:#fff;
+overflow:hidden;
 ">
 
 <img src="${product.image}"
 onmousemove="zoomImage(event,this)"
 onmouseleave="hideZoom(this)"
 style="
+width:auto;
 max-width:100%;
-max-height:100%;
-object-fit:contain;
-object-position:center;
+height:auto;
+max-height:380px;
+display:block;
+image-rendering:high-quality;
 transition:transform 0.25s ease;
 will-change:transform;
-image-rendering:-webkit-optimize-contrast;
 cursor:zoom-in;
 ">
 
@@ -86,7 +88,6 @@ ${product.description}
 -${discount}%
 </p>
 
-<!-- ✅ USD PRICE -->
 <p class="text-xl font-bold">
 ${formatUSD(product.price)}
 <span class="text-xs text-gray-500">
@@ -94,7 +95,6 @@ ${formatUSD(product.price)}
 </span>
 </p>
 
-<!-- MRP -->
 <p class="text-sm text-gray-500">
 M.R.P: 
 <span class="line-through">
@@ -125,7 +125,7 @@ const x = (e.clientX - rect.left) / rect.width
 const y = (e.clientY - rect.top) / rect.height
 
 img.style.transformOrigin = `${x*100}% ${y*100}%`
-img.style.transform = "scale(2)"
+img.style.transform = "scale(2.3)"
 }
 
 function hideZoom(img){
