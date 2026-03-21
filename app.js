@@ -47,13 +47,20 @@ html += `
 Limited time deal
 </div>
 
-<!-- ✅ FIXED IMAGE (CLEAR + FULL VIEW) -->
-<div class="image-container" style="position:relative;overflow:hidden;height:260px;display:flex;align-items:center;justify-content:center;">
+<!-- ✅ FIXED IMAGE (FULL VIEW + CLEAR QUALITY) -->
+<div class="image-container" style="position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center;padding:10px;">
 
 <img src="${product.image}"
 onmousemove="zoomImage(event,this)"
 onmouseleave="hideZoom(this)"
-style="width:100%;height:100%;object-fit:contain;transition:transform 0.2s;">
+style="
+max-width:100%;
+height:auto;
+object-fit:contain;
+image-rendering:auto;
+transition:transform 0.2s ease;
+will-change:transform;
+">
 
 </div>
 
@@ -98,7 +105,7 @@ Buy on Amazon
 grid.innerHTML = html
 }
 
-// ================= ZOOM FUNCTION =================
+// ================= ZOOM FUNCTION (IMPROVED SMOOTH) =================
 
 function zoomImage(e,img){
 
@@ -107,7 +114,8 @@ const rect = img.getBoundingClientRect()
 const x = (e.clientX - rect.left) / rect.width
 const y = (e.clientY - rect.top) / rect.height
 
-img.style.transform = `scale(2) translate(${-x*50}px, ${-y*50}px)`
+img.style.transformOrigin = `${x*100}% ${y*100}%`
+img.style.transform = "scale(2)"
 }
 
 function hideZoom(img){
