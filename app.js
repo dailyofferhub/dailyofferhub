@@ -4,8 +4,8 @@ const products = [
 {
 id: 1,
 name: "Amazon Echo Dot (Latest Model) Smart Speaker with Alexa | Rich Sound | Compact Design for Home, Bedroom & Office | Glacier White",
-originalPrice:4590.52 ,
-price: 4590.52,
+originalPrice:9368.32 ,
+price: 6933.25,
 description: "Upgrade your home with the Amazon Echo Dot, a compact smart speaker designed to deliver clear vocals and balanced sound. Powered by Alexa, it helps you control smart home devices, play music, set reminders, and get instant information using just your voice.Its sleek and modern design fits perfectly in bedrooms, living rooms, and office spaces. Whether you want to stream music, manage your daily routine, or enhance your smart home experience, the Echo Dot is a reliable and user-friendly choice.",
 image: "https://github.com/Aadhi6374/image/blob/main/SMART%20HOME%20DEVICE%20CONTROL%20YOUR%20HOME%20WITH%20VOICE.jpg?raw=true",
 amazon: "https://www.amazon.com/dp/B09B94RL1R?tag=aadhithyan637-20"
@@ -13,10 +13,6 @@ amazon: "https://www.amazon.com/dp/B09B94RL1R?tag=aadhithyan637-20"
 ]
 
 // ================= FORMAT FUNCTIONS =================
-
-function formatINR(amount){
-return "₹" + amount.toLocaleString("en-IN")
-}
 
 function formatUSD(amount){
 return "$" + (amount / 83).toFixed(2)
@@ -47,7 +43,7 @@ html += `
 Limited time deal
 </div>
 
-<!-- ✅ FINAL IMAGE FIX -->
+<!-- IMAGE -->
 <div style="
 width:100%;
 height:auto;
@@ -88,13 +84,12 @@ ${product.description}
 -${discount}%
 </p>
 
+<!-- ✅ ONLY USD PRICE -->
 <p class="text-xl font-bold">
 ${formatUSD(product.price)}
-<span class="text-xs text-gray-500">
-(${formatINR(product.price)})
-</span>
 </p>
 
+<!-- MRP IN USD -->
 <p class="text-sm text-gray-500">
 M.R.P: 
 <span class="line-through">
