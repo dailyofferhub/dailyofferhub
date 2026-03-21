@@ -47,19 +47,29 @@ html += `
 Limited time deal
 </div>
 
-<!-- ✅ FIXED IMAGE (FULL VIEW + CLEAR QUALITY) -->
-<div class="image-container" style="position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center;padding:10px;">
+<!-- ✅ FIXED IMAGE (FULL VIEW + CLEAR DETAILS) -->
+<div class="image-container" style="
+position:relative;
+height:320px;
+overflow:hidden;
+display:flex;
+align-items:center;
+justify-content:center;
+background:#fff;
+">
 
 <img src="${product.image}"
 onmousemove="zoomImage(event,this)"
 onmouseleave="hideZoom(this)"
 style="
 max-width:100%;
-height:auto;
+max-height:100%;
 object-fit:contain;
-image-rendering:auto;
-transition:transform 0.2s ease;
+object-position:center;
+transition:transform 0.25s ease;
 will-change:transform;
+image-rendering:-webkit-optimize-contrast;
+cursor:zoom-in;
 ">
 
 </div>
@@ -76,7 +86,7 @@ ${product.description}
 -${discount}%
 </p>
 
-<!-- ✅ USD PRICE (MAIN) -->
+<!-- ✅ USD PRICE -->
 <p class="text-xl font-bold">
 ${formatUSD(product.price)}
 <span class="text-xs text-gray-500">
@@ -84,7 +94,7 @@ ${formatUSD(product.price)}
 </span>
 </p>
 
-<!-- ❌ REMOVED INR FROM MRP -->
+<!-- MRP -->
 <p class="text-sm text-gray-500">
 M.R.P: 
 <span class="line-through">
@@ -105,7 +115,7 @@ Buy on Amazon
 grid.innerHTML = html
 }
 
-// ================= ZOOM FUNCTION (IMPROVED SMOOTH) =================
+// ================= ZOOM FUNCTION =================
 
 function zoomImage(e,img){
 
@@ -122,7 +132,7 @@ function hideZoom(img){
 img.style.transform = "scale(1)"
 }
 
-// ================= ABOUT BUTTON FUNCTION =================
+// ================= ABOUT BUTTON =================
 
 function showAbout(){
 
