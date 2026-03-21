@@ -4,8 +4,8 @@ const products = [
 {
 id: 1,
 name: "Amazon Echo Dot (Latest Model) Smart Speaker with Alexa | Rich Sound | Compact Design for Home, Bedroom & Office | Glacier White",
-originalPrice:9368.32 ,
-price: 6933.25,
+originalPrice: 99.99,  // ✅ USD
+price: 74.00,         // ✅ USD
 description: "Upgrade your home with the Amazon Echo Dot, a compact smart speaker designed to deliver clear vocals and balanced sound. Powered by Alexa, it helps you control smart home devices, play music, set reminders, and get instant information using just your voice.Its sleek and modern design fits perfectly in bedrooms, living rooms, and office spaces. Whether you want to stream music, manage your daily routine, or enhance your smart home experience, the Echo Dot is a reliable and user-friendly choice.",
 image: "https://github.com/Aadhi6374/image/blob/main/SMART%20HOME%20DEVICE%20CONTROL%20YOUR%20HOME%20WITH%20VOICE.jpg?raw=true",
 amazon: "https://www.amazon.com/dp/B09B94RL1R?tag=aadhithyan637-20"
@@ -15,7 +15,7 @@ amazon: "https://www.amazon.com/dp/B09B94RL1R?tag=aadhithyan637-20"
 // ================= FORMAT FUNCTIONS =================
 
 function formatUSD(amount){
-return "$" + (amount / 83).toFixed(2)
+return "$" + amount.toFixed(2) // ✅ NO conversion
 }
 
 // ================= RENDER PRODUCTS =================
@@ -84,12 +84,12 @@ ${product.description}
 -${discount}%
 </p>
 
-<!-- ✅ ONLY USD PRICE -->
+<!-- ✅ USD PRICE -->
 <p class="text-xl font-bold">
 ${formatUSD(product.price)}
 </p>
 
-<!-- MRP IN USD -->
+<!-- MRP -->
 <p class="text-sm text-gray-500">
 M.R.P: 
 <span class="line-through">
