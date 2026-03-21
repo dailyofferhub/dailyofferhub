@@ -9,6 +9,15 @@ price: 74.00,         // ✅ USD
 description: "Upgrade your home with the Amazon Echo Dot, a compact smart speaker designed to deliver clear vocals and balanced sound. Powered by Alexa, it helps you control smart home devices, play music, set reminders, and get instant information using just your voice.Its sleek and modern design fits perfectly in bedrooms, living rooms, and office spaces. Whether you want to stream music, manage your daily routine, or enhance your smart home experience, the Echo Dot is a reliable and user-friendly choice.",
 image: "https://github.com/Aadhi6374/image/blob/main/SMART%20HOME%20DEVICE%20CONTROL%20YOUR%20HOME%20WITH%20VOICE.jpg?raw=true",
 amazon: "https://www.amazon.com/dp/B09B94RL1R?tag=aadhithyan637-20"
+},
+  {
+id: 2,
+name: "BL Vibe Beam True Wireless Earbuds | Deep Bass Sound, 32H Battery, Bluetooth 5.2, IP54 Water Resistant",
+originalPrice: 49.95,  // ✅ USD
+price: 29,         // ✅ USD
+description: "Experience powerful JBL Deep Bass with the JBL Vibe Beam earbuds. Enjoy up to 32 hours of battery life, crystal-clear calls with VoiceAware, and a secure, comfortable fit. Perfect for music, calls, and workouts with IP54 water & dust resistance.",
+image: "https://github.com/Aadhi6374/image/blob/main/%E2%80%9CDeep%20Bass%20Sound%20for%2032H%20Playback%20Earbud.jpg?raw=true",
+amazon: "https://www.amazon.com/dp/B09B94RL1R?tag=aadhithyan637-20"
 }
 ]
 
