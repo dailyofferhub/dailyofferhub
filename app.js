@@ -22,7 +22,7 @@ amazon: "https://www.amazon.com/dp/B09B94RL1R?tag=aadhithyan637-20"
   {
 id: 3,
 name: "Pocket Cinema Anywhere",
-originalPrice: 79,99,  // ✅ USD
+originalPrice: 79.99,  // ✅ USD
 price: 59,         // ✅ USD
 description: "👉 Watch movies anywhere on a big screen — just connect your phone and enjoy 🎬",
 image: "https://github.com/Aadhi6374/image/blob/main/Portable%20Home%20Theater%20%F0%9F%8E%AC.jpg?raw=true",
