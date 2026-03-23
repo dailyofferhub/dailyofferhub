@@ -18,6 +18,15 @@ price: 29,         // ✅ USD
 description: "Experience powerful JBL Deep Bass with the JBL Vibe Beam earbuds. Enjoy up to 32 hours of battery life, crystal-clear calls with VoiceAware, and a secure, comfortable fit. Perfect for music, calls, and workouts with IP54 water & dust resistance.",
 image: "https://github.com/Aadhi6374/image/blob/main/%E2%80%9CDeep%20Bass%20Sound%20for%2032H%20Playback%20Earbud.jpg?raw=true",
 amazon: "https://www.amazon.com/dp/B09B94RL1R?tag=aadhithyan637-20"
+},
+  {
+id: 3,
+name: "Pocket Cinema Anywhere",
+originalPrice: 79,99,  // ✅ USD
+price: 59,         // ✅ USD
+description: "👉 Watch movies anywhere on a big screen — just connect your phone and enjoy 🎬",
+image: "https://github.com/Aadhi6374/image/blob/main/Portable%20Home%20Theater%20%F0%9F%8E%AC.jpg?raw=true",
+amazon: "https://www.amazon.com/dp/B099N4NSSD?tag=aadhithyan637-20"
 }
 ]
 
