@@ -27,6 +27,15 @@ price: 59,
 description: "👉 Watch movies anywhere on a big screen — just connect your phone and enjoy 🎬",
 image: "https://github.com/Aadhi6374/image/blob/main/Portable%20Home%20Theater%20%F0%9F%8E%AC1.jpg?raw=true",
 amazon: "https://www.amazon.com/dp/B099N4NSSD?tag=aadhithyan637-20"
+},
+{
+id: 4,
+name: "“Upgrade Your Kitchen 🔥 Chefman 4QT Air Fryer for Crispy, Healthy Meals”",
+originalPrice: 79.99,
+price: 59,
+description: "“Enjoy crispy, delicious meals without the extra oil ✨This compact Chefman 4QT Air Fryer uses Hi-Fry technology for perfect crunch every time. Easy touchscreen controls, quick cooking, and simple cleanup make it ideal for everyday use. Tap below to check the latest deal on Amazon!",
+image: "https://github.com/Aadhi6374/image/blob/main/%E2%80%9CCrispy%20Food%20Without%20Oil.jpg?raw=true",
+amazon: "https://www.amazon.com/dp/B0CNY1F31S?tag=aadhithyan637-20"
 }
 ]
 
