@@ -34,7 +34,7 @@ name: "“Upgrade Your Kitchen 🔥 Chefman 4QT Air Fryer for Crispy, Healthy Me
 originalPrice: 79.99,
 price: 59,
 description: "“Enjoy crispy, delicious meals without the extra oil ✨This compact Chefman 4QT Air Fryer uses Hi-Fry technology for perfect crunch every time. Easy touchscreen controls, quick cooking, and simple cleanup make it ideal for everyday use. Tap below to check the latest deal on Amazon!",
-image: "https://github.com/Aadhi6374/image/blob/main/%E2%80%9CCrispy%20Food%20Without%20Oil.jpg?raw=true",
+image: "https://github.com/Aadhi6374/image/blob/main/Your%20Kitchen%20needs%20this%20upgrade.jpg?raw=true",
 amazon: "https://www.amazon.com/dp/B0CNY1F31S?tag=aadhithyan637-20"
 }
 ]
