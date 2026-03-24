@@ -25,7 +25,7 @@ name: "Pocket Cinema Anywhere",
 originalPrice: 79.99,
 price: 59,
 description: "👉 Watch movies anywhere on a big screen — just connect your phone and enjoy 🎬",
-image: "https://github.com/Aadhi6374/image/blob/main/Portable%20Home%20Theater%20%F0%9F%8E%AC.jpg?raw=true",
+image: "https://github.com/Aadhi6374/image/blob/main/Portable%20Home%20Theater%20%F0%9F%8E%AC1.jpg?raw=true",
 amazon: "https://www.amazon.com/dp/B099N4NSSD?tag=aadhithyan637-20"
 }
 ]
