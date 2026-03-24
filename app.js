@@ -30,12 +30,6 @@ amazon: "https://www.amazon.com/dp/B099N4NSSD?tag=aadhithyan637-20"
 }
 ]
 
-// ================= FORMAT =================
-
-function formatUSD(amount){
-return "$" + amount.toFixed(2)
-}
-
 // ================= RENDER =================
 
 function renderProducts(){
@@ -68,8 +62,6 @@ let html = ""
 
 // ✅ USE SORTED PRODUCTS
 sortedProducts.forEach(product => {
-
-const discount = Math.round(((product.originalPrice - product.price) / product.originalPrice) * 100)
 
 html += `
 
@@ -116,19 +108,9 @@ ${product.name}
 ${product.description}
 </p>
 
-<p class="text-red-600 font-bold mt-2">
--${discount}%
-</p>
-
-<p class="text-xl font-bold">
-${formatUSD(product.price)}
-</p>
-
-<p class="text-sm text-gray-500">
-M.R.P: 
-<span class="line-through">
-${formatUSD(product.originalPrice)}
-</span>
+<!-- ✅ SAFE CTA TEXT -->
+<p class="text-green-600 font-bold mt-3">
+Check Latest Price on Amazon
 </p>
 
 <a href="${product.amazon}" target="_blank"
