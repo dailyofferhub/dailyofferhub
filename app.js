@@ -36,6 +36,15 @@ price: 59,
 description: "“Enjoy crispy, delicious meals without the extra oil ✨This compact Chefman 4QT Air Fryer uses Hi-Fry technology for perfect crunch every time. Easy touchscreen controls, quick cooking, and simple cleanup make it ideal for everyday use. Tap below to check the latest deal on Amazon!",
 image: "https://github.com/Aadhi6374/image/blob/main/Your%20Kitchen%20needs%20this%20upgrade.jpg?raw=true",
 amazon: "https://www.amazon.com/dp/B0CNY1F31S?tag=aadhithyan637-20"
+},
+{
+id: 5,
+name: "Still Using Old TV? Upgrade It in Seconds",
+originalPrice: 79.99,
+price: 59,
+description: "Upgrade your TV without buying a new one. Enjoy Netflix, YouTube & live TV with this powerful Fire TV Stick — simple, affordable & worth it.",
+image: "https://github.com/Aadhi6374/image/blob/main/%E2%80%9CTurn%20Your%20Old%20TV%20Into%20Smart%20TV%20%F0%9F%93%BA%F0%9F%94%A5.jpg?raw=true",
+amazon: "https://www.amazon.com/dp/B0B8C3WDPH?tag=aadhithyan637-20"
 }
 ]
 
