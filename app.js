@@ -94,10 +94,6 @@ html += `
 
 <div class="bg-white rounded-xl shadow-md border p-4">
 
-<div style="background:#cc0c39;color:white;font-size:12px;padding:6px 10px;border-radius:4px;width:fit-content;margin-bottom:10px;">
-Limited time deal
-</div>
-
 <!-- IMAGE -->
 <div style="
 width:100%;
@@ -142,7 +138,7 @@ Check Latest Price on Amazon
 
 <a href="${product.amazon}" target="_blank"
 class="block mt-3 bg-yellow-400 text-center p-2 rounded font-bold">
-Buy on Amazon
+Check Latest Price on Amazon
 </a>
 
 </div>
