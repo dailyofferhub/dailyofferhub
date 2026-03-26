@@ -94,7 +94,7 @@ html += `
 
 <div class="bg-white rounded-xl shadow-md border p-4">
 
-<!-- 🔥 TRENDING LABEL -->
+<!--  TRENDING LABEL -->
 <div style="
 background:#ff9900;
 color:white;
@@ -105,7 +105,7 @@ width:fit-content;
 margin-bottom:10px;
 font-weight:bold;
 ">
-🔥 Trending on Amazon
+ Trending on Amazon
 </div>
 
 <!-- IMAGE -->
