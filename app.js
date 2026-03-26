@@ -131,11 +131,6 @@ ${product.name}
 ${product.description}
 </p>
 
-<!-- ✅ SAFE CTA TEXT -->
-<p class="text-green-600 font-bold mt-3">
-Check Latest Price on Amazon
-</p>
-
 <a href="${product.amazon}" target="_blank"
 class="block mt-3 bg-yellow-400 text-center p-2 rounded font-bold">
 Check Latest Price on Amazon
