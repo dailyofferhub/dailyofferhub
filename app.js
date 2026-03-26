@@ -45,6 +45,15 @@ price: 59,
 description: "Upgrade your TV without buying a new one. Enjoy Netflix, YouTube & live TV with this powerful Fire TV Stick — simple, affordable & worth it.",
 image: "https://github.com/Aadhi6374/image/blob/main/%E2%80%9CTurn%20Your%20Old%20TV%20Into%20Smart%20TV%20%F0%9F%93%BA%F0%9F%94%A5.jpg?raw=true",
 amazon: "https://www.amazon.com/dp/B0B8C3WDPH?tag=aadhithyan637-20"
+},
+{
+id: 6,
+name: "Apple Wired Headphones (USB-C)",
+originalPrice: 79.99,
+price: 59,
+description: "Tired of charging earbuds? Switch to Apple wired EarPods for instant sound, clear calls, and zero hassle.",
+image: "https://github.com/Aadhi6374/image/blob/main/%E2%80%9CNo%20Charging%20Needed%20%F0%9F%8E%A7%E2%80%9D.jpg?raw=true",
+amazon: "https://www.amazon.com/dp/B0DCH8VDXF?tag=aadhithyan637-20"
 }
 ]
 
