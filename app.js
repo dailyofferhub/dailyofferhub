@@ -94,6 +94,20 @@ html += `
 
 <div class="bg-white rounded-xl shadow-md border p-4">
 
+<!-- 🔥 TRENDING LABEL -->
+<div style="
+background:#ff9900;
+color:white;
+font-size:12px;
+padding:6px 10px;
+border-radius:4px;
+width:fit-content;
+margin-bottom:10px;
+font-weight:bold;
+">
+🔥 Trending on Amazon
+</div>
+
 <!-- IMAGE -->
 <div style="
 width:100%;
