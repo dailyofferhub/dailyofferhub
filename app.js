@@ -54,6 +54,15 @@ price: 59,
 description: "Tired of charging earbuds? Switch to Apple wired EarPods for instant sound, clear calls, and zero hassle.",
 image: "https://github.com/Aadhi6374/image/blob/main/%E2%80%9CNo%20Charging%20Needed%20%F0%9F%8E%A7%E2%80%9D.jpg?raw=true",
 amazon: "https://www.amazon.com/dp/B0DCH8VDXF?tag=aadhithyan637-20"
+},
+{
+id: 7,
+name: "“Double Burner Induction Cooktop – Fast, Safe & Energy Saving",
+originalPrice: 79.99,
+price: 59,
+description: "Cook two dishes at once with powerful 4000W heating ⚡ Save time, reduce energy waste, and enjoy smart cooking with touch controls and safety lock.",
+image: "https://github.com/Aadhi6374/image/blob/main/%E2%80%9CGas%20Stove%20Upgrade%20Now.jpg?raw=true",
+amazon: "https://www.amazon.com/dp/B09TRGGZZZ?tag=aadhithyan637-20"
 }
 ]
 
