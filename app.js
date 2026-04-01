@@ -72,6 +72,15 @@ price: 59,
 description: "Never run out of power again. This 87W fast-charging Anker power bank fuels your MacBook, iPhone, and Samsung devices at lightning speed—anytime, anywhere. Built for travel, built for reliability.",
 image: "https://github.com/Aadhi6374/image/blob/main/Pin.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0CXDXP8VR?tag=aadhithyan637-20"
+},
+{
+id: 9,
+name: "Perfect Sleep Starts Here",
+originalPrice: 79.99,
+price: 59,
+description: "Ultra-quiet mist keeps your air comfortable so you can sleep deeply all night.",
+image: "https://github.com/Aadhi6374/image/blob/main/humdifier.png?raw=true",
+amazon: "https://www.amazon.com/dp/B0C9HBKQ5D?tag=aadhithyan637-20"
 }
 ]
 
