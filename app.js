@@ -63,6 +63,15 @@ price: 59,
 description: "Cook two dishes at once with powerful 4000W heating ⚡ Save time, reduce energy waste, and enjoy smart cooking with touch controls and safety lock.",
 image: "https://github.com/Aadhi6374/image/blob/main/%E2%80%9CGas%20Stove%20Upgrade%20Now.jpg?raw=true",
 amazon: "https://www.amazon.com/dp/B09TRGGZZZ?tag=aadhithyan637-20"
+},
+{
+id: 8,
+name: "“Tired of Low Battery? This Power Bank Charges Everything Fast”",
+originalPrice: 79.99,
+price: 59,
+description: "Never run out of power again. This 87W fast-charging Anker power bank fuels your MacBook, iPhone, and Samsung devices at lightning speed—anytime, anywhere. Built for travel, built for reliability.",
+image: "https://github.com/Aadhi6374/image/blob/main/Untitled%20(1).png?raw=true",
+amazon: "https://www.amazon.com/dp/B0CXDXP8VR?tag=aadhithyan637-20"
 }
 ]
 
