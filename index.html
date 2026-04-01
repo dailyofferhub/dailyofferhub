@@ -25,7 +25,6 @@ amazon:'#FF9900'
 </script>
 
 <style>
-
 .glass-nav{
 background:rgba(255,255,255,0.95);
 backdrop-filter:blur(10px);
@@ -35,7 +34,6 @@ backdrop-filter:blur(10px);
 background:linear-gradient(135deg,#1e293b 0%,#0369a1 100%);
 }
 
-/* ✅ FIXED IMAGE DISPLAY (FULL VIEW + CLEAR) */
 .image-container{
 position:relative;
 width:100%;
@@ -55,138 +53,64 @@ object-position:center;
 cursor:zoom-in;
 display:block;
 transition:transform 0.25s ease;
-will-change:transform;
-image-rendering:-webkit-optimize-contrast;
 }
-
 </style>
 
 </head>
 
-<body class="bg-gray-50 text-gray-800 antialiased font-sans">
-
+<body class="bg-gray-50 text-gray-800 font-sans">
 
 <!-- NAVBAR -->
-
 <nav class="fixed w-full z-50 glass-nav shadow-sm border-b border-gray-100">
-
-<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-
-<div class="flex justify-between items-center h-16">
+<div class="max-w-7xl mx-auto px-4 flex justify-between items-center h-16">
 
 <div class="flex items-center">
 <img src="image/logo.jpeg.jpeg" class="h-10 w-10 mr-2">
-<span class="font-bold text-2xl text-gray-900">
+<span class="font-bold text-2xl">
 DAILY<span class="text-brand-600">OFFER HUB</span>
 </span>
 </div>
 
-<div>
-<button onclick="showAbout()" class="text-gray-700 font-medium hover:text-brand-600">
+<button onclick="showAbout()" class="text-gray-700 hover:text-brand-600">
 About us
 </button>
-</div>
 
 </div>
-
-</div>
-
 </nav>
 
-
-
 <!-- HERO -->
-
 <header class="hero-gradient pt-24 pb-16 text-center text-white">
-
 <h1 class="text-4xl md:text-6xl font-extrabold mb-6">
 Top Picks Just For You
 </h1>
-
-<p class="text-lg md:text-xl max-w-2xl mx-auto">
-Compare and buy from Amazon directly from our curated list of premium items.
+<p class="text-lg max-w-2xl mx-auto">
+Compare and buy from Amazon directly from our curated list.
 </p>
-
 </header>
 
-
-
 <!-- PRODUCTS -->
-
-<main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-
-<h2 class="text-3xl font-bold text-gray-900 mb-8 text-center">
-Featured Products
-</h2>
+<main class="max-w-7xl mx-auto px-4 py-12">
+<h2 class="text-3xl font-bold text-center mb-8">Featured Products</h2>
 
 <div id="product-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"></div>
-
 </main>
 
-
-
-<!-- ABOUT SECTION -->
-
-<section id="about-section" style="display:none;" class="bg-white py-12 mt-10">
-
+<!-- ABOUT -->
+<section id="about-section" style="display:none;" class="bg-white py-12">
 <div class="max-w-4xl mx-auto text-center px-6">
 
-<h2 class="text-3xl font-bold text-gray-900 mb-4">About us</h2>
+<h2 class="text-3xl font-bold mb-4">About us</h2>
 
-<p class="text-gray-600 text-lg leading-relaxed">
-At Daily Offer Hub, we focus on helping you make smarter buying decisions by recommending only high-quality and value-driven products. 
-Every item featured on our platform is carefully selected based on performance, reliability, and real customer demand.
+<p class="text-gray-600">
+We help you find the best products with real value.
 </p>
 
-<p class="text-gray-600 text-lg leading-relaxed mt-4">
-We do not promote random products — we highlight only the best deals that offer true value for money. 
-Our goal is to save your time, reduce confusion, and guide you towards products that are genuinely worth your investment.
-</p>
-
-<p class="text-gray-500 mt-4">
-✔ Quality-Focused Selection <br>
-✔ Best Value Deals <br>
-✔ Trusted Recommendations <br>
-✔ Smart Shopping Experience
-</p>
-
-<!-- ✅ AMAZON DISCLOSURE -->
-<p class="text-xs text-gray-400 mt-6">
+<p class="text-xs text-gray-400 mt-4">
 As an Amazon Associate, we earn from qualifying purchases.
 </p>
 
 </div>
-
 </section>
-
-
-
-<!-- CART -->
-
-<div id="cart-drawer"
-class="fixed inset-y-0 right-0 z-50 w-full max-w-md bg-white shadow-2xl hidden flex-col">
-
-<div class="px-6 py-4 border-b border-gray-200 flex justify-between items-center">
-<h2 class="text-lg font-bold text-gray-900">Your Cart</h2>
-<button onclick="toggleCart()">
-<i class="fa-solid fa-xmark text-xl"></i>
-</button>
-</div>
-
-<div id="cart-items" class="flex-1 overflow-y-auto p-6 space-y-6">
-<div id="empty-cart-msg" class="text-center text-gray-500 mt-10">
-Your cart is empty.
-</div>
-</div>
-
-<div class="border-t border-gray-200 p-6 bg-gray-50">
-<div class="flex justify-between text-base font-medium text-gray-900 mb-4">
-<p>Subtotal</p>
-<p id="cart-total">₹0</p>
-</div>
-</div>
-
-</div>
 
 <script src="app.js"></script>
 
