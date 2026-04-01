@@ -90,29 +90,31 @@ return
 const params = new URLSearchParams(window.location.search)
 const selectedId = parseInt(params.get("product"))
 
-// ✅ COPY PRODUCTS
-let sortedProducts = [...products]
+let displayProducts = []
 
-// ✅ MOVE SELECTED PRODUCT TO FIRST
+// ✅ SHOW ONLY SELECTED PRODUCT (Pinterest behavior)
 if(selectedId){
-const index = sortedProducts.findIndex(p => p.id === selectedId)
+const foundProduct = products.find(p => p.id === selectedId)
 
-if(index !== -1){
-const selectedProduct = sortedProducts.splice(index,1)[0]
-sortedProducts.unshift(selectedProduct)
+if(foundProduct){
+displayProducts = [foundProduct]
+}else{
+displayProducts = [...products]
 }
+
+}else{
+// ✅ NORMAL LOAD → SHOW ALL
+displayProducts = [...products]
 }
 
 let html = ""
 
-// ✅ USE SORTED PRODUCTS
-sortedProducts.forEach(product => {
+displayProducts.forEach(product => {
 
 html += `
 
 <div class="bg-white rounded-xl shadow-md border p-4">
 
-<!--  TRENDING LABEL -->
 <div style="
 background:#ff9900;
 color:white;
@@ -123,10 +125,9 @@ width:fit-content;
 margin-bottom:10px;
 font-weight:bold;
 ">
- Trending on Amazon
+Trending on Amazon
 </div>
 
-<!-- IMAGE -->
 <div style="
 width:100%;
 height:auto;
@@ -147,9 +148,7 @@ max-width:100%;
 height:auto;
 max-height:380px;
 display:block;
-image-rendering:high-quality;
 transition:transform 0.25s ease;
-will-change:transform;
 cursor:zoom-in;
 ">
 
@@ -179,9 +178,7 @@ grid.innerHTML = html
 // ================= ZOOM =================
 
 function zoomImage(e,img){
-
 const rect = img.getBoundingClientRect()
-
 const x = (e.clientX - rect.left) / rect.width
 const y = (e.clientY - rect.top) / rect.height
 
@@ -196,9 +193,7 @@ img.style.transform = "scale(1)"
 // ================= ABOUT =================
 
 function showAbout(){
-
 const about = document.getElementById("about-section")
-
 if(!about) return
 
 about.style.display = "block"
