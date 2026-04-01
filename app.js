@@ -73,7 +73,6 @@ description: "Never run out of power again. This 87W fast-charging Anker power b
 image: "https://github.com/Aadhi6374/image/blob/main/Pin.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0CXDXP8VR?tag=aadhithyan637-20"
 }
-
 ]
 
 // ================= RENDER =================
@@ -87,22 +86,17 @@ const selectedId = parseInt(params.get("product"))
 
 let displayProducts = []
 
-// ✅ SHOW ONLY ONE PRODUCT (Pinterest click)
 if(selectedId){
 const found = products.find(p => p.id === selectedId)
 
 if(found){
 displayProducts = [found]
-
-// 👉 CENTER VIEW LIKE AMAZON
 grid.className = "flex justify-center"
 }else{
-displayProducts = products
+displayProducts = [...products]
 }
-
 }else{
-// 👉 NORMAL GRID
-displayProducts = products
+displayProducts = [...products]
 grid.className = "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
 }
 
@@ -111,9 +105,10 @@ let html = ""
 displayProducts.forEach(product => {
 
 html += `
+
 <div class="bg-white rounded-xl shadow-md border p-4 max-w-sm w-full">
 
-<div class="bg-orange-500 text-white text-xs px-2 py-1 rounded mb-2">
+<div style="background:#ff9900;color:white;font-size:12px;padding:6px 10px;border-radius:4px;width:fit-content;margin-bottom:10px;font-weight:bold;">
 Trending on Amazon
 </div>
 
@@ -133,10 +128,11 @@ ${product.description}
 
 <a href="${product.amazon}" target="_blank"
 class="block mt-3 bg-yellow-400 text-center p-2 rounded font-bold">
-Check Latest Price
+Check Latest Price on Amazon
 </a>
 
 </div>
+
 `
 })
 
@@ -151,7 +147,7 @@ const x = (e.clientX - rect.left) / rect.width
 const y = (e.clientY - rect.top) / rect.height
 
 img.style.transformOrigin = `${x*100}% ${y*100}%`
-img.style.transform = "scale(2.2)"
+img.style.transform = "scale(2.3)"
 }
 
 function hideZoom(img){
