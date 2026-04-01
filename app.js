@@ -70,7 +70,7 @@ name: "“Tired of Low Battery? This Power Bank Charges Everything Fast”",
 originalPrice: 79.99,
 price: 59,
 description: "Never run out of power again. This 87W fast-charging Anker power bank fuels your MacBook, iPhone, and Samsung devices at lightning speed—anytime, anywhere. Built for travel, built for reliability.",
-image: "https://github.com/Aadhi6374/image/blob/main/Untitled%20(1).png?raw=true",
+image: "https://github.com/Aadhi6374/image/blob/main/Pin.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0CXDXP8VR?tag=aadhithyan637-20"
 }
 ]
