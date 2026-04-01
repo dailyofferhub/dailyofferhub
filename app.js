@@ -73,6 +73,7 @@ description: "Never run out of power again. This 87W fast-charging Anker power b
 image: "https://github.com/Aadhi6374/image/blob/main/Pin.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0CXDXP8VR?tag=aadhithyan637-20"
 }
+
 ]
 
 // ================= RENDER =================
@@ -81,30 +82,28 @@ function renderProducts(){
 
 const grid = document.getElementById("product-grid")
 
-if(!grid){
-console.error("❌ product-grid not found")
-return
-}
-
-// ✅ GET PRODUCT ID FROM URL
 const params = new URLSearchParams(window.location.search)
 const selectedId = parseInt(params.get("product"))
 
 let displayProducts = []
 
-// ✅ SHOW ONLY SELECTED PRODUCT (Pinterest behavior)
+// ✅ SHOW ONLY ONE PRODUCT (Pinterest click)
 if(selectedId){
-const foundProduct = products.find(p => p.id === selectedId)
+const found = products.find(p => p.id === selectedId)
 
-if(foundProduct){
-displayProducts = [foundProduct]
+if(found){
+displayProducts = [found]
+
+// 👉 CENTER VIEW LIKE AMAZON
+grid.className = "flex justify-center"
 }else{
-displayProducts = [...products]
+displayProducts = products
 }
 
 }else{
-// ✅ NORMAL LOAD → SHOW ALL
-displayProducts = [...products]
+// 👉 NORMAL GRID
+displayProducts = products
+grid.className = "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
 }
 
 let html = ""
@@ -112,46 +111,16 @@ let html = ""
 displayProducts.forEach(product => {
 
 html += `
+<div class="bg-white rounded-xl shadow-md border p-4 max-w-sm w-full">
 
-<div class="bg-white rounded-xl shadow-md border p-4">
-
-<div style="
-background:#ff9900;
-color:white;
-font-size:12px;
-padding:6px 10px;
-border-radius:4px;
-width:fit-content;
-margin-bottom:10px;
-font-weight:bold;
-">
+<div class="bg-orange-500 text-white text-xs px-2 py-1 rounded mb-2">
 Trending on Amazon
 </div>
 
-<div style="
-width:100%;
-height:auto;
-display:flex;
-justify-content:center;
-align-items:center;
-padding:10px 0;
-background:#fff;
-overflow:hidden;
-">
-
+<div class="image-container">
 <img src="${product.image}"
 onmousemove="zoomImage(event,this)"
-onmouseleave="hideZoom(this)"
-style="
-width:auto;
-max-width:100%;
-height:auto;
-max-height:380px;
-display:block;
-transition:transform 0.25s ease;
-cursor:zoom-in;
-">
-
+onmouseleave="hideZoom(this)">
 </div>
 
 <h3 class="font-semibold mt-3 text-sm">
@@ -164,11 +133,10 @@ ${product.description}
 
 <a href="${product.amazon}" target="_blank"
 class="block mt-3 bg-yellow-400 text-center p-2 rounded font-bold">
-Check Latest Price on Amazon
+Check Latest Price
 </a>
 
 </div>
-
 `
 })
 
@@ -183,7 +151,7 @@ const x = (e.clientX - rect.left) / rect.width
 const y = (e.clientY - rect.top) / rect.height
 
 img.style.transformOrigin = `${x*100}% ${y*100}%`
-img.style.transform = "scale(2.3)"
+img.style.transform = "scale(2.2)"
 }
 
 function hideZoom(img){
@@ -194,14 +162,10 @@ img.style.transform = "scale(1)"
 
 function showAbout(){
 const about = document.getElementById("about-section")
-if(!about) return
-
 about.style.display = "block"
-about.scrollIntoView({ behavior: "smooth", block: "start" })
+about.scrollIntoView({ behavior: "smooth" })
 }
 
 // ================= START =================
 
-document.addEventListener("DOMContentLoaded", () => {
-renderProducts()
-})
+document.addEventListener("DOMContentLoaded", renderProducts)
