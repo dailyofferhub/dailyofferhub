@@ -95,7 +95,6 @@ amazon: "https://www.amazon.com/dp/B0D1Q89VM4?tag=aadhithyan637-20"
 
 // ================= HELPER =================
 
-// 👉 adds "+" after reviews
 function formatReviews(num){
 return num.toLocaleString() + "+"
 }
@@ -116,7 +115,7 @@ const product = products.find(p => p.id === selectedId)
 grid.className = "w-full"
 
 html = `
-<div class="w-full flex flex-col md:flex-row gap-10">
+<div class="w-full flex flex-col md:flex-row gap-10 p-6">
 
 <div class="w-full md:w-1/2">
 <div class="image-container">
@@ -137,13 +136,13 @@ ${"★".repeat(Math.round(product.rating))}☆
 
 <p class="text-gray-600 mb-4">${product.description}</p>
 
-<div style="background:#ff9900;color:white;padding:6px 10px;border-radius:4px;width:fit-content;margin-bottom:15px;font-weight:bold;">
+<div class="bg-orange-500 text-white px-3 py-1 inline-block rounded mb-4">
 Trending on Amazon
 </div>
 
 <a href="${product.amazon}" target="_blank"
-class="inline-block bg-yellow-400 px-6 py-3 rounded font-bold text-black">
-Click Here to Check Latest Price on Amazon
+class="inline-block bg-yellow-400 px-6 py-3 rounded font-bold">
+Check Latest Price on Amazon
 </a>
 
 </div>
@@ -157,11 +156,7 @@ grid.className = "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
 
 products.forEach(product => {
 html += `
-<div class="bg-white rounded-xl shadow-md border p-4 max-w-sm w-full">
-
-<div style="background:#ff9900;color:white;font-size:12px;padding:6px 10px;border-radius:4px;width:fit-content;margin-bottom:10px;font-weight:bold;">
-Trending on Amazon
-</div>
+<div class="bg-white p-4 rounded shadow">
 
 <div class="image-container">
 <img src="${product.image}"
@@ -169,17 +164,16 @@ onmousemove="zoomImage(event,this)"
 onmouseleave="hideZoom(this)">
 </div>
 
-<h3 class="font-semibold mt-3 text-sm">${product.name}</h3>
+<h3 class="font-bold mt-2">${product.name}</h3>
 
 <div class="text-yellow-500 text-xs mt-1">
 ${"★".repeat(Math.round(product.rating))}☆
-<span class="text-gray-500">(${product.rating})</span>
 </div>
 
-<p class="text-xs text-gray-500 mt-1">${product.description}</p>
+<p class="text-sm text-gray-600">${product.description}</p>
 
 <a href="?product=${product.id}"
-class="block mt-3 bg-yellow-400 text-center p-2 rounded font-bold">
+class="block mt-2 bg-yellow-400 text-center p-2 rounded font-bold">
 View Product
 </a>
 
@@ -190,6 +184,12 @@ View Product
 }
 
 grid.innerHTML = html
+}
+
+// ================= ABOUT =================
+
+function showAbout(){
+document.getElementById("about-section").classList.toggle("hidden")
 }
 
 // ================= ZOOM =================
