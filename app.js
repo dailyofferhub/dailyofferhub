@@ -1,3 +1,6 @@
+// ================= PRODUCT DATA =================
+
+const products = [
 {
 id: 1,
 name: "Amazon Echo Dot (Latest Model) Smart Speaker with Alexa | Rich Sound | Compact Design for Home, Bedroom & Office | Glacier White",
@@ -88,3 +91,122 @@ description: "Block out distractions and relax into deep sleep with soothing mus
 image: "https://github.com/Aadhi6374/image/blob/main/Mask.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0D1Q89VM4?tag=aadhithyan637-20"
 }
+]
+
+// ================= HELPER =================
+
+function formatReviews(num){
+return num.toLocaleString() + "+"
+}
+
+// ================= RENDER =================
+
+function renderProducts(){
+
+const grid = document.getElementById("product-grid")
+const params = new URLSearchParams(window.location.search)
+const selectedId = parseInt(params.get("product"))
+
+let html = ""
+
+if(selectedId){
+
+const product = products.find(p => p.id === selectedId)
+grid.className = "w-full"
+
+html = `
+<div class="w-full flex flex-col md:flex-row gap-10 p-6">
+
+<div class="w-full md:w-1/2">
+<div class="image-container">
+<img src="${product.image}"
+onmousemove="zoomImage(event,this)"
+onmouseleave="hideZoom(this)">
+</div>
+</div>
+
+<div class="w-full md:w-1/2">
+
+<h1 class="text-2xl font-bold mb-3">${product.name}</h1>
+
+<div class="flex items-center mb-3 text-yellow-500 text-sm">
+${"★".repeat(Math.round(product.rating))}☆
+<span class="text-gray-600 ml-2">(${product.rating} • ${formatReviews(product.reviews)} reviews)</span>
+</div>
+
+<p class="text-gray-600 mb-4">${product.description}</p>
+
+<div class="bg-orange-500 text-white px-3 py-1 inline-block rounded mb-4">
+Trending on Amazon
+</div>
+
+<a href="${product.amazon}" target="_blank"
+class="inline-block bg-yellow-400 px-6 py-3 rounded font-bold">
+Check Latest Price on Amazon
+</a>
+
+</div>
+
+</div>
+`
+
+}else{
+
+grid.className = "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
+
+products.forEach(product => {
+html += `
+<div class="bg-white p-4 rounded shadow">
+
+<div class="image-container">
+<img src="${product.image}"
+onmousemove="zoomImage(event,this)"
+onmouseleave="hideZoom(this)">
+</div>
+
+<h3 class="font-bold mt-2">${product.name}</h3>
+
+<div class="text-yellow-500 text-xs mt-1">
+${"★".repeat(Math.round(product.rating))}☆
+</div>
+
+<p class="text-sm text-gray-600">${product.description}</p>
+
+<a href="?product=${product.id}"
+class="block mt-2 bg-yellow-400 text-center p-2 rounded font-bold">
+View Product
+</a>
+
+</div>
+`
+})
+
+}
+
+grid.innerHTML = html
+}
+
+// ================= ABOUT =================
+
+function showAbout(){
+document.getElementById("about-section").classList.toggle("hidden")
+}
+
+// ================= ZOOM =================
+
+function zoomImage(e,img){
+const rect = img.getBoundingClientRect()
+const x = (e.clientX - rect.left) / rect.width
+const y = (e.clientY - rect.top) / rect.height
+
+img.style.transformOrigin = `${x*100}% ${y*100}%`
+img.style.transform = "scale(2.3)"
+}
+
+function hideZoom(img){
+img.style.transform = "scale(1)"
+}
+
+// ================= START =================
+
+document.addEventListener("DOMContentLoaded", renderProducts)
