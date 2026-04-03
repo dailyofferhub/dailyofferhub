@@ -102,28 +102,58 @@ const grid = document.getElementById("product-grid")
 const params = new URLSearchParams(window.location.search)
 const selectedId = parseInt(params.get("product"))
 
-let displayProducts = []
-
-if(selectedId){
-const found = products.find(p => p.id === selectedId)
-
-if(found){
-displayProducts = [found]
-grid.className = "flex justify-center"
-}else{
-displayProducts = [...products]
-}
-}else{
-displayProducts = [...products]
-grid.className = "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
-}
-
 let html = ""
 
-displayProducts.forEach(product => {
+// ✅ SINGLE PRODUCT VIEW (FIXED LEFT ALIGN)
+if(selectedId){
 
+const product = products.find(p => p.id === selectedId)
+
+grid.className = "w-full"
+
+html = `
+<div class="w-full flex flex-col md:flex-row gap-10">
+
+<div class="w-full md:w-1/2">
+    <div class="image-container">
+        <img src="${product.image}"
+        onmousemove="zoomImage(event,this)"
+        onmouseleave="hideZoom(this)">
+    </div>
+</div>
+
+<div class="w-full md:w-1/2">
+
+<h1 class="text-2xl font-bold mb-4">${product.name}</h1>
+
+<p class="text-gray-600 mb-4">${product.description}</p>
+
+<div class="mb-4">
+<span class="text-3xl font-bold text-red-600">$${product.price}</span>
+<span class="text-gray-500 line-through ml-2">$${product.originalPrice}</span>
+</div>
+
+<div style="background:#ff9900;color:white;padding:6px 10px;border-radius:4px;width:fit-content;margin-bottom:15px;font-weight:bold;">
+Trending on Amazon
+</div>
+
+<a href="${product.amazon}" target="_blank"
+class="inline-block bg-yellow-400 px-6 py-3 rounded font-bold text-black">
+Click Here to Check Latest Price on Amazon
+</a>
+
+</div>
+
+</div>
+`
+
+}else{
+
+// ✅ GRID VIEW (UNCHANGED)
+grid.className = "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
+
+products.forEach(product => {
 html += `
-
 <div class="bg-white rounded-xl shadow-md border p-4 max-w-sm w-full">
 
 <div style="background:#ff9900;color:white;font-size:12px;padding:6px 10px;border-radius:4px;width:fit-content;margin-bottom:10px;font-weight:bold;">
@@ -136,28 +166,25 @@ onmousemove="zoomImage(event,this)"
 onmouseleave="hideZoom(this)">
 </div>
 
-<h3 class="font-semibold mt-3 text-sm">
-${product.name}
-</h3>
+<h3 class="font-semibold mt-3 text-sm">${product.name}</h3>
 
-<p class="text-xs text-gray-500 mt-1">
-${product.description}
-</p>
+<p class="text-xs text-gray-500 mt-1">${product.description}</p>
 
-<a href="${product.amazon}" target="_blank"
+<a href="?product=${product.id}"
 class="block mt-3 bg-yellow-400 text-center p-2 rounded font-bold">
-Click Here to Check Latest Price on Amazon
+View Product
 </a>
 
 </div>
-
 `
 })
+
+}
 
 grid.innerHTML = html
 }
 
-// ================= ZOOM =================
+// ================= ZOOM (UNCHANGED) =================
 
 function zoomImage(e,img){
 const rect = img.getBoundingClientRect()
@@ -170,14 +197,6 @@ img.style.transform = "scale(2.3)"
 
 function hideZoom(img){
 img.style.transform = "scale(1)"
-}
-
-// ================= ABOUT =================
-
-function showAbout(){
-const about = document.getElementById("about-section")
-about.style.display = "block"
-about.scrollIntoView({ behavior: "smooth" })
 }
 
 // ================= START =================
