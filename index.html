@@ -13,24 +13,21 @@ html{
 scroll-behavior:smooth;
 }
 
-/* ✅ FINAL IMAGE FIX (NO CROP + CLEAN LOOK) */
 .image-container{
 position:relative;
 width:100%;
-height:320px;
+aspect-ratio:1/1;
 overflow:hidden;
+display:flex;
+align-items:center;
+justify-content:center;
 background:#fff;
 border-radius:10px;
-display:block;
-padding:10px;
 }
-
 .image-container img{
 width:100%;
 height:100%;
 object-fit:contain;
-display:block;
-margin:auto;
 transition:transform 0.25s ease;
 cursor:zoom-in;
 }
@@ -45,6 +42,7 @@ cursor:zoom-in;
 
 <div class="flex items-center gap-3">
 
+<!-- ✅ YOUR WORKING LOGO -->
 <img 
 src="https://github.com/dailyofferhub/dailyofferhub/blob/main/image/logo.jpeg.jpeg?raw=true"
 class="w-12 h-12 object-contain">
