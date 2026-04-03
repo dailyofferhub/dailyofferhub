@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>DAILY OFFER HUB</title>
+<title>DailyOfferHub</title>
 
 <script src="https://cdn.tailwindcss.com"></script>
 
@@ -31,10 +31,40 @@ cursor:zoom-in;
 
 </head>
 
-<body class="bg-gray-100 p-6">
+<body class="bg-gray-100">
 
-<!-- IMPORTANT: NO max-width, NO mx-auto -->
-<div id="product-grid" class="w-full"></div>
+<!-- 🔥 NAVBAR -->
+<nav class="bg-white shadow p-4 flex justify-between items-center">
+<div class="flex items-center gap-2">
+<img src="https://cdn-icons-png.flaticon.com/512/891/891462.png" class="w-8 h-8">
+<h1 class="text-xl font-bold">DailyOfferHub</h1>
+</div>
+
+<button onclick="showAbout()" class="text-blue-600 font-semibold">
+About
+</button>
+</nav>
+
+<!-- PRODUCTS -->
+<div id="product-grid" class="p-6"></div>
+
+<!-- ABOUT SECTION -->
+<div id="about-section" class="hidden bg-white p-6 mt-6 max-w-3xl mx-auto rounded shadow">
+<h2 class="text-2xl font-bold mb-3">About DailyOfferHub</h2>
+
+<p class="text-gray-600 mb-3">
+DailyOfferHub helps you discover trending and useful products that improve your daily life. 
+We carefully select high-quality and high-demand products so you can make smart buying decisions quickly without confusion or wasted time.
+</p>
+
+<p class="text-gray-600 mb-3">
+Our goal is to bring you only products that solve real problems, save time, and improve your daily lifestyle. We focus on simplicity, usefulness, and real value.
+</p>
+
+<p class="text-gray-500 text-sm">
+As an Amazon Associate, we earn from qualifying purchases.
+</p>
+</div>
 
 <script src="app.js"></script>
 
