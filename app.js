@@ -104,7 +104,6 @@ const selectedId = parseInt(params.get("product"))
 
 let html = ""
 
-// ✅ SINGLE PRODUCT VIEW (FIXED LEFT ALIGN)
 if(selectedId){
 
 const product = products.find(p => p.id === selectedId)
@@ -115,22 +114,25 @@ html = `
 <div class="w-full flex flex-col md:flex-row gap-10">
 
 <div class="w-full md:w-1/2">
-    <div class="image-container">
-        <img src="${product.image}"
-        onmousemove="zoomImage(event,this)"
-        onmouseleave="hideZoom(this)">
-    </div>
+<div class="image-container">
+<img src="${product.image}"
+onmousemove="zoomImage(event,this)"
+onmouseleave="hideZoom(this)">
+</div>
 </div>
 
 <div class="w-full md:w-1/2">
 
-<h1 class="text-2xl font-bold mb-4">${product.name}</h1>
+<h1 class="text-2xl font-bold mb-3">${product.name}</h1>
+
+<div class="flex items-center mb-3 text-yellow-500 text-sm">
+★★★★★ <span class="text-gray-600 ml-2">(4.5 • 12,634 reviews)</span>
+</div>
 
 <p class="text-gray-600 mb-4">${product.description}</p>
 
 <div class="mb-4">
 <span class="text-3xl font-bold text-red-600">$${product.price}</span>
-<span class="text-gray-500 line-through ml-2">$${product.originalPrice}</span>
 </div>
 
 <div style="background:#ff9900;color:white;padding:6px 10px;border-radius:4px;width:fit-content;margin-bottom:15px;font-weight:bold;">
@@ -149,7 +151,6 @@ Click Here to Check Latest Price on Amazon
 
 }else{
 
-// ✅ GRID VIEW (UNCHANGED)
 grid.className = "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
 
 products.forEach(product => {
@@ -168,6 +169,10 @@ onmouseleave="hideZoom(this)">
 
 <h3 class="font-semibold mt-3 text-sm">${product.name}</h3>
 
+<div class="text-yellow-500 text-xs mt-1">
+★★★★☆ <span class="text-gray-500">(4.5)</span>
+</div>
+
 <p class="text-xs text-gray-500 mt-1">${product.description}</p>
 
 <a href="?product=${product.id}"
@@ -184,7 +189,7 @@ View Product
 grid.innerHTML = html
 }
 
-// ================= ZOOM (UNCHANGED) =================
+// ================= ZOOM =================
 
 function zoomImage(e,img){
 const rect = img.getBoundingClientRect()
