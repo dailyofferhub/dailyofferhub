@@ -146,7 +146,7 @@ ${product.description}
 
 <a href="${product.amazon}" target="_blank"
 class="block mt-3 bg-yellow-400 text-center p-2 rounded font-bold">
-Click to Check Latest Price on Amazon
+Click Here to Check Latest Price on Amazon
 </a>
 
 </div>
