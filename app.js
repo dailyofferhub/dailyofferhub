@@ -13,26 +13,16 @@ amazon: "https://www.amazon.com/dp/B09B94RL1R?tag=aadhithyan637-20"
 },
 {
 id: 2,
-name: "BL Vibe Beam True Wireless Earbuds | Deep Bass Sound, 32H Battery",
-price: 29,
-rating: 4.3,
-reviews: 4801,
-description: "Experience powerful JBL Deep Bass with long battery life.",
-image: "https://github.com/Aadhi6374/image/blob/main/%E2%80%9CDeep%20Bass%20Sound%20for%2032H%20Playback%20Earbud.jpg?raw=true",
-amazon: "https://www.amazon.com/dp/B09B94RL1R?tag=aadhithyan637-20"
-},
-{
-id: 3,
 name: "Pocket Cinema Anywhere",
 price: 59,
 rating: 4.3,
-reviews: 5421,
+reviews: 4801,
 description: "Watch movies anywhere on a big screen 🎬",
 image: "https://github.com/Aadhi6374/image/blob/main/Portable%20Home%20Theater%20%F0%9F%8E%AC1.jpg?raw=true",
 amazon: "https://www.amazon.com/dp/B099N4NSSD?tag=aadhithyan637-20"
 },
 {
-id: 4,
+id: 3,
 name: "Chefman 4QT Air Fryer",
 price: 59,
 rating: 4.7,
