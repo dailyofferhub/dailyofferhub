@@ -81,6 +81,15 @@ price: 59,
 description: "Ultra-quiet mist keeps your air comfortable so you can sleep deeply all night.",
 image: "https://github.com/Aadhi6374/image/blob/main/humdifier.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0C9HBKQ5D?tag=aadhithyan637-20"
+},
+{
+id: 10,
+name: "MUSICOZY Bluetooth Sleep Mask – Wireless Headphones for Deep Sleep, Side Sleepers, Relaxation & Travel",
+originalPrice: 79.99,
+price: 59,
+description: "Fall asleep faster with the MUSICOZY Sleep Mask.Soft, wireless, and designed for comfort — enjoy music, block light, and relax anywhere. Perfect for side sleepers, travel, and stress relief.",
+image: "https://github.com/Aadhi6374/image/blob/main/Mask.png?raw=true",
+amazon: "https://www.amazon.com/dp/B0D1Q89VM4?tag=aadhithyan637-20"
 }
 ]
 
