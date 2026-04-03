@@ -9,6 +9,10 @@
 <script src="https://cdn.tailwindcss.com"></script>
 
 <style>
+html{
+scroll-behavior:smooth;
+}
+
 .image-container{
 position:relative;
 width:100%;
@@ -38,23 +42,25 @@ cursor:zoom-in;
 
 <div class="flex items-center gap-3">
 
-<!-- ✅ YOUR LOGO (CHANGE PATH IF NEEDED) -->
-<img src="image/logo.png" class="w-10 h-10 object-contain">
+<!-- ✅ GITHUB LOGO -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/logo.png"
+class="w-12 h-12 object-contain">
 
 <div>
-<h1 class="text-lg font-bold">DailyOfferHub</h1>
+<h1 class="text-xl font-bold">DailyOfferHub</h1>
 
-<!-- ✅ TAGLINE -->
-<p class="text-xs text-gray-500">
+<!-- 🔥 BIG BLUE PSYCHOLOGY TEXT -->
+<p class="text-blue-600 text-sm font-semibold">
 We suggest good quality & budget-friendly products with best offers trending on Amazon
 </p>
 
 </div>
 </div>
 
-<button onclick="showAbout()" class="text-blue-600 font-semibold">
+<!-- ✅ SCROLL BUTTON -->
+<a href="#about-section" class="text-blue-600 font-semibold">
 About Us
-</button>
+</a>
 
 </nav>
 
@@ -62,24 +68,25 @@ About Us
 <div id="product-grid" class="p-6"></div>
 
 <!-- ABOUT SECTION -->
-<div id="about-section" class="hidden bg-white p-6 mt-6 max-w-3xl mx-auto rounded shadow">
+<div id="about-section" class="bg-white p-8 mt-10 max-w-4xl mx-auto rounded shadow">
 
-<h2 class="text-2xl font-bold mb-4">About Us</h2>
+<h2 class="text-3xl font-bold mb-4">About Us</h2>
 
-<p class="text-gray-600 mb-3">
-At DailyOfferHub, we help you discover smart and useful products that truly make your life easier. 
-We carefully pick items that are not only high in quality but also budget-friendly, so you don’t waste money on the wrong choices.
+<p class="text-gray-700 mb-4 text-lg">
+At DailyOfferHub, we help you discover the best products without wasting your time. 
+We focus only on high-quality, budget-friendly items that are already trending and trusted by thousands of users.
 </p>
 
-<p class="text-gray-600 mb-3">
-Our goal is simple — save your time, reduce confusion, and show you only the best products that are trending and trusted by thousands of users on Amazon.
+<p class="text-gray-700 mb-4 text-lg">
+Our goal is simple — make your buying decision easy, smart, and fast. 
+Instead of searching everywhere, we bring you the best deals in one place.
 </p>
 
-<p class="text-gray-600 mb-3">
-Whether it’s gadgets, home tools, or daily essentials, we focus only on products that give real value and improve your everyday life.
+<p class="text-gray-700 mb-4 text-lg">
+Every product we suggest is selected carefully based on value, usefulness, and real demand.
 </p>
 
-<p class="text-gray-500 text-sm mt-4">
+<p class="text-gray-500 mt-6">
 As an Amazon Associate, we earn from qualifying purchases.
 </p>
 
