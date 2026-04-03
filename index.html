@@ -12,8 +12,6 @@ const found = products.find(p => p.id === selectedId)
 
 if(found){
 displayProducts = [found]
-
-// ✅ FIXED: FULL WIDTH LEFT ALIGN
 grid.className = "w-full"
 }else{
 displayProducts = [...products]
@@ -30,7 +28,6 @@ displayProducts.forEach(product => {
 if(selectedId){
 
 html += `
-
 <div class="w-full flex flex-col md:flex-row gap-10">
 
 <!-- LEFT IMAGE -->
@@ -75,13 +72,11 @@ html += `
 </div>
 
 </div>
-
 `
 
 }else{
 
 html += `
-
 <div class="bg-white rounded-xl shadow-md border p-4 max-w-sm w-full">
 
 <div style="background:#ff9900;color:white;font-size:12px;padding:6px 10px;border-radius:4px;width:fit-content;margin-bottom:10px;font-weight:bold;">
@@ -108,7 +103,6 @@ Click Here to Check Latest Price on Amazon
 </a>
 
 </div>
-
 `
 }
 
