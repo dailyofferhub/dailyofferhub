@@ -90,6 +90,16 @@ reviews: 10636,
 description: "Block out distractions and relax into deep sleep with soothing music right in your ears.",
 image: "https://github.com/Aadhi6374/image/blob/main/Mask.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0D1Q89VM4?tag=aadhithyan637-20"
+},
+{
+id: 11,
+name: "JBL Go 4 Portable Bluetooth Speaker 🔊 Waterproof Mini Speaker with Big Bass | Travel Must-Have Gadget (Pink)",
+price: 59,
+rating: 4.8,
+reviews: 15046,
+description: "Small size, powerful sound! 💖 The JBL Go 4 delivers deep bass, waterproof durability, and all-day music—perfect for travel, beach days, and daily vibes. Clip it, carry it, and enjoy music anywhere!.",
+image: "https://github.com/Aadhi6374/image/blob/main/JBL%20Speaker.png?raw=true",
+amazon: "https://www.amazon.com/dp/B0D1JG8CRC?tag=aadhithyan637-20"
 }
 ]
 
