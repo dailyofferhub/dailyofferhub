@@ -152,7 +152,7 @@ Trending on Amazon
 
 <a href="${product.amazon}" target="_blank"
 class="inline-block bg-yellow-400 px-6 py-3 rounded font-bold">
-Check Latest Price on Amazon
+ Click Here to Check Latest Price on Amazon
 </a>
 
 </div>
