@@ -100,6 +100,16 @@ reviews: 15046,
 description: "Small size, powerful sound! 💖 The JBL Go 4 delivers deep bass, waterproof durability, and all-day music—perfect for travel, beach days, and daily vibes. Clip it, carry it, and enjoy music anywhere!.",
 image: "https://github.com/Aadhi6374/image/blob/main/JBL%20Speaker.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0D1JG8CRC?tag=aadhithyan637-20"
+},
+{
+id: 12,
+name: "“Unlimited Entertainment Starts Now 🚀”",
+price: 59,
+rating: 4.7,
+reviews: 107057,
+description: "Tired of slow streaming, endless searching, and boring TV nights? 😩Upgrade your experience with fast 4K streaming, voice search using Alexa, and even play games—no console needed. Enjoy smooth performance with Wi-Fi 6 and access to millions of movies, shows, and free live TV. One small device, all your entertainment solved 🎬✨.",
+image: "https://github.com/Aadhi6374/image/blob/main/%E2%80%9CStill%20Using%20Normal%20TV%20You%E2%80%99re%20Missing%20This.jpg?raw=true",
+amazon: "https://www.amazon.com/dp/B0F7Z4QZTT?tag=aadhithyan637-20"
 }
 ]
 
