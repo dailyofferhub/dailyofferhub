@@ -110,6 +110,16 @@ reviews: 107057,
 description: "Tired of slow streaming, endless searching, and boring TV nights? 😩Upgrade your experience with fast 4K streaming, voice search using Alexa, and even play games—no console needed. Enjoy smooth performance with Wi-Fi 6 and access to millions of movies, shows, and free live TV. One small device, all your entertainment solved 🎬✨.",
 image: "https://github.com/Aadhi6374/image/blob/main/pin.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0F7Z4QZTT?tag=aadhithyan637-20"
+},
+{
+id: 13,
+name: "“iPhone Users Only , Never Lose Your Wallet Again”",
+price: 59,
+rating: 4.5,
+reviews: 4705,
+description: "Tired of losing your wallet, keys, or passport? 😩 This ultra-thin Bluetooth tracker card works exclusively with Apple Find My (iPhone only) to help you locate your essentials in seconds."
+image: "https://github.com/Aadhi6374/image/blob/main/pinnn.png?raw=true",
+amazon: "https://www.amazon.com/dp/B0F1TJRS7F?tag=aadhithyan637-20"
 }
 ]
 
