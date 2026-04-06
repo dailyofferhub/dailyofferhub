@@ -108,7 +108,7 @@ price: 59,
 rating: 4.7,
 reviews: 107057,
 description: "Tired of slow streaming, endless searching, and boring TV nights? 😩Upgrade your experience with fast 4K streaming, voice search using Alexa, and even play games—no console needed. Enjoy smooth performance with Wi-Fi 6 and access to millions of movies, shows, and free live TV. One small device, all your entertainment solved 🎬✨.",
-image: "https://github.com/Aadhi6374/image/blob/main/%E2%80%9CStill%20Using%20Normal%20TV%20You%E2%80%99re%20Missing%20This.jpg?raw=true",
+image: "https://github.com/Aadhi6374/image/blob/main/pin.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0F7Z4QZTT?tag=aadhithyan637-20"
 }
 ]
