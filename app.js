@@ -58,7 +58,7 @@ price: 59,
 rating: 4.3,
 reviews: 295,
 description: "Cook faster and save time every day with powerful dual burners — perfect for busy kitchens.",
-image: "https://github.com/Aadhi6374/image/blob/main/%E2%80%9CGas%20Stove%20Upgrade%20Now.jpg?raw=true",
+image: "https://github.com/Aadhi6374/image/blob/main/pinn.png?raw=true",
 amazon: "https://www.amazon.com/dp/B09TRGGZZZ?tag=aadhithyan637-20"
 },
 {
