@@ -117,7 +117,7 @@ name: "“iPhone Users Only , Never Lose Your Wallet Again”",
 price: 59,
 rating: 4.5,
 reviews: 4705,
-description: "Tired of losing your wallet, keys, or passport? 😩 This ultra-thin Bluetooth tracker card works exclusively with Apple Find My (iPhone only) to help you locate your essentials in seconds."
+description: "Tired of losing your wallet, keys, or passport? 😩 This ultra-thin Bluetooth tracker card works exclusively with Apple Find My (iPhone only) to help you locate your essentials in seconds.",
 image: "https://github.com/Aadhi6374/image/blob/main/pinnn.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0F1TJRS7F?tag=aadhithyan637-20"
 }
