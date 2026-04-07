@@ -98,7 +98,7 @@ price: 59,
 rating: 4.8,
 reviews: 15046,
 description: "Small size, powerful sound! 💖 The JBL Go 4 delivers deep bass, waterproof durability, and all-day music—perfect for travel, beach days, and daily vibes. Clip it, carry it, and enjoy music anywhere!.",
-image: "https://github.com/Aadhi6374/image/blob/main/JBL%20Speaker.png?raw=true",
+image: "https://github.com/Aadhi6374/image/blob/main/jbl%20speaker1.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0D1JG8CRC?tag=aadhithyan637-20"
 },
 {
