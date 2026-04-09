@@ -120,7 +120,18 @@ reviews: 4705,
 description: "Tired of losing your wallet, keys, or passport? 😩 This ultra-thin Bluetooth tracker card works exclusively with Apple Find My (iPhone only) to help you locate your essentials in seconds.",
 image: "https://github.com/Aadhi6374/image/blob/main/pinnn.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0F1TJRS7F?tag=aadhithyan637-20"
+},
+{
+id: 14,
+name: "“Stop Buying Cheap Bottles 😳💧 Owala FreeSip 24oz – Sip or Chug, Stays Cold ALL Day!”",
+price: 59,
+rating: 4.7,
+reviews: 116169,
+description: "Tired of warm water and boring bottles? Upgrade to the Owala FreeSip 24oz 💧✔️ Sip with straw OR chug – your choice✔️ Keeps drinks cold for hours ❄️✔️ Leak-proof & travel ready✔️ BPA-free & stylish design👉 Perfect for gym, travel & daily use💥 Once you try it, you won’t go back!",
+image: "https://github.com/Aadhi6374/image/blob/main/bottle.png?raw=true",
+amazon: "https://www.amazon.com/dp/B0C59C39PV?th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=e1a9294ff0673528d41eb837fd39203f&language=en_US&ref_=as_li_ss_tl"
 }
+
 ]
 
 // ================= HELPER =================
