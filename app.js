@@ -130,6 +130,16 @@ reviews: 116169,
 description: "Tired of warm water and boring bottles? Upgrade to the Owala FreeSip 24oz 💧✔️ Sip with straw OR chug – your choice✔️ Keeps drinks cold for hours ❄️✔️ Leak-proof & travel ready✔️ BPA-free & stylish design👉 Perfect for gym, travel & daily use💥 Once you try it, you won’t go back!",
 image: "https://github.com/Aadhi6374/image/blob/main/bottle.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0C59C39PV?tag=aadhithyan637-20"
+},
+{
+id: 15,
+name: "Mini Inkjet Coding Machine for Packaging | Portable QR & Logo Printer for Small Business (12.7mm DPI Adjustable)",
+price: 59,
+rating: 4.5,
+reviews: 1,
+description: "Upgrade your packaging with this mini smart inkjet coding machine 💼✨Perfect for small businesses to print logos, QR codes, barcodes, batch numbers, and labels instantly!✔️ Portable & easy to use✔️ High-quality 12.7mm printing (DPI adjustable)✔️ Works on boxes, paper, plastic & more✔️ Type-C fast charging 🔋✔️ Save time & boost your brand professionally💡 Ideal for small business owners Ecommerce sellers Handmade product brands Print your logo in seconds & make your packaging stand out!👉 Tap to explore & upgrade your business today!", 
+image: "https://github.com/Aadhi6374/image/blob/main/printer1.png?raw=true",
+amazon: "https://www.amazon.com/dp/B0CJ7F22M9?tag=aadhithyan637-20"
 }
 
 ]
