@@ -140,6 +140,16 @@ reviews: 1,
 description: "Upgrade your packaging with this mini smart inkjet coding machine 💼✨Perfect for small businesses to print logos, QR codes, barcodes, batch numbers, and labels instantly!✔️ Portable & easy to use✔️ High-quality 12.7mm printing (DPI adjustable)✔️ Works on boxes, paper, plastic & more✔️ Type-C fast charging 🔋✔️ Save time & boost your brand professionally💡 Ideal for small business owners Ecommerce sellers Handmade product brands Print your logo in seconds & make your packaging stand out!👉 Tap to explore & upgrade your business today!", 
 image: "https://github.com/Aadhi6374/image/blob/main/printer1.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0CJ7F22M9?tag=aadhithyan637-20"
+},
+{
+id: 16,
+name: "Aquasonic Black Series Electric Toothbrush (ADA Accepted) | 40,000 VPM Sonic Whitening Toothbrush with 8 Brush Heads & Travel Case",
+price: 59,
+rating: 4.6,
+reviews: 134109,
+description: "Upgrade your oral care routine with the Aquasonic Black Series Electric Toothbrush featuring a powerful 40,000 VPM sonic motor for deep cleaning, plaque removal, and teeth whitening, ADA accepted for safety and effectiveness, equipped with 4 brushing modes (Clean, Soft, Whiten, Massage) and a smart timer for optimal brushing, includes 8 long-lasting brush heads and a sleek travel case, supports convenient wireless charging, and delivers a premium, dentist-level clean at home or on the go for a healthier, brighter smile.", 
+image: "https://github.com/Aadhi6374/image/blob/main/brush.png?raw=true",
+amazon: "https://www.amazon.com/dp/B072YVWBXH?tag=aadhithyan637-20"
 }
 
 ]
