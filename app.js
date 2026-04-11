@@ -159,7 +159,7 @@ rating: 4.2,
 reviews: 6350,
 description: "Stay protected anywhere ☀️ This lightweight mineral powder sunscreen SPF 30 gives a smooth matte finish, controls oil, and works perfectly over makeup 💄 Travel-friendly, non-comedogenic & beach-ready 🌴", 
 image: "https://github.com/Aadhi6374/image/blob/main/sunscreen.png?raw=true",
-amazon: "https://www.amazon.com/dp/B09GXF7KVDtag=aadhithyan637-20"
+amazon: "https://www.amazon.com/dp/B09GXF7KVD?tag=aadhithyan637-20"
 }
 
 ]
