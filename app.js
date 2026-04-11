@@ -107,7 +107,7 @@ name: "“Unlimited Entertainment Starts Now 🚀”",
 price: 59,
 rating: 4.7,
 reviews: 107057,
-description: "Tired of slow streaming, endless searching, and boring TV nights? 😩Upgrade your experience with fast 4K streaming, voice search using Alexa, and even play games—no console needed. Enjoy smooth performance with Wi-Fi 6 and access to millions of movies, shows, and free live TV. One small device, all your entertainment solved 🎬✨.",
+description: "Tired of slow streaming, endless searching, and boring TV nights? 😩Upgrade your experience with fast 4K streaming...",
 image: "https://github.com/Aadhi6374/image/blob/main/pin.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0F7Z4QZTT?tag=aadhithyan637-20"
 },
@@ -117,7 +117,7 @@ name: "“iPhone Users Only , Never Lose Your Wallet Again”",
 price: 59,
 rating: 4.5,
 reviews: 4705,
-description: "Tired of losing your wallet, keys, or passport? 😩 This ultra-thin Bluetooth tracker card works exclusively with Apple Find My (iPhone only) to help you locate your essentials in seconds.",
+description: "Tired of losing your wallet...",
 image: "https://github.com/Aadhi6374/image/blob/main/pinnn.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0F1TJRS7F?tag=aadhithyan637-20"
 },
@@ -127,27 +127,27 @@ name: "“Stop Buying Cheap Bottles 😳💧 Owala FreeSip 24oz – Sip or Chug,
 price: 59,
 rating: 4.7,
 reviews: 116169,
-description: "Tired of warm water and boring bottles? Upgrade to the Owala FreeSip 24oz 💧✔️ Sip with straw OR chug – your choice✔️ Keeps drinks cold for hours ❄️✔️ Leak-proof & travel ready✔️ BPA-free & stylish design👉 Perfect for gym, travel & daily use💥 Once you try it, you won’t go back!",
+description: "Tired of warm water...",
 image: "https://github.com/Aadhi6374/image/blob/main/bottle.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0C59C39PV?tag=aadhithyan637-20"
 },
 {
 id: 14,
-name: "Mini Inkjet Coding Machine for Packaging | Portable QR & Logo Printer for Small Business (12.7mm DPI Adjustable)",
+name: "Mini Inkjet Coding Machine for Packaging | Portable QR & Logo Printer",
 price: 59,
 rating: 4.5,
 reviews: 1,
-description: "Upgrade your packaging with this mini smart inkjet coding machine 💼✨Perfect for small businesses to print logos, QR codes, barcodes, batch numbers, and labels instantly!✔️ Portable & easy to use✔️ High-quality 12.7mm printing (DPI adjustable)✔️ Works on boxes, paper, plastic & more✔️ Type-C fast charging 🔋✔️ Save time & boost your brand professionally💡 Ideal for small business owners Ecommerce sellers Handmade product brands Print your logo in seconds & make your packaging stand out!👉 Tap to explore & upgrade your business today!", 
+description: "Upgrade your packaging...",
 image: "https://github.com/Aadhi6374/image/blob/main/printer1.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0CJ7F22M9?tag=aadhithyan637-20"
 },
 {
 id: 15,
-name: "Aquasonic Black Series Electric Toothbrush (ADA Accepted) | 40,000 VPM Sonic Whitening Toothbrush with 8 Brush Heads & Travel Case",
+name: "Aquasonic Black Series Electric Toothbrush (ADA Accepted)",
 price: 59,
 rating: 4.6,
 reviews: 134109,
-description: "Upgrade your oral care routine with the Aquasonic Black Series Electric Toothbrush featuring a powerful 40,000 VPM sonic motor for deep cleaning, plaque removal, and teeth whitening, ADA accepted for safety and effectiveness, equipped with 4 brushing modes (Clean, Soft, Whiten, Massage) and a smart timer for optimal brushing, includes 8 long-lasting brush heads and a sleek travel case, supports convenient wireless charging, and delivers a premium, dentist-level clean at home or on the go for a healthier, brighter smile.", 
+description: "Upgrade your oral care routine...",
 image: "https://github.com/Aadhi6374/image/blob/main/brush.png?raw=true",
 amazon: "https://www.amazon.com/dp/B072YVWBXH?tag=aadhithyan637-20"
 },
@@ -157,10 +157,11 @@ name: "Hawaiian Tropic Mineral Powder Sunscreen Brush SPF 30 | Matte Oil Control
 price: 59,
 rating: 4.2,
 reviews: 6350,
-description: "Stay protected anywhere ☀️ This lightweight mineral powder sunscreen SPF 30 gives a smooth matte finish, controls oil, and works perfectly over makeup 💄 Travel-friendly, non-comedogenic & beach-ready 🌴", 
+description: "Stay protected anywhere ☀️...",
 image: "https://github.com/Aadhi6374/image/blob/main/sunscreen.png?raw=true",
 amazon: "https://www.amazon.com/dp/B09GXF7KVD?tag=aadhithyan637-20"
 }
+]
 
 // ================= HELPER =================
 
@@ -181,6 +182,13 @@ let html = ""
 if(selectedId){
 
 const product = products.find(p => p.id === selectedId)
+
+// ✅ FIX: prevent crash
+if(!product){
+grid.innerHTML = "<h2>Product not found</h2>"
+return
+}
+
 grid.className = "w-full"
 
 html = `
@@ -199,7 +207,7 @@ onmouseleave="hideZoom(this)">
 <h1 class="text-2xl font-bold mb-3">${product.name}</h1>
 
 <div class="flex items-center mb-3 text-yellow-500 text-sm">
-${"★".repeat(Math.round(product.rating))}☆
+${"★".repeat(Math.round(product.rating))}${"☆".repeat(5 - Math.round(product.rating))}
 <span class="text-gray-600 ml-2">(${product.rating} • ${formatReviews(product.reviews)} reviews)</span>
 </div>
 
@@ -209,7 +217,7 @@ ${"★".repeat(Math.round(product.rating))}☆
 Trending on Amazon
 </div>
 
-<a href="${product.amazon}" target="_blank"
+<a href="${product.amazon}" target="_blank" rel="noopener noreferrer"
 class="inline-block bg-yellow-400 px-6 py-3 rounded font-bold">
  Click Here to Check Latest Price on Amazon
 </a>
@@ -236,7 +244,7 @@ onmouseleave="hideZoom(this)">
 <h3 class="font-bold mt-2">${product.name}</h3>
 
 <div class="text-yellow-500 text-xs mt-1">
-${"★".repeat(Math.round(product.rating))}☆
+${"★".repeat(Math.round(product.rating))}${"☆".repeat(5 - Math.round(product.rating))}
 </div>
 
 <p class="text-sm text-gray-600">${product.description}</p>
@@ -253,27 +261,6 @@ View Product
 }
 
 grid.innerHTML = html
-}
-
-// ================= ABOUT =================
-
-function showAbout(){
-document.getElementById("about-section").classList.toggle("hidden")
-}
-
-// ================= ZOOM =================
-
-function zoomImage(e,img){
-const rect = img.getBoundingClientRect()
-const x = (e.clientX - rect.left) / rect.width
-const y = (e.clientY - rect.top) / rect.height
-
-img.style.transformOrigin = `${x*100}% ${y*100}%`
-img.style.transform = "scale(2.3)"
-}
-
-function hideZoom(img){
-img.style.transform = "scale(1)"
 }
 
 // ================= START =================
