@@ -150,6 +150,16 @@ reviews: 134109,
 description: "Upgrade your oral care routine with the Aquasonic Black Series Electric Toothbrush featuring a powerful 40,000 VPM sonic motor for deep cleaning, plaque removal, and teeth whitening, ADA accepted for safety and effectiveness, equipped with 4 brushing modes (Clean, Soft, Whiten, Massage) and a smart timer for optimal brushing, includes 8 long-lasting brush heads and a sleek travel case, supports convenient wireless charging, and delivers a premium, dentist-level clean at home or on the go for a healthier, brighter smile.", 
 image: "https://github.com/Aadhi6374/image/blob/main/brush.png?raw=true",
 amazon: "https://www.amazon.com/dp/B072YVWBXH?tag=aadhithyan637-20"
+},
+{
+id: 17,
+name: "Hawaiian Tropic Mineral Powder Sunscreen Brush SPF 30 | Matte Oil Control Travel Sunscreen for Face & Makeup",
+price: 59,
+rating: 4.2,
+reviews: 6350,
+description: "Stay protected anywhere ☀️ This lightweight mineral powder sunscreen SPF 30 gives a smooth matte finish, controls oil, and works perfectly over makeup 💄 Travel-friendly, non-comedogenic & beach-ready 🌴", 
+image: "https://github.com/Aadhi6374/image/blob/main/sunscreen.png?raw=true",
+amazon: "https://www.amazon.com/dp/B09GXF7KVDtag=aadhithyan637-20"
 }
 
 ]
