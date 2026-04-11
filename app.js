@@ -159,7 +159,7 @@ rating: 4.2,
 reviews: 6350,
 description: "Stay protected anywhere ☀️ This lightweight mineral powder sunscreen SPF 30 gives a smooth matte finish, controls oil, and works perfectly over makeup 💄 Travel-friendly, non-comedogenic & beach-ready 🌴", 
 image: "https://github.com/Aadhi6374/image/blob/main/sunscreen.png?raw=true",
-amazon: "https://www.amazon.com/Hawaiian-Tropic-Mineral-Powder-Brush/dp/B09GXF7KVD?crid=35J8QA0LPUZAI&dib=eyJ2IjoiMSJ9.SPnRidabDEydV8Cb8MowXlwRe12XxO8UrDE_q6VlLN2bqDHI_viGX52DMkmAxkU9eZA0PFgjmzpqMNYwuWNA0JEBM-GXSighXzqCaYWgWmmoY5K_qt0Bl965RuyJKJyI1h8Guh0Bc62BCRG98q2t07YVmlACLq5Ez6zp7iNH89Gd-rRo4r9jXHu1GpHRBRwbVLTQUuVzJy9Oo-ZM4CDKQ9T07M-4F922dnh4oDyfngiibSWHlckB_kwpfPnmL3OjYl-r0bQ_S8IidfTBcoBLtkG3Jdvzu6IEdORT8hXkbUo.DJ5Dxyn-VFP37qBAybgH91BtqJnVcXbfVRJYMXIp9Ns&dib_tag=se&keywords=Hawaiian%2BTropic%2BMineral%2BSkin%2BNourishing%2BSunscreen%2BPowder%2BBrush%2B-%2BSPF%2B30%2B-%2B0.15oz%3A%2BParaben-Free%2C%2BSulfate-Free%2C%2BContains%2BVitamin%2BC%2C%2BTropical%2BScent&nsdOptOutParam=true&qid=1775907189&rdc=1&sprefix=hawaiian%2Btropic%2Bmineral%2Bskin%2Bnourishing%2Bsunscreen%2Bpowder%2Bbrush%2B-%2Bspf%2B30%2B-%2B0.15oz%2Bparaben-free%2C%2Bsulfate-free%2C%2Bcontains%2Bvitamin%2Bc%2C%2Btropical%2Bscent%2Caps%2C542&sr=8-1&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=e4cf5e8983db131b1745eb13b5e23688&language=en_US&ref_=as_li_ss_tl"
+amazon: "https://amzn.to/41veY6n"
 ]
 
 // ================= HELPER =================
