@@ -160,6 +160,16 @@ reviews: 6350,
 description: "Stay protected anywhere ☀️...",
 image: "https://github.com/Aadhi6374/image/blob/main/sunscreen.png?raw=true",
 amazon: "https://www.amazon.com/dp/B09GXF7KVD?tag=aadhithyan637-20"
+},
+{
+id: 17,
+name: "Puttisu Kids Sun Cushion SPF50 PA+++ | Safe Mineral Sunscreen for Kids | UVB & UVA Protection | Easy Cushion Application",
+price: 59,
+rating: 4.3,
+reviews: 40,
+description: "Protect your child’s skin with this gentle SPF50+ mineral sunscreen ☀️ Safe, mess-free cushion design with strong UVB & UVA protection. Perfect for sensitive skin & daily use 👶💛.",
+image: "https://github.com/Aadhi6374/image/blob/main/amaz.png?raw=true",
+amazon: "https://www.amazon.com/dp/B079DVTX5Z?tag=aadhithyan637-20"
 }
 ]
 
