@@ -170,6 +170,16 @@ reviews: 40,
 description: "Protect your child’s skin with this gentle SPF50+ mineral sunscreen ☀️ Safe, mess-free cushion design with strong UVB & UVA protection. Perfect for sensitive skin & daily use 👶💛.",
 image: "https://github.com/Aadhi6374/image/blob/main/amaz.png?raw=true",
 amazon: "https://www.amazon.com/dp/B079DVTX5Z?tag=aadhithyan637-20"
+},
+{
+id: 18,
+name: "Tinted Sunscreen SPF 50 That Replaces Foundation 😳 | No Makeup Look for Glowing Skin",
+price: 59,
+rating: 4.4,
+reviews: 3170,
+description: "Upgrade your daily routine with this tinted SPF 50 sunscreen that works like skincare and light makeup in one. It blends seamlessly into all skin tones, evens out your complexion, and leaves a natural, healthy glow—without the need for foundation.Lightweight, non-comedogenic, and perfect for everyday wear, it protects your skin while enhancing your look effortlessly. Once you try it, you’ll understand why so many are switching to this simple routine.✨ Save this for your next skincare upgrade🛒 Add to your cart before it sells out.",
+image: "https://github.com/Aadhi6374/image/blob/main/1.png?raw=true",
+amazon: "https://www.amazon.com/dp/B0CLVM67FV?tag=aadhithyan637-20"
 }
 ]
 
