@@ -180,6 +180,16 @@ reviews: 3170,
 description: "Upgrade your daily routine with this tinted SPF 50 sunscreen that works like skincare and light makeup in one. It blends seamlessly into all skin tones, evens out your complexion, and leaves a natural, healthy glow—without the need for foundation.Lightweight, non-comedogenic, and perfect for everyday wear, it protects your skin while enhancing your look effortlessly. Once you try it, you’ll understand why so many are switching to this simple routine.✨ Save this for your next skincare upgrade🛒 Add to your cart before it sells out.",
 image: "https://github.com/Aadhi6374/image/blob/main/1.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0CLVM67FV?tag=aadhithyan637-20"
+},
+{
+id: 19,
+name: "Stay Powered Anywhere While Traveling 🔋 | Best Power Bank for Camping, Emergency & Outdoor Use (Fast Charging + Wireless)",
+price: 59,
+rating: 4.3,
+reviews: 45784,
+description: "Never get stuck with a dead phone again ⚡Whether you're traveling, camping, or facing a power cut — this powerful portable charger keeps you connected anytime, anywhere.✔️ 20W fast charging for quick power✔️ Wireless charging – no messy cables✔️ Built for outdoor use, trekking & emergencies✔️ Solar backup for extra conveniencePerfect for travel lovers, campers, and everyday emergency use 🔋👉 Save this now so you’re always prepared!",
+image: "https://github.com/Aadhi6374/image/blob/main/power%20bank.png?raw=true",
+amazon: "https://www.amazon.com/dp/B07FDXDB3W?tag=aadhithyan637-20"
 }
 ]
 
