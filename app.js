@@ -198,7 +198,7 @@ price: 59,
 rating: 4.3,
 reviews: 281,
 description: "Tired of sticky, greasy sunscreen that leaves a white cast? This SPF 50 sunscreen feels light, absorbs fast, and gives your skin a natural glow ✨ No heavy feeling, no bad smell—just smooth, protected skin you’ll actually love wearing every day. Perfect for hot weather, beach days, and daily use. Once you try this, you won’t go back to regular sunscreen. Tap to see why everyone is switching 👇",
-image: "https://github.com/Aadhi6374/image/blob/main/mermid%20sunscreen.png?raw=true",
+image: "https://github.com/Aadhi6374/image/blob/main/mermid%20sunscreen1.png?raw=true",
 amazon: "https://www.amazon.com/dp/B09QFW9RF3?tag=aadhithyan637-20"
 }
 ]
