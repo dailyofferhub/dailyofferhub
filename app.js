@@ -190,6 +190,16 @@ reviews: 45784,
 description: "Never get stuck with a dead phone again ⚡Whether you're traveling, camping, or facing a power cut — this powerful portable charger keeps you connected anytime, anywhere.✔️ 20W fast charging for quick power✔️ Wireless charging – no messy cables✔️ Built for outdoor use, trekking & emergencies✔️ Solar backup for extra conveniencePerfect for travel lovers, campers, and everyday emergency use 🔋👉 Save this now so you’re always prepared!",
 image: "https://github.com/Aadhi6374/image/blob/main/power%20bank.png?raw=true",
 amazon: "https://www.amazon.com/dp/B07FDXDB3W?tag=aadhithyan637-20"
+},
+{
+id: 20,
+name: "SPF 50 Sunscreen That Doesn’t Feel Greasy ✨ No White Cast | Lightweight Glowing Skin Sunscreen",
+price: 59,
+rating: 4.3,
+reviews: 281,
+description: "Tired of sticky, greasy sunscreen that leaves a white cast? This SPF 50 sunscreen feels light, absorbs fast, and gives your skin a natural glow ✨ No heavy feeling, no bad smell—just smooth, protected skin you’ll actually love wearing every day. Perfect for hot weather, beach days, and daily use. Once you try this, you won’t go back to regular sunscreen. Tap to see why everyone is switching 👇",
+image: "https://github.com/Aadhi6374/image/blob/main/mermid%20sunscreen.png?raw=true",
+amazon: "https://www.amazon.com/dp/B09QFW9RF3?tag=aadhithyan637-20"
 }
 ]
 
