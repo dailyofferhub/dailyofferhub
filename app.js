@@ -200,6 +200,16 @@ reviews: 281,
 description: "Tired of sticky, greasy sunscreen that leaves a white cast? This SPF 50 sunscreen feels light, absorbs fast, and gives your skin a natural glow ✨ No heavy feeling, no bad smell—just smooth, protected skin you’ll actually love wearing every day. Perfect for hot weather, beach days, and daily use. Once you try this, you won’t go back to regular sunscreen. Tap to see why everyone is switching 👇",
 image: "https://github.com/Aadhi6374/image/blob/main/mermid%20sunscreen1.png?raw=true",
 amazon: "https://www.amazon.com/dp/B09QFW9RF3?tag=aadhithyan637-20"
+},
+{
+id: 21,
+name: "Best Anti Frizz Hair Spray for Humidity | Get Smooth Glass Hair at Home",
+price: 59,
+rating: 4.3,
+reviews: 107492,
+description: "Struggling with frizzy hair in humidity? This anti frizz hair spray helps you achieve smooth, shiny glass hair at home. Perfect for humid weather, this leave in treatment protects your hair from moisture and keeps it sleek for days. Ideal for frizzy hair, damaged hair, and daily styling. Try this viral hair care product now for salon-like results.",
+image: "https://github.com/Aadhi6374/image/blob/main/huminity%20hair.png?raw=true",
+amazon: "https://www.amazon.com/Color-Dream-Supernatural-Spray-Unisex/dp/B07FJ783ZG?crid=1LIDLXCVJN18H&dib=eyJ2IjoiMSJ9.EU1cUjR2q4o6ESh69YDE7bEjElRsvvfpNIFiRA5ftyKfsQ4qsn8JwJX1Nx4gMVIY_fYMI4WeCUoNpnZWh-Oc-5-TNAUarUEw7jFd7kAvGOzROAXVLc4AbKNNMUutS0UPPDEnqlB0Jmil3g0bqR5LRi-0akiuvWSonQF3qc1tSCnS1aBqLtkOut2ZzULxsGzJTBJ23y_5rSvn3AOPPLgaLGO_CWzxETQEkJKMzJhzQR7RWPN3yq0ceyjA6KX41b6qqnLJMwy9Agy-HvaddgkDLPujbQOreRUOUfs6uB4xy6Q.1VANYTEWi7j7_Ge1cEMAucM7_7rxITNHtbo6Pa2X-9w&dib_tag=se&keywords=premium%2Bbeauty&qid=1776420491&s=beauty&sprefix=preamium%2Cbeauty%2C539&sr=1-9&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=de3c3d67ebabc12b2a030bb09d8f442d&language=en_US&ref_=as_li_ss_tl"
 }
 ]
 
