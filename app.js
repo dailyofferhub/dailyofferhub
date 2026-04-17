@@ -264,7 +264,7 @@ ${"★".repeat(Math.round(product.rating))}${"☆".repeat(5 - Math.round(product
 <p class="text-gray-600 mb-4">${product.description}</p>
 
 <div class="bg-orange-500 text-white px-3 py-1 inline-block rounded mb-4">
-Price may change anytime – Check latest on Amazon
+Price May Change Anytime – Check latest Price on Amazon
 </div>
 
 <a href="${product.amazon}" target="_blank" rel="noopener noreferrer"
