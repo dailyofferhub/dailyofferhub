@@ -213,7 +213,7 @@ amazon: "https://www.amazon.com/Color-Dream-Supernatural-Spray-Unisex/dp/B07FJ78
 },
 {
 id: 22,
-name: "Dark Spots & Dull Skin? Glycolic Acid Toner for Bright Glowing Skin | Smooth Skin Routine",
+name: "The Ordinary Glycolic Acid 7% Exfoliating Toner, Brightening and Smoothing Daily Toner for More Even-Looking Skin Tone",
 price: 59,
 rating: 4.7,
 reviews: 47533,
