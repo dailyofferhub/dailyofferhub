@@ -210,6 +210,16 @@ reviews: 107492,
 description: "Struggling with frizzy hair in humidity? This anti frizz hair spray helps you achieve smooth, shiny glass hair at home. Perfect for humid weather, this leave in treatment protects your hair from moisture and keeps it sleek for days. Ideal for frizzy hair, damaged hair, and daily styling. Try this viral hair care product now for salon-like results.",
 image: "https://github.com/Aadhi6374/image/blob/main/huminity%20hair.png?raw=true",
 amazon: "https://www.amazon.com/Color-Dream-Supernatural-Spray-Unisex/dp/B07FJ783ZG?crid=1LIDLXCVJN18H&dib=eyJ2IjoiMSJ9.EU1cUjR2q4o6ESh69YDE7bEjElRsvvfpNIFiRA5ftyKfsQ4qsn8JwJX1Nx4gMVIY_fYMI4WeCUoNpnZWh-Oc-5-TNAUarUEw7jFd7kAvGOzROAXVLc4AbKNNMUutS0UPPDEnqlB0Jmil3g0bqR5LRi-0akiuvWSonQF3qc1tSCnS1aBqLtkOut2ZzULxsGzJTBJ23y_5rSvn3AOPPLgaLGO_CWzxETQEkJKMzJhzQR7RWPN3yq0ceyjA6KX41b6qqnLJMwy9Agy-HvaddgkDLPujbQOreRUOUfs6uB4xy6Q.1VANYTEWi7j7_Ge1cEMAucM7_7rxITNHtbo6Pa2X-9w&dib_tag=se&keywords=premium%2Bbeauty&qid=1776420491&s=beauty&sprefix=preamium%2Cbeauty%2C539&sr=1-9&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=de3c3d67ebabc12b2a030bb09d8f442d&language=en_US&ref_=as_li_ss_tl"
+},
+{
+id: 22,
+name: "Dark Spots & Dull Skin? Glycolic Acid Toner for Bright Glowing Skin | Smooth Skin Routine",
+price: 59,
+rating: 4.7,
+reviews: 47533,
+description: "The Ordinary Glycolic Acid 7% Exfoliating Toner is a gentle AHA-based toner that helps improve skin texture, reduce dullness, and promote a brighter, more even-looking complexion. It works by removing dead skin cells from the surface, allowing fresh skin to appear smoother and more radiant over time. To use, apply the toner on clean, dry skin using a cotton pad and gently sweep across the face and neck, avoiding the eye and lip areas. It is best used at night, starting with 2–3 times per week and adjusting based on your skin’s tolerance. Always follow with a moisturizer and use sunscreen during the day, as this product can increase sun sensitivity. Avoid using it on very sensitive or damaged skin, and do not combine it with strong active ingredients like retinol or other exfoliating acids to prevent irritation.",
+image: "https://github.com/Aadhi6374/image/blob/main/producttt.png?raw=true",
+amazon: "https://www.amazon.com/Ordinary-Exfoliating-Brightening-Smoothing-Even-Looking/dp/B0DMTDN158?crid=31QB2SGP57FX0&dib=eyJ2IjoiMSJ9.6WTqtgjf_V3iS0gz89VAkNs9fhDz1mztP7nCd_SknrK7AeNpeOg44FuaG15n7MgauD7HV7UsZabLcdupmqXROuKN8SJFRBH0NZ76dIQp24O-_0xZkoHIvxwTFduowrma9pEUKVc55KbAw0H1heTzJc3dEQkJeTO1Ig0uQdLf1pc8uHp6uRCUDrKAm5tatQGoH5UnuELVbR4Da5TNoZaU-na6oHXN6qz-6ZQ12XsMNyVLa3v-O_hCDJtnq7HKD0LcTWW7S3d0eBsx7CA3LAeaTsFg2J7Y3a2-_mC6S35qSTc.3Frdf76s8we9yAkpOBNHf9DYYLrWZ5gEAqwR7hs192c&dib_tag=se&keywords=premium%2Bbeauty&qid=1776484332&s=beauty&sprefix=premium%2Bbeauty%2Cbeauty%2C392&sr=1-6&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=7e24c17be2a7cae52a7488742b79878f&language=en_US&ref_=as_li_ss_tl"
 }
 ]
 
