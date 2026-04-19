@@ -220,6 +220,16 @@ reviews: 47533,
 description: "The Ordinary Glycolic Acid 7% Exfoliating Toner is a gentle AHA-based toner that helps improve skin texture, reduce dullness, and promote a brighter, more even-looking complexion. It works by removing dead skin cells from the surface, allowing fresh skin to appear smoother and more radiant over time. To use, apply the toner on clean, dry skin using a cotton pad and gently sweep across the face and neck, avoiding the eye and lip areas. It is best used at night, starting with 2–3 times per week and adjusting based on your skin’s tolerance. Always follow with a moisturizer and use sunscreen during the day, as this product can increase sun sensitivity. Avoid using it on very sensitive or damaged skin, and do not combine it with strong active ingredients like retinol or other exfoliating acids to prevent irritation.",
 image: "https://github.com/Aadhi6374/image/blob/main/producttt.png?raw=true",
 amazon: "https://www.amazon.com/Ordinary-Exfoliating-Brightening-Smoothing-Even-Looking/dp/B0DMTDN158?crid=31QB2SGP57FX0&dib=eyJ2IjoiMSJ9.6WTqtgjf_V3iS0gz89VAkNs9fhDz1mztP7nCd_SknrK7AeNpeOg44FuaG15n7MgauD7HV7UsZabLcdupmqXROuKN8SJFRBH0NZ76dIQp24O-_0xZkoHIvxwTFduowrma9pEUKVc55KbAw0H1heTzJc3dEQkJeTO1Ig0uQdLf1pc8uHp6uRCUDrKAm5tatQGoH5UnuELVbR4Da5TNoZaU-na6oHXN6qz-6ZQ12XsMNyVLa3v-O_hCDJtnq7HKD0LcTWW7S3d0eBsx7CA3LAeaTsFg2J7Y3a2-_mC6S35qSTc.3Frdf76s8we9yAkpOBNHf9DYYLrWZ5gEAqwR7hs192c&dib_tag=se&keywords=premium%2Bbeauty&qid=1776484332&s=beauty&sprefix=premium%2Bbeauty%2Cbeauty%2C392&sr=1-6&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=7e24c17be2a7cae52a7488742b79878f&language=en_US&ref_=as_li_ss_tl"
+},
+{
+id: 23,
+name: "Flower Pillow Pink Throw Pillow Cute Daisy Decorative Pillow 15.75, Home Decorative Pillows for Bed, Sofa, Couch",
+price: 59,
+rating: 4.5,
+reviews: 1437,
+description: "Upgrade your home with this charming pink flower pillow, designed to bring comfort and aesthetic beauty into your space. Made with ultra-soft fabric and a plush filling, this cute daisy cushion is perfect for your bed, sofa, or favorite relaxation spot.Its eye-catching floral design adds a cozy and stylish touch, making it ideal for modern, kawaii, or aesthetic room setups. Whether you're decorating your bedroom or looking for a unique gift, this pillow creates a warm and inviting atmosphere instantly.",
+image: "https://github.com/Aadhi6374/image/blob/main/pillow.png?raw=true",
+amazon: "https://www.amazon.com/dp/B09P9N1Z5R?_encoding=UTF8&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=d29177d286f02418ed3d612f1d9548d7&language=en_US&ref_=as_li_ss_tl"
 }
 ]
 
