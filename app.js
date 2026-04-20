@@ -196,6 +196,317 @@ ingredients: [
  "Durable shell"],
 image: "https://github.com/Aadhi6374/image/blob/main/jbl%20speaker1.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0D1JG8CRC?tag=aadhithyan637-20"
+},
+ {
+id: 11,
+name: "“Unlimited Entertainment Starts Now 🚀”",
+price: 59,
+rating: 4.7,
+reviews: 107057,
+description: "Still stuck with slow streaming and boring TV nights? Upgrade instantly and unlock a world of fast, smooth 4K entertainment right from your home. No buffering, no frustration—just endless movies, shows, and apps at your fingertips. It’s designed to give you a premium experience without spending on a new TV. Once you switch, your entire viewing experience feels faster, smarter, and way more enjoyable every single day.",
+features: [
+"Fast 4K streaming",
+"Smooth performance",
+"Access to apps & content",
+"Easy setup",
+"Voice control support"
+],
+ingredients: [
+"Streaming chipset",
+"Wi-Fi module",
+"HDMI interface",
+"Durable casing"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/pin.png?raw=true",
+amazon: "https://www.amazon.com/dp/B0F7Z4QZTT?tag=aadhithyan637-20"
+},
+
+{
+id: 12,
+name: "“iPhone Users Only , Never Lose Your Wallet Again”",
+price: 59,
+rating: 4.5,
+reviews: 4705,
+description: "Tired of losing your wallet and stressing every time? This smart solution helps you track your wallet instantly using your phone. No more panic moments or wasted time searching everywhere. Designed for convenience and security, it ensures you always know where your essentials are. Perfect for busy lifestyles, travel, or daily use—once you start using it, you’ll wonder how you ever lived without it.",
+features: [
+"Real-time tracking",
+"Easy phone connection",
+"Compact design",
+"Secure attachment",
+"Long battery support"
+],
+ingredients: [
+"Tracking chip",
+"Bluetooth module",
+"Durable casing",
+"Battery unit"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/pinnn.png?raw=true",
+amazon: "https://www.amazon.com/dp/B0F1TJRS7F?tag=aadhithyan637-20"
+},
+
+{
+id: 13,
+name: "“Stop Buying Cheap Bottles 😳💧 Owala FreeSip 24oz – Sip or Chug, Stays Cold ALL Day!”",
+price: 59,
+rating: 4.7,
+reviews: 116169,
+description: "Tired of warm water ruining your day? Upgrade to a bottle that keeps your drinks cold for hours and gives you the flexibility to sip or chug anytime. Designed for convenience and style, it’s perfect for gym, travel, or daily use. No leaks, no hassle—just refreshing hydration whenever you need it. Once you try it, you’ll never go back to cheap bottles again.",
+features: [
+"Dual sip & chug design",
+"Keeps drinks cold all day",
+"Leak-proof lid",
+"Portable and stylish",
+"Easy to carry"
+],
+ingredients: [
+"Stainless steel body",
+"Insulated inner layer",
+"BPA-free lid",
+"Durable seal system"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/bottle.png?raw=true",
+amazon: "https://www.amazon.com/dp/B0C59C39PV?tag=aadhithyan637-20"
+},
+
+{
+id: 14,
+name: "Mini Inkjet Coding Machine for Packaging | Portable QR & Logo Printer",
+price: 59,
+rating: 4.5,
+reviews: 1,
+description: "Take your packaging to the next level with this portable inkjet printer. Print QR codes, logos, dates, and more directly onto surfaces with ease. Perfect for small businesses, labeling, and branding, it saves time and boosts professionalism. Compact and easy to use, it helps you create clean, high-quality prints anywhere without complicated setup.",
+features: [
+"Portable printing",
+"Print QR codes & logos",
+"Easy operation",
+"Multi-surface printing",
+"Compact design"
+],
+ingredients: [
+"Inkjet cartridge system",
+"Rechargeable battery",
+"Digital control panel",
+"Durable outer body"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/printer1.png?raw=true",
+amazon: "https://www.amazon.com/dp/B0CJ7F22M9?tag=aadhithyan637-20"
+},
+
+{
+id: 15,
+name: "Aquasonic Black Series Electric Toothbrush (ADA Accepted)",
+price: 59,
+rating: 4.6,
+reviews: 134109,
+description: "Upgrade your oral care routine with a powerful electric toothbrush that delivers deep cleaning and healthier gums. Designed for daily use, it removes plaque effectively and improves overall dental hygiene. With multiple modes and a sleek design, it feels like a professional clean every day—without visiting the dentist.",
+features: [
+"Deep cleaning technology",
+"Multiple brushing modes",
+"Long battery life",
+"ADA accepted",
+"Sleek design"
+],
+ingredients: [
+"Sonic motor",
+"Rechargeable battery",
+"Soft bristle head",
+"Water-resistant body"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/brush.png?raw=true",
+amazon: "https://www.amazon.com/dp/B072YVWBXH?tag=aadhithyan637-20"
+},
+
+{
+id: 16,
+name: "Hawaiian Tropic Mineral Powder Sunscreen Brush SPF 30 | Matte Oil Control Travel Sunscreen for Face & Makeup",
+price: 59,
+rating: 4.2,
+reviews: 6350,
+description: "Stay protected anywhere with this easy-to-use mineral powder sunscreen. It gives your skin SPF protection while controlling oil and shine, making it perfect for daily use and travel. No mess, no greasy feeling—just smooth, matte skin with quick application anytime you need it.",
+features: [
+"SPF 30 protection",
+"Oil control formula",
+"Portable brush design",
+"Mess-free application",
+"Travel friendly"
+],
+ingredients: [
+"Mineral UV filters",
+"Oil-absorbing powder",
+"Skin-friendly formula",
+"Soft brush applicator"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/sunscreen.png?raw=true",
+amazon: "https://www.amazon.com/dp/B09GXF7KVD?tag=aadhithyan637-20"
+},
+
+{
+id: 17,
+name: "Puttisu Kids Sun Cushion SPF50 PA+++ | Safe Mineral Sunscreen for Kids | UVB & UVA Protection | Easy Cushion Application",
+price: 59,
+rating: 4.3,
+reviews: 40,
+description: "Protect your child’s delicate skin with this gentle SPF50+ sunscreen designed specifically for kids. The cushion format makes application quick, mess-free, and fun. It provides strong UV protection while being safe for sensitive skin, ensuring your child stays protected and comfortable all day.",
+features: [
+"SPF50+ protection",
+"Safe for kids",
+"Easy cushion application",
+"Mess-free use",
+"UVB & UVA protection"
+],
+ingredients: [
+"Mineral sunscreen agents",
+"Gentle skin formula",
+"Soft cushion applicator",
+"Non-irritating base"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/amaz.png?raw=true",
+amazon: "https://www.amazon.com/dp/B079DVTX5Z?tag=aadhithyan637-20"
+},
+
+{
+id: 18,
+name: "Tinted Sunscreen SPF 50 That Replaces Foundation 😳 | No Makeup Look for Glowing Skin",
+price: 59,
+rating: 4.4,
+reviews: 3170,
+description: "Simplify your routine with this tinted sunscreen that protects and enhances your skin at the same time. It evens out your tone, adds a natural glow, and replaces heavy foundation. Lightweight and breathable, it gives you a fresh look every day while protecting your skin from sun damage.",
+features: [
+"SPF 50 protection",
+"Natural glowing finish",
+"Lightweight formula",
+"Replaces foundation",
+"Daily use friendly"
+],
+ingredients: [
+"UV filters",
+"Skin-tone pigments",
+"Hydrating base",
+"Non-comedogenic formula"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/1.png?raw=true",
+amazon: "https://www.amazon.com/dp/B0CLVM67FV?tag=aadhithyan637-20"
+},
+
+{
+id: 19,
+name: "Stay Powered Anywhere While Traveling 🔋 | Best Power Bank for Camping, Emergency & Outdoor Use (Fast Charging + Wireless)",
+price: 59,
+rating: 4.3,
+reviews: 45784,
+description: "Never run out of power when you need it most. This portable charger keeps your devices charged during travel, emergencies, or outdoor trips. With fast charging and wireless support, it’s built for convenience and reliability, ensuring you stay connected anytime, anywhere.",
+features: [
+"Fast charging",
+"Wireless support",
+"Portable design",
+"Outdoor ready",
+"Reliable backup"
+],
+ingredients: [
+"Lithium battery",
+"Charging chipset",
+"Solar support unit",
+"Durable casing"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/power%20bank.png?raw=true",
+amazon: "https://www.amazon.com/dp/B07FDXDB3W?tag=aadhithyan637-20"
+},
+
+{
+id: 20,
+name: "SPF 50 Sunscreen That Doesn’t Feel Greasy ✨ No White Cast | Lightweight Glowing Skin Sunscreen",
+price: 59,
+rating: 4.3,
+reviews: 281,
+description: "Say goodbye to sticky, greasy sunscreen and enjoy a lightweight formula that blends easily into your skin. It provides strong SPF protection without leaving a white cast, giving you a natural glow. Perfect for daily use, hot weather, and outdoor activities.",
+features: [
+"SPF 50 protection",
+"Lightweight texture",
+"No white cast",
+"Non-greasy feel",
+"Daily use"
+],
+ingredients: [
+"UV filters",
+"Hydrating agents",
+"Lightweight base",
+"Skin-friendly formula"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/mermid%20sunscreen1.png?raw=true",
+amazon: "https://www.amazon.com/dp/B09QFW9RF3?tag=aadhithyan637-20"
+},
+
+{
+id: 21,
+name: "Best Anti Frizz Hair Spray for Humidity | Get Smooth Glass Hair at Home",
+price: 59,
+rating: 4.3,
+reviews: 107492,
+description: "Struggling with frizzy hair in humid weather? This anti-frizz spray helps you achieve smooth, shiny hair that lasts all day. It protects against moisture, reduces flyaways, and gives salon-like results at home. Perfect for daily styling and long-lasting shine.",
+features: [
+"Anti-frizz control",
+"Humidity protection",
+"Shiny finish",
+"Lightweight formula",
+"Long-lasting effect"
+],
+ingredients: [
+"Hair smoothing agents",
+"Protective polymers",
+"Light conditioning formula",
+"Non-greasy base"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/huminity%20hair.png?raw=true",
+amazon: "https://www.amazon.com/Color-Dream-Supernatural-Spray-Unisex/dp/B07FJ783ZG?tag=aadhithyan637-20"
+},
+
+{
+id: 22,
+name: "The Ordinary Glycolic Acid 7% Exfoliating Toner, Brightening and Smoothing Daily Toner for More Even-Looking Skin Tone",
+price: 59,
+rating: 4.7,
+reviews: 47533,
+description: "Reveal brighter, smoother skin with this glycolic acid toner. It gently removes dead skin cells, improves texture, and enhances your natural glow. Perfect for regular skincare routines, it helps you achieve a clearer and more even complexion over time.",
+features: [
+"Exfoliating formula",
+"Improves skin texture",
+"Brightens complexion",
+"Easy application",
+"Visible results"
+],
+ingredients: [
+"Glycolic acid",
+"AHA solution",
+"Skin conditioning agents",
+"pH-balanced base"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/producttt.png?raw=true",
+amazon: "https://www.amazon.com/Ordinary-Exfoliating-Brightening-Smoothing-Even-Looking/dp/B0DMTDN158?tag=aadhithyan637-20"
+},
+
+{
+id: 23,
+name: "Flower Pillow Pink Throw Pillow Cute Daisy Decorative Pillow 15.75, Home Decorative Pillows for Bed, Sofa, Couch",
+price: 59,
+rating: 4.5,
+reviews: 1437,
+description: "Add comfort and aesthetic style to your space with this cute flower pillow. Soft, plush, and eye-catching, it enhances your room decor while providing cozy support. Perfect for beds, sofas, or gifting, it instantly makes your space feel warm and inviting.",
+features: [
+"Soft plush feel",
+"Cute aesthetic design",
+"Comfort support",
+"Lightweight",
+"Perfect decor"
+],
+ingredients: [
+"Soft fabric",
+"Cotton filling",
+"Durable stitching",
+"Skin-friendly material"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/pillow.png?raw=true",
+amazon: "https://www.amazon.com/dp/B09P9N1Z5R?_encoding=UTF8&th=1&tag=aadhithyan637-20"
 }
 
 // 👉 SAME PATTERN continues for 11–24 (kept structured & consistent)
