@@ -31,15 +31,6 @@ object-fit:contain;
 transition:transform 0.25s ease;
 cursor:zoom-in;
 }
-
-/* ✅ NEW: clean section styling (no design break) */
-.section-box{
-background:#ffffff;
-border-radius:10px;
-padding:12px;
-margin-bottom:12px;
-border:1px solid #eee;
-}
 </style>
 
 </head>
@@ -51,6 +42,7 @@ border:1px solid #eee;
 
 <div class="flex items-center gap-3">
 
+<!-- ✅ YOUR WORKING LOGO -->
 <img 
 src="https://github.com/dailyofferhub/dailyofferhub/blob/main/image/logo.jpeg.jpeg?raw=true"
 class="w-12 h-12 object-contain">
@@ -80,29 +72,6 @@ We suggest good quality, budget-friendly products with the best offers that are 
 
 <!-- PRODUCTS -->
 <div id="product-grid" class="p-6"></div>
-
-<!-- ✅ TEMPLATE (hidden helper for JS rendering) -->
-<template id="extra-sections-template">
-
-<div class="section-box">
-<h3 class="font-bold text-lg mb-2">🔥 Key Features</h3>
-<ul class="features-list list-disc ml-5 text-sm text-gray-700"></ul>
-</div>
-
-<div class="section-box">
-<h3 class="font-bold text-lg mb-2">🧪 Ingredients / Specs</h3>
-<ul class="ingredients-list list-disc ml-5 text-sm text-gray-700"></ul>
-</div>
-
-<div class="section-box bg-green-50 border border-green-200">
-<h3 class="font-bold mb-1">💡 Why You Should Buy</h3>
-<p class="text-sm text-gray-700">
-This product is highly rated and solves a real problem.
-Thousands of users already trust it — don’t miss out.
-</p>
-</div>
-
-</template>
 
 <!-- ABOUT SECTION -->
 <div id="about-section" class="bg-white p-8 mt-10 max-w-4xl mx-auto rounded shadow">
