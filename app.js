@@ -1,7 +1,6 @@
 // ================= PRODUCT DATA =================
 
 const products = [
-const products = [
 
 {
 id: 1,
