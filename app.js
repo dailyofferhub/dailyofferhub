@@ -611,9 +611,26 @@ onmouseleave="hideZoom(this)">
 
 <div class="w-full md:w-1/2">
 
-<!-- ✅ PRODUCT NAME -->
-<h1 class="text-2xl font-bold mb-3">${product.name}</h1>
+<!-- ✅ TITLE + PRICE NOTE + BUTTON -->
+<div class="mb-3">
 
+  <!-- Title with price note -->
+  <h1 class="text-2xl font-bold">
+    ${product.name}
+    <span class="text-sm text-gray-500 ml-2">
+      (Price may change — check on Amazon)
+    </span>
+  </h1>
+
+  <!-- Amazon Button ABOVE rating -->
+  <a href="${product.amazon}" target="_blank" rel="noopener noreferrer"
+  class="inline-block mt-3 bg-yellow-400 px-6 py-3 rounded font-bold w-fit">
+    Check Latest Price on Amazon
+  </a>
+
+</div>
+
+<!-- ✅ RATING -->
 <div class="flex items-center mb-3 text-yellow-500 text-sm">
 ${"★".repeat(Math.round(product.rating))}${"☆".repeat(5 - Math.round(product.rating))}
 <span class="text-gray-600 ml-2">(${product.rating} • ${formatReviews(product.reviews)} reviews)</span>
@@ -645,29 +662,6 @@ ${product.ingredients.map(i => `<li>${i}</li>`).join("")}
 </div>
 ` : ""}
 
-<!-- ✅ PRODUCT NAME + PRICE + BUTTON -->
-<div class="flex flex-col gap-2 mb-3">
-
-  <!-- Title + Price -->
-  <h1 class="text-2xl font-bold">
-    ${product.name}
-    <span class="text-orange-600 text-lg font-semibold ml-2">
-      $${product.price}
-    </span>
-  </h1>
-
-  <!-- Price Disclaimer -->
-  <span class="text-sm text-gray-500">
-    Price may change anytime — check latest on Amazon
-  </span>
-
-  <!-- Amazon Button BELOW title -->
-  <a href="${product.amazon}" target="_blank" rel="noopener noreferrer"
-  class="inline-block bg-yellow-400 px-6 py-3 rounded font-bold w-fit">
-    Check Latest Price on Amazon
-  </a>
-
-</div>
 
 </div>
 
