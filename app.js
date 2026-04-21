@@ -5,6 +5,7 @@ const products = [
 {
 id: 1,
 name: "Amazon Echo Dot (Latest Model) Smart Speaker with Alexa | Rich Sound | Compact Design for Home, Bedroom & Office | Glacier White",
+amazon: "https://www.amazon.com/dp/B09B94RL1R?tag=aadhithyan637-20",
 price: 74.00,
 rating: 4.7,
 reviews: 186872,
@@ -20,8 +21,8 @@ ingredients: [
 "Voice recognition chipset",
 "Durable outer casing"
 ],
-image: "https://github.com/Aadhi6374/image/blob/main/SMART%20HOME%20DEVICE%20CONTROL%20YOUR%20HOME%20WITH%20VOICE.jpg?raw=true",
-amazon: "https://www.amazon.com/dp/B09B94RL1R?tag=aadhithyan637-20"
+image: "https://github.com/Aadhi6374/image/blob/main/SMART%20HOME%20DEVICE%20CONTROL%20YOUR%20HOME%20WITH%20VOICE.jpg?raw=true"
+
 },
 
 {
