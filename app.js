@@ -645,14 +645,29 @@ ${product.ingredients.map(i => `<li>${i}</li>`).join("")}
 </div>
 ` : ""}
 
-<div class="bg-orange-500 text-white px-3 py-1 inline-block rounded mb-4">
-Price May Change Anytime – Check latest Price on Amazon
-</div>
+<!-- ✅ PRODUCT NAME + PRICE + BUTTON -->
+<div class="flex flex-col gap-2 mb-3">
 
-<a href="${product.amazon}" target="_blank" rel="noopener noreferrer"
-class="inline-block bg-yellow-400 px-6 py-3 rounded font-bold">
-Click Here to Check Latest Price on Amazon
-</a>
+  <!-- Title + Price -->
+  <h1 class="text-2xl font-bold">
+    ${product.name}
+    <span class="text-orange-600 text-lg font-semibold ml-2">
+      $${product.price}
+    </span>
+  </h1>
+
+  <!-- Price Disclaimer -->
+  <span class="text-sm text-gray-500">
+    Price may change anytime — check latest on Amazon
+  </span>
+
+  <!-- Amazon Button BELOW title -->
+  <a href="${product.amazon}" target="_blank" rel="noopener noreferrer"
+  class="inline-block bg-yellow-400 px-6 py-3 rounded font-bold w-fit">
+    Check Latest Price on Amazon
+  </a>
+
+</div>
 
 </div>
 
