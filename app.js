@@ -617,9 +617,9 @@ onmouseleave="hideZoom(this)">
   <!-- Title with price note -->
   <h1 class="text-2xl font-bold">
     ${product.name}
-    <span class="text-sm text-gray-500 ml-2">
-      (Price may change — check on Amazon)
-    </span>
+    <span class="text-sm text-blue-500 ml-2 font-medium">
+  (Price may change — check on Amazon)
+</span>
   </h1>
 
   <!-- Amazon Button ABOVE rating -->
