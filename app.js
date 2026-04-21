@@ -697,3 +697,22 @@ grid.innerHTML = html
 // ================= START =================
 
 document.addEventListener("DOMContentLoaded", renderProducts)
+// ================= ZOOM FUNCTIONS =================
+
+function zoomImage(event, img) {
+  const rect = img.getBoundingClientRect();
+
+  const x = event.clientX - rect.left;
+  const y = event.clientY - rect.top;
+
+  const xPercent = (x / rect.width) * 100;
+  const yPercent = (y / rect.height) * 100;
+
+  img.style.transformOrigin = `${xPercent}% ${yPercent}%`;
+  img.style.transform = "scale(2)";
+}
+
+function hideZoom(img) {
+  img.style.transform = "scale(1)";
+  img.style.transformOrigin = "center";
+}
