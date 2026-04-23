@@ -564,7 +564,39 @@ ingredients: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/more%20acid%20beauty%20product.png?raw=true",
 amazon: "https://www.amazon.com/dp/B09V7Z4TJG?th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=57b50d176127816bca2d7d68bc7089c4&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 26,
+name: "Mighty Patch Original Patch from Hero Cosmetics - #1 Hydrocolloid Acne Pimple Patches for Face, Shrinking Zits & Whiteheads in 1 Use, Nighttime Spot Pimple Stickers for Face, 36 Count",
+price: 59,
+rating: 4.6,
+reviews: 182872,
+description: "Struggling with sudden pimples or whiteheads? ✨These hydrocolloid acne patches help absorb pimple gunk overnight, reduce redness, and give you clearer skin by morning!",
+features: [
+"Hydrocolloid technology that absorbs pimple gunk effectively",
+"Reduces whiteheads and active acne overnight",
+"Visible results in as little as 6 hours",
+"Invisible and ultra-thin design for day & night use",
+"Protects skin from picking and external bacteria",
+"Gentle, non-drying formula suitable for sensitive skin",
+"Strong adhesion that stays in place while you sleep",
+"Easy peel-and-stick application for quick treatment"
+],
+ingredients: [
+"Hydrocolloid dressing to absorb pus, oil, and impurities",
+"Cellulose gum for moisture absorption and healing support",
+"Pectin to form a protective gel barrier on acne",
+"Polyisobutene for flexible and secure adhesion",
+"Non-medicated formula (drug-free and safe for regular use)",
+"Latex-free material to prevent skin irritation",
+"Vegan-friendly ingredients with no animal-derived components",
+"Skin-safe adhesive suitable for sensitive skin types"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/pimples.png?raw=true",
+amazon: "https://www.amazon.com/dp/B074PVTPBW?th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=26b16516fe984160f971d57b991733bd&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
