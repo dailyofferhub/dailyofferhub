@@ -595,6 +595,37 @@ ingredients: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/pimples.png?raw=true",
 amazon: "https://www.amazon.com/dp/B074PVTPBW?th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=26b16516fe984160f971d57b991733bd&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 27,
+name: "Cocorrína Reed Diffuser Set, Clean Linen 6.7 fl oz Scented Diffuser with Sticks Home Fragrance Reed Diffuser for Bathroom Shelf Decor",
+price: 59,
+rating: 4.4,
+reviews: 3909,
+description: "Transform your living space into a calm, refreshing sanctuary with the Cocorrína Reed Diffuser. Infused with a clean linen fragrance blended with delicate floral notes, this elegant diffuser delivers a continuous, long-lasting scent that uplifts your mood and enhances your environment. Designed with premium-quality reeds and a stylish glass bottle, it not only fills your room with freshness but also adds a touch of modern luxury to your décor. Perfect for homes, offices, bedrooms, and bathrooms, this diffuser creates a welcoming atmosphere effortlessly—no flames, no electricity, just pure relaxation.",
+features: [
+"Long-lasting fragrance that keeps your space fresh for up to 90 days",
+"Clean linen scent blended with soft floral notes for a calming atmosphere",
+"Adjustable aroma intensity by adding or removing reed sticks",
+"Flame-free and safe alternative to candles and sprays",
+"Elegant glass bottle design that enhances home décor",
+"Continuous scent diffusion without electricity or heat",
+"Perfect for any room including bedroom, bathroom, office, and living space",
+"Ideal gift option for birthdays, housewarmings, and special occasions"
+],
+ingredients: [
+"Premium fragrance oils for a clean, fresh, and long-lasting scent",
+"Essential oil blend with floral and linen-inspired notes",
+"Alcohol-based solvent for effective scent diffusion",
+"Natural rattan reed sticks for consistent fragrance release",
+"Non-toxic formula safe for everyday indoor use",
+"Low-evaporation base for extended fragrance life",
+"IFRA-compliant fragrance ingredients for safety standards",
+"Free from harsh chemicals and heavy smoke residue"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/stick%20home%20frangrance.png?raw=true",
+amazon: "https://www.amazon.com/Cocorr%C3%ADna-Diffuser-Fragrance-Essential-Bathroom/dp/B0B24QJ217?crid=SKK53A2UD7MO&dib=eyJ2IjoiMSJ9.V-Utlk2p0VtenakG4Xv7GHXzQknu9Dse5G_lR7AoqI1YkZPV1mWZU62biB47-2yRxEMUYHiWQwy0eED10kD1dDoi33nVzdnOlhCFVwOQPCaAoZsTbjkCiasG5BbsZdDfTiGchhI_Ls2Vy3K4Ezrz0EoOrU7Hc8chNN1gzXBPJL3Frw63_SvtBDYYnkVYzhNUChXs5zpkZIEoUZEsTPRuAtx3o7_rwodaqd4IM1yaRnXr3gRcKgGTLgo40I4ByPcSl5joNQZmnmDyWYqK1gDqxyexrs2J1FFDcfeNZyK5o4s.lJnuUlBgA5oshwe3nWQOE156ZaoHFiNlAeuo-vpYXME&dib_tag=se&keywords=home%2Bdecor%2Bliving%2Broom%2Bmore%2Brating&qid=1777127168&refinements=p_36%3A-3500&rnid=386465011&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=home%2Bdecor%2Bliving%2Broom%2Bmore%2Brating%2Caps%2C416&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=ca9762ae8a193dbd3bba07e1142a012e&language=en_US&ref_=as_li_ss_tl"
 }
 
 
