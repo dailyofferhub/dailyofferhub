@@ -626,6 +626,37 @@ ingredients: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/stick%20home%20frangrance.png?raw=true",
 amazon: "https://www.amazon.com/Cocorr%C3%ADna-Diffuser-Fragrance-Essential-Bathroom/dp/B0B24QJ217?crid=SKK53A2UD7MO&dib=eyJ2IjoiMSJ9.V-Utlk2p0VtenakG4Xv7GHXzQknu9Dse5G_lR7AoqI1YkZPV1mWZU62biB47-2yRxEMUYHiWQwy0eED10kD1dDoi33nVzdnOlhCFVwOQPCaAoZsTbjkCiasG5BbsZdDfTiGchhI_Ls2Vy3K4Ezrz0EoOrU7Hc8chNN1gzXBPJL3Frw63_SvtBDYYnkVYzhNUChXs5zpkZIEoUZEsTPRuAtx3o7_rwodaqd4IM1yaRnXr3gRcKgGTLgo40I4ByPcSl5joNQZmnmDyWYqK1gDqxyexrs2J1FFDcfeNZyK5o4s.lJnuUlBgA5oshwe3nWQOE156ZaoHFiNlAeuo-vpYXME&dib_tag=se&keywords=home%2Bdecor%2Bliving%2Broom%2Bmore%2Brating&qid=1777127168&refinements=p_36%3A-3500&rnid=386465011&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=home%2Bdecor%2Bliving%2Broom%2Bmore%2Brating%2Caps%2C416&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=ca9762ae8a193dbd3bba07e1142a012e&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 28,
+name: "Clean Skin Club Clean Towels XL®, 100% USDA Biobased Face Towel, Disposable Face Towelette, Eczema Association Accepted, Makeup Remover Dry Wipes, Ultra Soft, 1 Pack, 50 Ct",
+price: 59,
+rating: 4.8,
+reviews: 43121,
+description: "Upgrade your skincare routine with Clean Towels—the hygienic alternative to traditional face towels. Designed to reduce acne-causing bacteria, these ultra-soft, disposable face towels provide a fresh, clean surface every time you cleanse your skin. Unlike regular towels that trap dirt and germs, Clean Towels help protect your skin, leaving it clearer, healthier, and irritation-free.Made with eco-friendly, biodegradable materials, these towels are gentle enough for sensitive skin while being strong and durable for everyday use. Perfect for makeup removal, face drying, and daily skincare routines, they offer a convenient, travel-friendly solution for maintaining clean and healthy skin wherever you go.Switch to a smarter, cleaner skincare habit—because your skin deserves better than reused towels.",
+features: [
+"Single-use face towels that prevent bacteria buildup from regular towels",
+"Helps reduce acne, irritation, and redness for clearer, healthier skin",
+"Dermatologist tested and approved for safe daily skincare use",
+"Ultra-soft and gentle texture suitable for all skin types including sensitive skin",
+"Made with advanced cellulose fiber technology to support skin barrier health",
+"Strong, durable, and lint-free material for effective face drying and cleansing",
+"Perfect for makeup removal, skincare routines, and daily face care",
+"Travel-friendly and hygienic solution for on-the-go skincare"
+],
+ features: [
+"Single-use face towels that prevent bacteria buildup from regular towels",
+"Helps reduce acne, irritation, and redness for clearer, healthier skin",
+"Dermatologist tested and approved for safe daily skincare use",
+"Ultra-soft and gentle texture suitable for all skin types including sensitive skin",
+"Made with advanced cellulose fiber technology to support skin barrier health",
+"Strong, durable, and lint-free material for effective face drying and cleansing",
+"Perfect for makeup removal, skincare routines, and daily face care",
+"Travel-friendly and hygienic solution for on-the-go skincare"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/new%20towels.png?raw=true",
+amazon: "https://www.amazon.com/Clean-Skin-Club-Disposable-Sensitive/dp/B07PBXXNCY?crid=2M2XYE16S7138&keywords=trending%2Bproduct%2Bwith%2Bhigh%2Brating&qid=1777201342&rdc=1&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=trending%2Bproduct%2Bwith%2Bhigh%2Brating%2Caps%2C742&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=7d6cb3f62cd78e8a7dfb615e452ead43&language=en_US&ref_=as_li_ss_tl"
 }
 
 
