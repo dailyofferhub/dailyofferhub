@@ -699,9 +699,7 @@ features:
 "Durable and rust-resistant for long-term use",
 "Ideal for vegetables, fruits, cheese, and more"
 ],
-
-materials:
-[
+materials:[
 "Blades made from high-quality stainless steel for sharpness and durability",
 "Body made with BPA-free food-grade plastic",
 "Non-slip rubber base for added stability",
