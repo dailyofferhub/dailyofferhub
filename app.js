@@ -803,11 +803,13 @@ ${product.features.map(f => `<li>${f}</li>`).join("")}
 ` : ""}
 
 <!-- ✅ INGREDIENTS / MATERIAL -->
-${product.ingredients ? `
+${product.ingredients || product.materials ? `
 <div class="mb-4">
-<h3 class="font-bold text-lg mb-1">Key Ingredients / Material</h3>
+<h3 class="font-bold text-lg mb-1">
+  ${product.materials ? "Material" : "Key Ingredients"}
+</h3>
 <ul class="list-disc pl-5 text-gray-700 text-sm">
-${product.ingredients.map(i => `<li>${i}</li>`).join("")}
+${(product.ingredients || product.materials).map(i => `<li>${i}</li>`).join("")}
 </ul>
 </div>
 ` : ""}
