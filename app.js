@@ -679,7 +679,42 @@ materials: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/baby%20soft%20towels.jpg?raw=true",
 amazon: "https://www.amazon.com/OLANLY-Bedroom-Machine-Washable-Aesthetic/dp/B0DF37Z63N?crid=3Q2QGVFK2O1TK&dib=eyJ2IjoiMSJ9.dlxviZ3evuyOX9UfTcuzIi93o0X7jEe12rRPv1M2LC4JqgzA0FuZRPuIpMHm4P8hfi5cpRU7KwpJ_-qIuQQWcahYrWzCUAwo-tiwc9eD8Es4merxsEbqcAGn0NFsQZmDSqV9a21g12Q0pKmNa-FYVAvY9GieuwqhKf5i82_gvAcpsibChidf1s5g_lkrfmXl-ZZae3iEIErmzPyTJZkuguUU1oMKGvDNL-mM0u-xbWLLYdw6nbOcj96YyhSYK5dCiQyqHhvFmSn4jBrvaNOTag59nrn5-TtprIGd4RXYTMM.KVJofuy4gxwavNPYvOqqSE1eBxTlPI6xFdvAvK4aSgY&dib_tag=se&keywords=dorms%2Brugs&qid=1777356048&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=dorms%2Brug%2Caps%2C505&sr=8-6&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=2241e7757774cf16eb451b38265f827f&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 30,
+name: "Premium Vegetable Chopper and Mandoline Slicer - Food Chopper and Spiralizer with Container, Julienne Slicer, Fruit Slicer, Veggie Cutter, Kitchen Gadgets & Gift for Mom (14 in 1, Steel)",
+price: 59,
+rating: 4.5,
+reviews: 128163,
+description: "Upgrade your kitchen experience with the versatile and time-saving 14-in-1 Vegetable Chopper & Mandoline Slicer from Fullstar. Designed for modern cooking, this all-in-one kitchen tool simplifies meal preparation by allowing you to chop, slice, dice, julienne, and spiralize with precision and ease.Built with high-quality stainless steel blades, this chopper delivers consistent, uniform cuts in seconds—saving you valuable time in the kitchen. Whether you're preparing fresh salads, slicing fruits, or creating low-carb veggie noodles, this tool ensures efficiency without compromising safety.The large-capacity container reduces mess while keeping your workspace clean, and its ergonomic, non-slip design offers maximum stability during use. Easy to assemble, compact to store, and dishwasher safe, this is the perfect everyday kitchen companion for beginners and experienced cooks alike.Ideal as a thoughtful gift for moms, home chefs, or anyone who loves cooking smarter—not harder.",
+features:
+[
+"14-in-1 multifunctional tool for chopping, slicing, dicing, and spiralizing",
+"Sharp stainless steel blades for fast, uniform cutting",
+"Large built-in container to reduce mess and save time",
+"Non-slip base and ergonomic handle for safe use",
+"Compact design for easy storage in any kitchen",
+"Dishwasher-safe parts for quick cleaning",
+"Durable and rust-resistant for long-term use",
+"Ideal for vegetables, fruits, cheese, and more"
+],
+
+materials:
+[
+"Blades made from high-quality stainless steel for sharpness and durability",
+"Body made with BPA-free food-grade plastic",
+"Non-slip rubber base for added stability",
+"Soft-grip handle with TPU material for comfort",
+"Durable plastic container for food collection",
+"Rust-resistant components for long-lasting performance",
+"Food-safe and eco-friendly materials",
+"Lightweight yet sturdy construction for daily use"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/vegetables%20cutter.png?raw=true",
+amazon: "https://www.amazon.com/Vegetable-Chopper-Spiralizer-Slicer-Choppers/dp/B0DNZRSCMS?pf_rd_p=718c1da1-42c4-4685-8bb2-fe64d1f8eb6e&pf_rd_r=SEPGRYYX61GJC8407NHM&sr=1-4-1c57df5f-ed25-4473-b6f8-01ef03749560&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=d3ffe9250d673948c61820b1cbe01cb7&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
