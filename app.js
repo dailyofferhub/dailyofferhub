@@ -711,7 +711,7 @@ materials:[
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/vegetables%20cutter.png?raw=true",
 amazon: "https://www.amazon.com/Vegetable-Chopper-Spiralizer-Slicer-Choppers/dp/B0DNZRSCMS?pf_rd_p=718c1da1-42c4-4685-8bb2-fe64d1f8eb6e&pf_rd_r=SEPGRYYX61GJC8407NHM&sr=1-4-1c57df5f-ed25-4473-b6f8-01ef03749560&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=d3ffe9250d673948c61820b1cbe01cb7&language=en_US&ref_=as_li_ss_tl"
-,
+},
 
 {
 id: 31,
@@ -732,8 +732,7 @@ features:
 "Handwoven craftsmanship adds unique texture and charm"
 ],
 
-materials:
-[
+materials:[
 "Made from 100% natural water hyacinth",
 "Handwoven design for durability and uniqueness",
 "Metal-reinforced frame for added strength",
