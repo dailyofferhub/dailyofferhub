@@ -711,6 +711,40 @@ materials:[
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/vegetables%20cutter.png?raw=true",
 amazon: "https://www.amazon.com/Vegetable-Chopper-Spiralizer-Slicer-Choppers/dp/B0DNZRSCMS?pf_rd_p=718c1da1-42c4-4685-8bb2-fe64d1f8eb6e&pf_rd_r=SEPGRYYX61GJC8407NHM&sr=1-4-1c57df5f-ed25-4473-b6f8-01ef03749560&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=d3ffe9250d673948c61820b1cbe01cb7&language=en_US&ref_=as_li_ss_tl"
+,
+
+{
+id: 31,
+name: "Scalloped Multipurpose Hyacinth Storage Basket, Plant Décor, Handwoven Organizer Tote for Bedroom, Living Room, Nursey, w/Lid - Chestnut",
+price: 59,
+rating: 5.0,
+reviews: 53,
+description: "Upgrade your space with this beautifully handwoven water hyacinth basket. Designed with a stylish scalloped edge and a functional lid, it keeps clutter hidden while adding a warm, natural touch to any room. Strong, spacious, and eco-friendly — perfect for organizing blankets, toys, laundry, or everyday essentials.",
+features:
+[
+"Decorative scalloped edge for a stylish, elevated look",
+"Multipurpose storage for blankets, toys, laundry, and essentials",
+"Lidded design to keep clutter hidden and organized",
+"Sturdy metal-reinforced frame maintains shape",
+"Spacious interior for everyday storage needs",
+"Lightweight and easy to move around",
+"Perfect for bedroom, living room, nursery, or entryway",
+"Handwoven craftsmanship adds unique texture and charm"
+],
+
+materials:
+[
+"Made from 100% natural water hyacinth",
+"Handwoven design for durability and uniqueness",
+"Metal-reinforced frame for added strength",
+"Eco-friendly and sustainable material",
+"Non-toxic and safe for home use",
+"Natural fibers with breathable structure",
+"Durable construction for long-term use",
+"Earthy finish with slight natural variations"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/home%20deccor.png?raw=true",
+amazon: "https://www.amazon.com/Best-Choice-Products-Scalloped-Multipurpose/dp/B0G4SXD85S?pf_rd_p=58d0d07c-19a2-48bf-b106-f08b769f96ba&pf_rd_r=RATD1VZERV7N3D3ECF53&sr=1-1-6d81af39-5812-404c-adc3-70f9fbd0894a&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=3ff23d95689eb71d85643371e4693c9f&language=en_US&ref_=as_li_ss_tl"
 }
 
 
