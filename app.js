@@ -744,6 +744,39 @@ materials:[
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/home%20deccor.png?raw=true",
 amazon: "https://www.amazon.com/Best-Choice-Products-Scalloped-Multipurpose/dp/B0G4SXD85S?pf_rd_p=58d0d07c-19a2-48bf-b106-f08b769f96ba&pf_rd_r=RATD1VZERV7N3D3ECF53&sr=1-1-6d81af39-5812-404c-adc3-70f9fbd0894a&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=3ff23d95689eb71d85643371e4693c9f&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 32,
+name: "FUTIMELY Boho Retro Stackable Rings Sets for Women Knuckle Joint Finger Knuckle Nail Ring Sets Moon Stars Stack Preppy Statement Rings Cute Trendy Stuff Jewelry",
+price: 59,
+rating: 4.0,
+reviews: 6534,
+description: "Elevate your everyday style with this stunning boho retro stackable rings set designed for women and teen girls who love trendy, aesthetic jewelry. Featuring delicate moon, star, and minimalist designs, these rings can be mixed, matched, and stacked to create your own unique look for any occasion. Whether you're dressing up for a casual day out or adding a touch of charm to your outfit, these lightweight and adjustable rings offer both comfort and versatility. Perfect as a thoughtful gift or a stylish addition to your jewelry collection, this set brings a modern, fashionable vibe inspired by Pinterest trends.",
+features:
+[
+"Adjustable ring sizes to fit different fingers comfortably",
+"Multiple styles including moon, star, and minimalist designs",
+"Perfect for stacking, layering, or wearing individually",
+"Lightweight and comfortable for all-day wear",
+"Trendy boho aesthetic inspired by Pinterest fashion",
+"Suitable for daily wear, parties, and special occasions",
+"Versatile use as knuckle rings, midi rings, or statement rings",
+"Ideal gift choice for women, teens, and girls"
+],
+
+materials:[
+"Made from high-quality alloy material",
+"Gold and silver plated finish for a stylish look",
+"Lead-free and nickel-free for skin safety",
+"Highly polished surface for a smooth feel",
+"Durable construction for long-lasting use",
+"Fade-resistant coating to maintain shine",
+"Skin-friendly material suitable for daily wear",
+"Lightweight metal design for comfort"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/ring%20for%20women.png?raw=true",
+amazon: "https://www.amazon.com/FUTIMELY-Stackable-Rhinestone-Knuckle-Kunckle/dp/B0CP5N9KL5?crid=2B3ROHN1K88NA&dib=eyJ2IjoiMSJ9.7E806oqp-Mh2HUeJqsW_4OWpY9t_SuoCYyVa9WFcIK7cgWpuDLJ3s_d_fcPudMKYDzRCgHK8Psa4Ia--xV2Hzavn7mKDyo6s61siFp2jqW92NGrxguMcvk9d9lg6MkazBeBYP0c8eS4USwZLvBU1ceXS0uDVm2IwKM2p289QuS1R7EiADfIurJxls2RDTbIblC3qpST8Dw8zOad3eqmuur7G5-7otpjcUdSMPKgWFiKHBT-aNlau_hqkoEx-dwUBaBltLzroEsk_msjHFxZ5k3ZOouza3M3xRUAvvBaWmYA.LXMb0I44dDFjDVc5i2otLQCToSuEbzZOE4B8WJJLvtY&dib_tag=se&keywords=knuckle%2Brings%2Bfor%2Bwomen%2Bin%2Bhigh%2Brating&qid=1777957370&sprefix=knuckle%2Brings%2Bfor%2Bwomen%2Bin%2Bhigh%2Brating%2Caps%2C490&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=a86d36e588006230cee4c786ff24fc2c&language=en_US&ref_=as_li_ss_tl"
 }
 
 
