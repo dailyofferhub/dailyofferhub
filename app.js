@@ -21,7 +21,7 @@ ingredients: [
 "Voice recognition chipset",
 "Durable outer casing"
 ],
-image: "https://github.com/Aadhi6374/image/blob/main/SMART%20HOME%20DEVICE%20CONTROL%20YOUR%20HOME%20WITH%20VOICE.jpg?raw=true"
+image: "https://github.com/Aadhi6374/image/blob/main/amazon%20echot%20dot.png?raw=true"
 
 },
 
