@@ -777,7 +777,40 @@ materials:[
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/ring%20for%20women.png?raw=true",
 amazon: "https://www.amazon.com/FUTIMELY-Stackable-Rhinestone-Knuckle-Kunckle/dp/B0CP5N9KL5?crid=2B3ROHN1K88NA&dib=eyJ2IjoiMSJ9.7E806oqp-Mh2HUeJqsW_4OWpY9t_SuoCYyVa9WFcIK7cgWpuDLJ3s_d_fcPudMKYDzRCgHK8Psa4Ia--xV2Hzavn7mKDyo6s61siFp2jqW92NGrxguMcvk9d9lg6MkazBeBYP0c8eS4USwZLvBU1ceXS0uDVm2IwKM2p289QuS1R7EiADfIurJxls2RDTbIblC3qpST8Dw8zOad3eqmuur7G5-7otpjcUdSMPKgWFiKHBT-aNlau_hqkoEx-dwUBaBltLzroEsk_msjHFxZ5k3ZOouza3M3xRUAvvBaWmYA.LXMb0I44dDFjDVc5i2otLQCToSuEbzZOE4B8WJJLvtY&dib_tag=se&keywords=knuckle%2Brings%2Bfor%2Bwomen%2Bin%2Bhigh%2Brating&qid=1777957370&sprefix=knuckle%2Brings%2Bfor%2Bwomen%2Bin%2Bhigh%2Brating%2Caps%2C490&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=a86d36e588006230cee4c786ff24fc2c&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 33,
+name: "Der Rose 4 Pack Black Bathroom Decor Fake Plants Mini Artificial Greenery Potted Plants for Halloween Decor Indoor Office Table Room Farmhouse Decor",
+price: 59,
+rating: 4.6,
+reviews: 8290,
+description: "Upgrade your space instantly with the Der Rose black faux eucalyptus plant set, designed to bring a modern and aesthetic touch to any room. These realistic artificial plants offer the perfect balance of style and convenience, making them ideal for home, office, or bathroom decor. With no watering or maintenance required, they stay fresh all year round. Their compact size fits perfectly on desks, shelves, or tables, while the adjustable leaves allow you to customize the look for a fuller appearance. A perfect choice for minimal, gothic, or contemporary interiors.",
+features: [
+"Realistic eucalyptus leaves look natural",
+"Set of 4 mini plants for decor styling",
+"Perfect size for desk and small spaces",
+"No watering or maintenance required",
+"Modern black pot suits any interiors",
+"Adjustable leaves for fuller appearance",
+"Ideal for home office bathroom decor",
+"Lightweight design easy to move around"
+],
+
+materials: [
+"Made with high quality durable plastic",
+"Non toxic material safe for daily use",
+"Fade resistant finish for long lasting",
+"Sturdy base pot for stable placement",
+"Eco friendly plastic build lightweight",
+"Smooth texture with realistic detailing",
+"Weather resistant indoor decor material",
+"Strong construction prevents easy damage"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/Plant%20decor.png?raw=true",
+amazon: "https://www.amazon.com/Rose-Artificial-Greenery-Bathroom-Farmhouse/dp/B0F4KHZS6T?crid=2H25XSQFDOD5K&dib=eyJ2IjoiMSJ9.6GLOIPn5Q5mwM9iohc-GTVshr4M4eiqHgY8mVggUapm_FAKS7yFjriD6OTj4ZdKnu7wQQGfQGvHAAsDNjlmXCVOcGXsSReW-jsTFuDfPiwzC6U64K_p4714Uamvm9rV2Opls2EVDkAIfh6d49kj_C1eYWKWE7u7oqymC8C6UXPt7TUunF3Bvvl4eumeh4hklWsP4b4mhZMmqGpLHx1wf1I5Ob3UlQOVa7vU5pPb7IkkieSS8XlnvcZllj_5lzOjkULjRfcbAv048ecFuH8AMWlnlcsAkPyQik_u-BWk6edU.9bOQlj1xyJwfbD2fF021TIZrdwxrsRf-tDO2fTx8OHQ&dib_tag=se&keywords=fake%2Bplants%2Bindoor%2Brealistic%2Bsmall&qid=1778074876&sprefix=fake%2Bplants%2Bindoor%2Brealistic%2Bsmall%2Caps%2C480&sr=8-7&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=cf71e0267384b99e70f28d44e61cb070&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
