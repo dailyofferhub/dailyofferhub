@@ -38,12 +38,12 @@ features: [
 "Multi-device support",
 "Easy setup"
 ],
-ingredients: [
+materials: [
 "LED projection system",
 "Cooling fan technology",
 "Durable casing"
 ],
-image: "https://github.com/Aadhi6374/image/blob/main/Portable%20Home%20Theater%20%F0%9F%8E%AC1.jpg?raw=true",
+image: "https://github.com/Aadhi6374/image/blob/main/projector.jpg?raw=true",
 amazon: "https://www.amazon.com/dp/B099N4NSSD?tag=aadhithyan637-20"
 },
 
@@ -60,7 +60,7 @@ features: [
 "Easy controls",
 "Compact design"
 ],
-ingredients: [
+materials: [
 "Non-stick basket",
 "Heat-resistant body",
 "Air circulation system"
@@ -82,7 +82,7 @@ features: [
 "Voice control",
 "Easy setup"
 ],
-ingredients: [
+materials: [
 "Streaming chipset",
 "HDMI interface",
 "Wi-Fi module"
@@ -104,7 +104,7 @@ features: [
 "Comfortable fit",
 "Built-in mic"
 ],
-ingredients: [
+materials: [
 "Audio drivers",
 "Durable cable",
 "Ergonomic design"
@@ -125,7 +125,7 @@ features: [
  "Fast heating",
  "Energy efficient",
  "Easy controls"],
-ingredients: [
+materials: [
  "Induction coils",
  "Heat-resistant surface",
   "Control panel"],
@@ -141,7 +141,7 @@ rating: 4.6,
 reviews: 12987,
 description: "Never worry about low battery again with this powerful fast-charging power bank. Designed for travel and daily use, it charges your devices quickly and reliably. Compact and portable, it keeps you connected wherever you go—perfect for emergencies, trips, and long days out.",
 features: ["Fast charging","Portable","Long battery","Reliable"],
-ingredients: ["Lithium battery","Charging chipset","Protective casing"],
+materials: ["Lithium battery","Charging chipset","Protective casing"],
 image: "https://github.com/Aadhi6374/image/blob/main/Pin.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0CXDXP8VR?tag=aadhithyan637-20"
 },
@@ -154,7 +154,7 @@ rating: 4.5,
 reviews: 1077,
 description: "Improve your sleep quality and wake up refreshed every day. This product helps create a calm, relaxing environment for deeper rest. Ideal for stress relief and better sleep routines, it transforms your nights into peaceful and rejuvenating experiences.",
 features: ["Improves sleep","Relaxing environment","Easy to use","Compact"],
-ingredients: ["Durable body","Quiet motor","Safe materials"],
+materials: ["Durable body","Quiet motor","Safe materials"],
 image: "https://github.com/Aadhi6374/image/blob/main/humdifier.png?raw=true",
 amazon: "https://www.amazon.com/dp/B0C9HBKQ5D?tag=aadhithyan637-20"
 },
@@ -171,7 +171,7 @@ features: [
  "Comfort fit",
  "Blocks light",
  "Rechargeable"],
-ingredients: [
+materials: [
  "Soft fabric",
  "Bluetooth module",
  "Rechargeable battery"],
@@ -191,7 +191,7 @@ features: [
   "Portable",
  "Deep bass",
  "Bluetooth"],
-ingredients: [
+materials: [
  "Speaker drivers",
  "Battery unit",
  "Durable shell"],
@@ -212,7 +212,7 @@ features: [
 "Easy setup",
 "Voice control support"
 ],
-ingredients: [
+materials: [
 "Streaming chipset",
 "Wi-Fi module",
 "HDMI interface",
@@ -236,7 +236,7 @@ features: [
 "Secure attachment",
 "Long battery support"
 ],
-ingredients: [
+materials: [
 "Tracking chip",
 "Bluetooth module",
 "Durable casing",
@@ -260,7 +260,7 @@ features: [
 "Portable and stylish",
 "Easy to carry"
 ],
-ingredients: [
+materials: [
 "Stainless steel body",
 "Insulated inner layer",
 "BPA-free lid",
@@ -284,7 +284,7 @@ features: [
 "Multi-surface printing",
 "Compact design"
 ],
-ingredients: [
+materials: [
 "Inkjet cartridge system",
 "Rechargeable battery",
 "Digital control panel",
@@ -308,7 +308,7 @@ features: [
 "ADA accepted",
 "Sleek design"
 ],
-ingredients: [
+materials: [
 "Sonic motor",
 "Rechargeable battery",
 "Soft bristle head",
@@ -404,7 +404,7 @@ features: [
 "Outdoor ready",
 "Reliable backup"
 ],
-ingredients: [
+materials: [
 "Lithium battery",
 "Charging chipset",
 "Solar support unit",
@@ -500,7 +500,7 @@ features: [
 "Lightweight",
 "Perfect decor"
 ],
-ingredients: [
+materials: [
 "Soft fabric",
 "Cotton filling",
 "Durable stitching",
@@ -525,7 +525,7 @@ features: [
 "Adjustable drawstring waist",
 "Perfect for beach, travel & casual wear"
 ],
-ingredients: [
+materials: [
 "98% cotton, 2% polyester fabric",
 "Soft skin-friendly material",
 "Breathable linen blend",
