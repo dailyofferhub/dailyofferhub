@@ -809,7 +809,40 @@ materials: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/Plant%20decor.png?raw=true",
 amazon: "https://www.amazon.com/Rose-Artificial-Greenery-Bathroom-Farmhouse/dp/B0F4KHZS6T?crid=2H25XSQFDOD5K&dib=eyJ2IjoiMSJ9.6GLOIPn5Q5mwM9iohc-GTVshr4M4eiqHgY8mVggUapm_FAKS7yFjriD6OTj4ZdKnu7wQQGfQGvHAAsDNjlmXCVOcGXsSReW-jsTFuDfPiwzC6U64K_p4714Uamvm9rV2Opls2EVDkAIfh6d49kj_C1eYWKWE7u7oqymC8C6UXPt7TUunF3Bvvl4eumeh4hklWsP4b4mhZMmqGpLHx1wf1I5Ob3UlQOVa7vU5pPb7IkkieSS8XlnvcZllj_5lzOjkULjRfcbAv048ecFuH8AMWlnlcsAkPyQik_u-BWk6edU.9bOQlj1xyJwfbD2fF021TIZrdwxrsRf-tDO2fTx8OHQ&dib_tag=se&keywords=fake%2Bplants%2Bindoor%2Brealistic%2Bsmall&qid=1778074876&sprefix=fake%2Bplants%2Bindoor%2Brealistic%2Bsmall%2Caps%2C480&sr=8-7&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=cf71e0267384b99e70f28d44e61cb070&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 34,
+name: "ASAKUKI Essential Oil Diffuser for Home, 500ML Aromatherapy Diffuser Humidifier with Remote Control, 7 Color LED Lights, Quiet Cool Mist Diffuser for Bedroom, Office, Gift for Mom (Yellow)",
+price: 59,
+rating: 4.4,
+reviews: 70306,
+description: "Transform your home into a relaxing and cozy space with the ASAKUKI 500ML Aromatherapy Diffuser. Designed with a modern wood-grain finish and soft LED lighting, this stylish diffuser adds both comfort and elegance to any bedroom, office, or living room. It releases a cool, soothing mist that helps create a calm atmosphere while supporting relaxation and stress relief. With whisper-quiet operation, multiple timer settings, remote control convenience, and 7 color-changing LED lights, it’s perfect for daily self-care, better sleep, yoga sessions, or creating a peaceful home vibe. Its large 500ML capacity provides long-lasting fragrance and moisture without frequent refills, making it a practical and aesthetic addition to any space.",
+features: [
+"500ML tank supports long mist runtime",
+"7 LED colors create cozy room vibes",
+"Ultra quiet fan for peaceful relaxing",
+"Remote control works from long distance",
+"Multiple mist modes for custom comfort",
+"Auto shut off prevents overheating risk",
+"Perfect for bedroom office yoga spaces",
+"Modern design suits aesthetic interiors"
+],
+
+materials: [
+"Made with durable premium PP material",
+"BPA free build safe for daily use",
+"ABS plastic body for strong durability",
+"Smooth finish with modern wood design",
+"High quality ultrasonic mist technology",
+"Heat resistant material for safe usage",
+"Lightweight build easy to place around",
+"Strong construction for long term use"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/Humidifier%20trendding.png?raw=true",
+amazon: "https://www.amazon.com/ASAKUKI-Essential-Ultrasonic-Aromatherapy-Humidifier/dp/B01MR4Y0CZ?crid=2WAYZGIL5H136&dib=eyJ2IjoiMSJ9.5PyweMsrY_e9GHJi310DBv0Tdskk3dRmpRy5lJZuir-krK6CNUGXdCsmb9y9BYgcoW6m8mLoh4_-EqUiedUjXy5Qj1EqSOVZIpr1Dst_OzMzC6g7EVHp2LyAt0r5e89AyZH6p7-2Y2rm8REqnAXGa7Qzu5vexoPi6wz2G4mA6Soohzb74_13NFgHNmnC2KqTy0huUUD0-j89gKLaUrz62fo4YTOV47L15SgHu5eiZc74IfeR0V5wGlfIi3P0YBbG_zHkytbJP9LuGVG8SLfFJp5JK9DMzJzsv4VNdiQJzVg.boiW3OFqxdH7F9pfUj__endsC0HF_DRMFls5XyjBnq4&dib_tag=se&keywords=Safety%2B1st%2BFilter%2BFree%2BCool%2BMist%2BHumidifier%2C%2BPink%2C%2BPink&nsdOptOutParam=true&qid=1778161835&sprefix=safety%2B1st%2Bfilter%2Bfree%2Bcool%2Bmist%2Bhumidifier%2C%2Bpink%2C%2Bpink%2Caps%2C530&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=cbce4b969c77b3572f793fa5b593b6d3&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
