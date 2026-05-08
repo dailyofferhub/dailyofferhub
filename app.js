@@ -841,6 +841,40 @@ materials: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/Humidifier%20trendding.png?raw=true",
 amazon: "https://www.amazon.com/ASAKUKI-Essential-Ultrasonic-Aromatherapy-Humidifier/dp/B01MR4Y0CZ?crid=2WAYZGIL5H136&dib=eyJ2IjoiMSJ9.5PyweMsrY_e9GHJi310DBv0Tdskk3dRmpRy5lJZuir-krK6CNUGXdCsmb9y9BYgcoW6m8mLoh4_-EqUiedUjXy5Qj1EqSOVZIpr1Dst_OzMzC6g7EVHp2LyAt0r5e89AyZH6p7-2Y2rm8REqnAXGa7Qzu5vexoPi6wz2G4mA6Soohzb74_13NFgHNmnC2KqTy0huUUD0-j89gKLaUrz62fo4YTOV47L15SgHu5eiZc74IfeR0V5wGlfIi3P0YBbG_zHkytbJP9LuGVG8SLfFJp5JK9DMzJzsv4VNdiQJzVg.boiW3OFqxdH7F9pfUj__endsC0HF_DRMFls5XyjBnq4&dib_tag=se&keywords=Safety%2B1st%2BFilter%2BFree%2BCool%2BMist%2BHumidifier%2C%2BPink%2C%2BPink&nsdOptOutParam=true&qid=1778161835&sprefix=safety%2B1st%2Bfilter%2Bfree%2Bcool%2Bmist%2Bhumidifier%2C%2Bpink%2C%2Bpink%2Caps%2C530&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=cbce4b969c77b3572f793fa5b593b6d3&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 35,
+name: "PAVOI 14K Gold Plated Solid 925 Sterling Silver CZ Simulated Diamond Stackable Ring Eternity Bands for Women",
+price: 59,
+rating: 4.4,
+reviews: 27535,
+description: "Create a calming atmosphere with this stylish ultrasonic aroma diffuser. Designed for bedrooms, offices, yoga spaces, and relaxing interiors, it combines soothing mist, colorful LED lighting, and ultra-quiet performance for everyday comfort.",
+Features:
+[
+"500ML tank supports long mist runtime",
+"7 LED colors create cozy room vibes",
+"Ultra quiet fan for peaceful relaxing",
+"Remote control works from long distance",
+"Multiple mist modes for custom comfort",
+"Auto shut off prevents overheating risk",
+"Perfect for bedroom office yoga spaces",
+"Modern design suits aesthetic interiors"
+],
+
+Materials:
+[
+"Made with durable premium PP material",
+"BPA free build safe for daily use",
+"ABS plastic body for strong durability",
+"Smooth finish with modern wood design",
+"High quality ultrasonic mist technology",
+"Heat resistant material for safe usage",
+"Lightweight build easy to place around",
+"Strong construction for long term use"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/Ring%20for%20woman%201.png?raw=true",
+amazon: "https://www.amazon.com/PAVOI-Yellow-Zirconia-Stackable-Eternity/dp/B01MFF1DEY?crid=3T8Y2P3J242YF&dib=eyJ2IjoiMSJ9.E_eoiWuPERtO6vraw-HegVCRywjvujiqxTAd5xDeiELfxleBb4FK-qVFx031KZkuWRstmW_FCY8_2PNDVXGJ0dLUm5lTHfwiaaoKabQOi3P-eFHI0mLYDidCgcPQi-JDSRLLDf6bxqWNYhn3Shj5VzfLqZlB5BwBMopMMP73SxkfjnzBqQbBT6MyvfSHiJ6aggDJQZxGN31wEjXBeDE46DRtGW64sA5LbPtceiGLCBmdbkQ4fSBkX-e8zsMQmlL8m6clQTY5zG-0rA4BLx9q9NSd0ekQZ4s4sKeZsQLvvAI.bxtYAQco2cs_PHMHtyhKJotDzCWI-iX8mGvYlEEaIJI&dib_tag=se&keywords=knuckle%2Brings%2Bfor%2Bwomen&qid=1778252619&sprefix=knuc%2Caps%2C558&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&psc=1&linkCode=ll2&tag=aadhithyan637-20&linkId=7d82c91e20ca71e35176af0bacb963c7&language=en_US&ref_=as_li_ss_tl"
 }
 
 
