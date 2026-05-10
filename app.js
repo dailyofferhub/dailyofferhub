@@ -905,6 +905,70 @@ Materials: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/Digital%20Photo%20frame.png?raw=true",
 amazon: "https://www.amazon.com/Akimart-Digital-Auto-Rotate-Anywhere-Android/dp/B083SH697H?crid=3IOXQ4NFWCB03&dib=eyJ2IjoiMSJ9.RwPuA70uL1ZQJ-nFYqyoDysekWLiQJ8h1HfV1ym-9W_rkiD_yY0cnHD-k959bL-bwp8Ya5m3CH3tD7FhDwNZycGZJwbiWdh1u8idZxNMXOA9OsC-sd9BeNVJhq2gmYJbjfVxlaSUTedtZH55I1xEulCtKDEzc_D15eaVb76IDRy_uTz_w7jGTvzFskXb8J1u1Yp0Rq2gv7_J6e2T0X5QGT3W4pTx0ez7ExXy3gFMio2mhe_qQRvWMa3TTCAfEOZ-3B7VjM0x-fp7DEl3ITg4xmowDiwB6VZk4Kf0fj6rEFs.N20t2aSEmOKWNUQ6RbzYn0EBFsrkMHd4eamSJf1-fGw&dib_tag=se&keywords=Personalized%2Bphoto%2Bgifts&qid=1778339692&sprefix=personalized%2Bphoto%2Bgifts%2Caps%2C500&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=edd6e4f33b7e2d608e6be24ceed08f3c&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 36,
+name: "32GB FRAMEO 10.1 Inch Smart WiFi Digital Photo Frame 1280x800 IPS LCD Touch Screen, Auto-Rotate Portrait and Landscape, Built in 32GB Memory, Share Moments Instantly via Frameo App from Anywhere",
+price: 59,
+rating: 4.5,
+reviews: 10258,
+description: "A beautiful smart digital photo frame that keeps families connected through memories. Instantly send photos and short videos from anywhere using the Frameo app. Perfect for Mother’s Day, birthdays, weddings, and long-distance loved ones. A heartfelt gift that brings smiles every single day.",
+Features: [
+"10.1 inch IPS HD touch screen display",
+"Instantly share photos and videos via Frameo app",
+"32GB built in memory stores thousands of memories",
+"Auto rotate supports portrait and landscape mode",
+"WiFi connected for sharing from anywhere",
+"Easy setup perfect for all ages",
+"Display weather clock and custom captions",
+"Perfect gift for moms family and loved ones"
+],
+
+Materials: [
+"Premium IPS LCD touch screen display",
+"Durable black modern frame design",
+"High resolution 1280 x 800 display",
+"Built with user friendly touch controls",
+"Compatible with iOS and Android devices",
+"Secure private photo sharing technology",
+"Strong stable detachable frame stand",
+"Designed for long lasting everyday use"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/Digital%20Photo%20frame.png?raw=true",
+amazon: "https://www.amazon.com/Akimart-Digital-Auto-Rotate-Anywhere-Android/dp/B083SH697H?crid=3IOXQ4NFWCB03&dib=eyJ2IjoiMSJ9.RwPuA70uL1ZQJ-nFYqyoDysekWLiQJ8h1HfV1ym-9W_rkiD_yY0cnHD-k959bL-bwp8Ya5m3CH3tD7FhDwNZycGZJwbiWdh1u8idZxNMXOA9OsC-sd9BeNVJhq2gmYJbjfVxlaSUTedtZH55I1xEulCtKDEzc_D15eaVb76IDRy_uTz_w7jGTvzFskXb8J1u1Yp0Rq2gv7_J6e2T0X5QGT3W4pTx0ez7ExXy3gFMio2mhe_qQRvWMa3TTCAfEOZ-3B7VjM0x-fp7DEl3ITg4xmowDiwB6VZk4Kf0fj6rEFs.N20t2aSEmOKWNUQ6RbzYn0EBFsrkMHd4eamSJf1-fGw&dib_tag=se&keywords=Personalized%2Bphoto%2Bgifts&qid=1778339692&sprefix=personalized%2Bphoto%2Bgifts%2Caps%2C500&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=edd6e4f33b7e2d608e6be24ceed08f3c&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 37,
+name: "Glamnetic Press On Nails - MaDamn | French Tip UV Finish Short Pointed Almond Fake Nails, Salon Quality Semi-Transparent Nails in 12 Sizes - 24 Nail Kit with Glue",
+price: 59,
+rating: 4.1,
+reviews: 12833,
+description: "Experience salon-quality nails at home with the Glamnetic Ma Damn Press-On Nails. Designed with a trendy short almond shape and elegant semi-transparent French tip finish, these reusable gel nails deliver a luxurious professional look in minutes. The durable full-cover design offers comfortable wear, long-lasting hold, and effortless application, making them perfect for everyday glam, special occasions, prom nights, weddings, and modern beauty lovers who want stylish nails without expensive salon visits.",
+Features: [
+"Salon quality semi-transparent French tip finish",
+"Short almond shape for elegant modern style",
+"Quick easy at-home application in minutes",
+"Durable gel press-on nails with comfortable fit",
+"Long-lasting wear resistant to chipping",
+"Reusable design for multiple wears",
+"Includes 24 nails in 12 inclusive sizes",
+"Perfect for prom weddings parties and daily glam"
+],
+
+Materials: [
+"Premium quality reusable gel press-on nails",
+"Glossy semi-transparent French tip coating",
+"Durable lightweight full-cover nail design",
+"Comfortable flexible almond-shaped tips",
+"High-shine salon-inspired finish",
+"Strong adhesive compatible nail surface",
+"Designed for smooth secure application",
+"Made for long-lasting everyday beauty wear"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/Prom%20nails.png?raw=true",
+amazon: "https://www.amazon.com/Glamnetic-Press-Nails-Reusable-Semi-Transparent/dp/B099FK66CL?crid=3OCPUXFA2KPC7&dib=eyJ2IjoiMSJ9.rLxvfaLHrgrtvFWe9qM_SA7fZtMjuvBC5LBjMmLdE6fBYI4aQvgrQ7vsiVosXTRXJSBEcR7hkWLebPCZUlT7rPUkWzDhotIvWkCvMvAdS9ttDydexY9lZeL14AkWZT3qKoMAfkdlp4q5vnkCK9RMQG9K3iGP3brA8RvF1Vw48HO2k8MbAWq7as0LESZbSw1m-alXNr37ipkSaERU_dRtFfO02_2mCblOtfJAcsUY5bMyWoot_du4meTTqvB7dpTHPz7V0GvdBSsa8D_c3CSO3YF-4rt415SOwSBLI4hzWqo.nyRuiJv_K1lX1fa02CQFDVSiJsXw6BNM0YHiBUs3XJc&dib_tag=se&keywords=Glam%2B%26%2BReusable%2BPress-On%2BNails&qid=1778410585&sprefix=glam%2B%26%2Breusable%2Bpress-on%2Bnails%2Caps%2C508&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=e9944c11999721971abc3f73f494b7df&language=en_US&ref_=as_li_ss_tl"
 }
 
 
