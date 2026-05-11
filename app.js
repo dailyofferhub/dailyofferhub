@@ -969,6 +969,38 @@ Materials: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/Prom%20nails.png?raw=true",
 amazon: "https://www.amazon.com/Glamnetic-Press-Nails-Reusable-Semi-Transparent/dp/B099FK66CL?crid=3OCPUXFA2KPC7&dib=eyJ2IjoiMSJ9.rLxvfaLHrgrtvFWe9qM_SA7fZtMjuvBC5LBjMmLdE6fBYI4aQvgrQ7vsiVosXTRXJSBEcR7hkWLebPCZUlT7rPUkWzDhotIvWkCvMvAdS9ttDydexY9lZeL14AkWZT3qKoMAfkdlp4q5vnkCK9RMQG9K3iGP3brA8RvF1Vw48HO2k8MbAWq7as0LESZbSw1m-alXNr37ipkSaERU_dRtFfO02_2mCblOtfJAcsUY5bMyWoot_du4meTTqvB7dpTHPz7V0GvdBSsa8D_c3CSO3YF-4rt415SOwSBLI4hzWqo.nyRuiJv_K1lX1fa02CQFDVSiJsXw6BNM0YHiBUs3XJc&dib_tag=se&keywords=Glam%2B%26%2BReusable%2BPress-On%2BNails&qid=1778410585&sprefix=glam%2B%26%2Breusable%2Bpress-on%2Bnails%2Caps%2C508&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=e9944c11999721971abc3f73f494b7df&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 38,
+name: "Beetles 44pcs Gel Nail Polish Set - 36 Colors Colorful Muse Gel Polish Kit Pink Nude Red Yellow Green Black White Glitter Nail Kit Base Top Coat UV LED Needed Salon DIY Home Gift for Women",
+price: 59,
+rating: 4.5,
+reviews: 27114,
+description: "Bring salon-quality nail art home with the colorful and trending beetles 44pcs Gel Nail Polish Set. This viral gel nail kit includes 36 vibrant shades with glossy, matte, and glitter finishes perfect for creating endless nail designs. Designed for beginners and nail lovers, the long-lasting UV gel formula delivers a smooth, high-shine manicure that stays beautiful for weeks. Perfect for DIY nail art, seasonal looks, gifts, and everyday glam.",
+Features: [
+"36 vibrant gel nail polish colors for endless nail art styles",
+"Includes glossy matte and holographic glitter top coats",
+"Long-lasting salon-quality gel formula up to 28+ days",
+"Highly pigmented colors with smooth easy application",
+"Perfect for DIY nail designs at home or salon use",
+"Includes nail file buffer clipper and cuticle stick tools",
+"Works with UV LED nail lamps for durable glossy results",
+"Great gift idea for women nail lovers and beauty enthusiasts"
+],
+
+Materials: [
+"Premium soak-off UV LED gel nail polish formula",
+"High-pigment colorful gel polish collection",
+"Glossy matte and holographic glitter top coat formulas",
+"Durable chip-resistant salon-quality finish",
+"Smooth self-leveling gel consistency for easy application",
+"Low-odor nail gel designed for comfortable use",
+"Long-lasting shine with professional-quality wear",
+"Includes manicure accessories for complete nail care setup"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/colour%20ful%20nails.png?raw=true",
+amazon: "https://www.amazon.com/Beetles-Color-Gel-Nail-Polish/dp/B0CGZBNB24?content-id=amzn1.sym.ba6f9003-79bb-4913-9b6a-a21346304dcb%3Aamzn1.sym.ba6f9003-79bb-4913-9b6a-a21346304dcb&crid=R7RYZ5FDZAH9&cv_ct_cx=colourful%2Bnail%2Bdesign&keywords=colourful%2Bnail%2Bdesign&pd_rd_i=B0CGZBNB24&pd_rd_r=6d581638-b270-4a05-b3be-bd289a2ea510&pd_rd_w=jNrBt&pd_rd_wg=UZel8&pf_rd_p=ba6f9003-79bb-4913-9b6a-a21346304dcb&pf_rd_r=6NVCQ8EHE5AQC3AZGFZX&qid=1778514205&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=colourful%2Bnail%2Bdesign%2Caps%2C411&sr=1-4-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons&aref=wfvIdwlJc5&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=7f11d063968fe939eb7c7421c5a1c4a3&language=en_US&ref_=as_li_ss_tl"
 }
 
 
