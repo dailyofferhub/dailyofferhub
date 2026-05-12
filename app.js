@@ -1001,7 +1001,40 @@ Materials: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/colour%20ful%20nails.png?raw=true",
 amazon: "https://www.amazon.com/Beetles-Color-Gel-Nail-Polish/dp/B0CGZBNB24?content-id=amzn1.sym.ba6f9003-79bb-4913-9b6a-a21346304dcb%3Aamzn1.sym.ba6f9003-79bb-4913-9b6a-a21346304dcb&crid=R7RYZ5FDZAH9&cv_ct_cx=colourful%2Bnail%2Bdesign&keywords=colourful%2Bnail%2Bdesign&pd_rd_i=B0CGZBNB24&pd_rd_r=6d581638-b270-4a05-b3be-bd289a2ea510&pd_rd_w=jNrBt&pd_rd_wg=UZel8&pf_rd_p=ba6f9003-79bb-4913-9b6a-a21346304dcb&pf_rd_r=6NVCQ8EHE5AQC3AZGFZX&qid=1778514205&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=colourful%2Bnail%2Bdesign%2Caps%2C411&sr=1-4-2c727eeb-987f-452f-86bd-c2978cc9d8b9-spons&aref=wfvIdwlJc5&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=7f11d063968fe939eb7c7421c5a1c4a3&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 39,
+name: "Beetles Cat Eye Gel Nail Polish Set, 6 Colors Fairy Garden Pastel Spring Shimmer Glitter Gel Polish Kit Pink Red Blue Orange Green Purple Velvet Gel Soak Off UV Magnet Nail Art DIY Gift for Women",
+price: 59,
+rating: 4.5,
+reviews: 20164,
+description: "Beetles Fairy Garden Cat Eye Gel Nail Polish Set features 6 dreamy pastel shimmer shades with a stunning velvet cat eye effect for salon-quality nails at home. This magnetic gel polish collection includes pink, red, blue, orange, green, and purple shades designed to create elegant glossy nail art for every season. The long-lasting chip-resistant formula delivers up to 28+ days of shine when cured with a UV/LED lamp. Perfect for beginners and nail lovers, the included magnetic tool helps create dazzling cat eye designs with ease. Ideal for DIY manicures, special occasions, and beauty gifts for women who love trendy nail art styles.",
+Features: [
+"6 pastel cat eye gel nail polish colors with velvet shimmer effect",
+"Magnetic cat eye formula creates unique dazzling nail art styles",
+"Long-lasting chip-resistant wear up to 28+ days with glossy shine",
+"Includes pink red blue orange green and purple pastel shades",
+"Highly pigmented smooth gel formula for easy even application",
+"Works with UV LED nail lamps for durable salon-quality results",
+"Perfect for DIY nail art home manicure and professional salon use",
+"Elegant beauty gift set for women nail lovers and special occasions"
+],
+
+Materials: [
+"Premium soak-off UV LED gel nail polish formula",
+"Magnetic shimmer pigments for velvet cat eye effects",
+"High-pigment pastel color gel polish collection",
+"Glossy long-lasting chip-resistant salon-quality finish",
+"Smooth self-leveling gel consistency for effortless application",
+"Durable flexible gel formula with strong nail adhesion",
+"Professional-quality shimmer glitter nail polish pigments",
+"Compact portable nail polish bottles perfect for travel and gifting"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/nails%20neww.png?raw=true",
+amazon: "https://www.amazon.com/beetles-Gel-Polish-Beetles-nailpolish/dp/B0D2LFLL98?crid=JK9RNI9RWVUA&dib=eyJ2IjoiMSJ9.qWduQaYJJ_ZzMunqEOngmaMuCAmlqvaHicyx4B5tlPiXX-ZbM9ODVW44J5Znw2oyoD9_KAXSarOJ9Fl4IBhZU9X8Hn1ya7--JiKk946JD8WtiyNZc2HRbqxPgTGOMnRsrEhee4Rt0l45edejMLAiavehnZxEdAd4H86ywnKthbN41YX2AmyN3AaLKGjz1_SBRKMMsmXEuXEpLM2pOTSVHQuyjJWjnOIQ1VmeOiudqAZYn7NZq7sDgAkXEwzvzBHfcHSX4DwQI6Eom7i_Obeu0Qffwj_dNOeHlBJepZEKY1o.KO2VFUS98evhRJPM6e6JiAL5kmCz3CMIR_JiA9xFi3Q&dib_tag=se&keywords=cat%2Beye%2Bnail&qid=1778597960&refinements=p_36%3A-2000&rnid=386662011&s=beauty&sprefix=cat%2Beye%2Bnail%2Cbeauty%2C510&sr=1-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=db77e0d53b91d2b6c7feb5a94d68e319&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
