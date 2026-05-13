@@ -1033,6 +1033,38 @@ Materials: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/nails%20neww.png?raw=true",
 amazon: "https://www.amazon.com/beetles-Gel-Polish-Beetles-nailpolish/dp/B0D2LFLL98?crid=JK9RNI9RWVUA&dib=eyJ2IjoiMSJ9.qWduQaYJJ_ZzMunqEOngmaMuCAmlqvaHicyx4B5tlPiXX-ZbM9ODVW44J5Znw2oyoD9_KAXSarOJ9Fl4IBhZU9X8Hn1ya7--JiKk946JD8WtiyNZc2HRbqxPgTGOMnRsrEhee4Rt0l45edejMLAiavehnZxEdAd4H86ywnKthbN41YX2AmyN3AaLKGjz1_SBRKMMsmXEuXEpLM2pOTSVHQuyjJWjnOIQ1VmeOiudqAZYn7NZq7sDgAkXEwzvzBHfcHSX4DwQI6Eom7i_Obeu0Qffwj_dNOeHlBJepZEKY1o.KO2VFUS98evhRJPM6e6JiAL5kmCz3CMIR_JiA9xFi3Q&dib_tag=se&keywords=cat%2Beye%2Bnail&qid=1778597960&refinements=p_36%3A-2000&rnid=386662011&s=beauty&sprefix=cat%2Beye%2Bnail%2Cbeauty%2C510&sr=1-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=db77e0d53b91d2b6c7feb5a94d68e319&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 40,
+name: "UNA GELLA Almond Nail Tips 216pcs Medium Almond Press on Nails Pre-shape Gel Fake Nails for Full Cover Acrylic French False Nails For Nail Extension, DIY Salon 12 Sizes Gelly Tips",
+price: 59,
+rating: 4.4,
+reviews: 24373,
+description: "UNA GELLA Almond Nail Tips are designed to create salon-quality gel x nail extensions at home with a professional natural finish. This set includes 216 pre-shaped medium almond press on nail tips in 12 sizes for easy customized fitting. The clear full cover gelly tips are lightweight, durable, and flexible, making them perfect for colorful nail designs, acrylic nail looks, French manicures, and trendy DIY salon nails. Ideal for beginners and nail lovers, these nail extension tips work perfectly with gel polish, cat eye nails, chrome nails, and modern Pinterest-inspired nail art styles.",
+Features: [
+"216 pre-shaped medium almond nail tips for salon-quality nail extensions",
+"Includes 12 different sizes for comfortable custom nail fitting",
+"Clear full cover gelly tips perfect for gel x and acrylic nail designs",
+"Lightweight flexible nail tips designed for natural comfortable wear",
+"Strong durable press on nail tips resistant to cracking and breaking",
+"Perfect for colorful nail art French manicure and trendy almond nails",
+"Easy application suitable for DIY home manicure and professional salons",
+"Works perfectly with gel polish chrome cat eye and glitter nail designs"
+],
+
+Materials: [
+"Premium soft gel full cover nail tip material",
+"Clear lightweight flexible gelly nail extension tips",
+"Durable break-resistant press on nail structure",
+"Smooth pre-shaped almond nail tip design",
+"Professional salon-quality nail extension material",
+"Natural-looking transparent nail tips for custom nail art",
+"Easy-to-file and easy-to-paint gel nail surface",
+"Long-lasting reusable nail tips for DIY manicure applications"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/una%20gella%20product.png?raw=true",
+amazon: "https://www.amazon.com/UNA-GELLA-Pre-Shape-Acrylic-Extension/dp/B0916DV6VH?crid=2VHE88QWJ0HLP&dib=eyJ2IjoiMSJ9.FCWM6bagHQ7cdKVr3wFgIbw9xwhmMF0k1wY-Ze5jiPCvdFDd80vBz8XXRSe3uhgo4XM9JlRbljIKKZLS8oEpOglJCeM2tO0mWdzdJnTRtwBOFdaipdlDkXwszJ6CMkjaORXSLXylVP_SugTtTQrjM71ATWGWi3Jm3pT9SsnSY6WJUWiT2QjEJwDHO2PSIOpllrx8URkjhDdmLVkrxqyOUltP8SBRsLPAFZekFRwryUqSe3kAQXZuFfvDYYWgtdzJ3PNytsKaOE79gSRM737-7PH1T0kjmIdh5NU1V6PwmPw.8M65V3NWSEtGwRVmjV9PyIIMdPWRUW1-xP0AZZzLi5s&dib_tag=se&keywords=different%2Bcoloured%2Bnails&qid=1778646938&s=beauty&sprefix=different%2Bcoloured%2Bnails%2Cbeauty%2C503&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=38fda357df95eaca146f681d793dd2ff&language=en_US&ref_=as_li_ss_tl"
 }
 
 
