@@ -1065,7 +1065,40 @@ Materials: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/una%20gella%20product.png?raw=true",
 amazon: "https://www.amazon.com/UNA-GELLA-Pre-Shape-Acrylic-Extension/dp/B0916DV6VH?crid=2VHE88QWJ0HLP&dib=eyJ2IjoiMSJ9.FCWM6bagHQ7cdKVr3wFgIbw9xwhmMF0k1wY-Ze5jiPCvdFDd80vBz8XXRSe3uhgo4XM9JlRbljIKKZLS8oEpOglJCeM2tO0mWdzdJnTRtwBOFdaipdlDkXwszJ6CMkjaORXSLXylVP_SugTtTQrjM71ATWGWi3Jm3pT9SsnSY6WJUWiT2QjEJwDHO2PSIOpllrx8URkjhDdmLVkrxqyOUltP8SBRsLPAFZekFRwryUqSe3kAQXZuFfvDYYWgtdzJ3PNytsKaOE79gSRM737-7PH1T0kjmIdh5NU1V6PwmPw.8M65V3NWSEtGwRVmjV9PyIIMdPWRUW1-xP0AZZzLi5s&dib_tag=se&keywords=different%2Bcoloured%2Bnails&qid=1778646938&s=beauty&sprefix=different%2Bcoloured%2Bnails%2Cbeauty%2C503&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=38fda357df95eaca146f681d793dd2ff&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 41,
+name: "SplashEZ 3-in-1 Splash Pad, Sprinkler for Kids & Baby Pool for Learning – Toddler Sprinkler Pool, 60’’ Outside Water Toys – “from A to Z” Outdoor Play Mat for Babies & Toddlers",
+price: 59,
+rating: 4.4,
+reviews: 28516,
+description: "Bring home endless summer fun with the SplashEZ 3-in-1 Splash Pad for Kids & Toddlers — the perfect outdoor water toy that combines learning, play, and cooling fun in one exciting splash pool. Designed with colorful alphabet and animal learning graphics, this educational splash pad helps toddlers learn while they play under refreshing sprinkler fountains. Made with BPA-free, non-slip, child-safe materials, SplashEZ creates safe backyard adventures for babies, toddlers, kids, and even pets. Perfect for summer outdoor activities, toddler learning games, backyard water parties, and family fun.",
+Features: [
+"Educational splash pad with colorful alphabet and animal learning design",
+"Refreshing sprinkler fountain keeps toddlers cool during hot summer days",
+"Extra large splash play area perfect for babies toddlers kids and pets",
+"Non-slip shallow water surface designed for safe outdoor water play",
+"BPA and phthalate free splash pad safe for children 12 months and older",
+"Learning through play concept encourages early childhood development",
+"Easy backyard setup connects quickly to standard garden water hose",
+"Perfect summer outdoor toy for family activities water games and parties"
+],
+
+Materials: [
+"Premium BPA-free child-safe splash pad material",
+"Durable heavy-duty PVC outdoor water play construction",
+"Soft non-slip splash surface for safe toddler activities",
+"Leak-resistant reinforced sprinkler edge design",
+"Eco-friendly phthalate-free kiddie pool material",
+"Flexible foldable portable backyard splash pad structure",
+"Water-resistant outdoor durable printed learning mat surface",
+"Long-lasting weather-resistant summer sprinkler pool material"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/summer%20pool.png?raw=true",
+amazon: "https://www.amazon.com/SplashEZ-Sprinkler-Splash-Wading-Learning/dp/B07MNMT3M7?dib=eyJ2IjoiMSJ9.fE8vMBLps3WIoqu-7x2UaR13GT36wqXFS1ejVkyZK6n6NX-35-Bnc9mhXwzzZlOYlEqduU4tyNzHIgzpldb2ApOWybiSf97XFKxhQ7seEYzgPYHhdN0jHOUAo7Y_TMzks0HjuUr6DejRThpzZv22vKrkGagFYxgCi2KgIMzzzxKFXiF4sxrBSbWTfhLLDcTsJ1FGtGynlPer8n9YUFm9SZ3pqlfQ3Dbn1DAhKoeoZaArAyU7krM5OHd_9FXW0u5OTFnUrQW0CAqlWGu3Fn83JhUDLun-P58xKUjXkMgvEQg.8kd1JCx_dTA1vCCUjU6uJLN_BTSHhyddDQvO_cK_3vQ&dib_tag=se&keywords=wengty%2Bsplash%2Bpad&qid=1778680218&sr=8-7&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=940724541f199ff40db3e8ff85a2b604&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
