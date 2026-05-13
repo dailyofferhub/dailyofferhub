@@ -850,7 +850,7 @@ price: 59,
 rating: 4.4,
 reviews: 27535,
 description: "Elegant 14K gold plated stackable ring with sparkling CZ stones perfect for everyday luxury and minimalist jewelry lovers.",
-Features: [
+features: [
 "1.8mm thin band perfect for ring stacking",
 "14K gold plated over 925 sterling silver",
 "AAAAA cubic zirconia stones sparkle brightly",
@@ -861,7 +861,7 @@ Features: [
 "Perfect for weddings gifts and everyday fashion"
 ],
 
-Materials: [
+materials: [
 "Made with premium 925 sterling silver",
 "Finished with durable 14K gold plating",
 "High quality AAAAA cubic zirconia stones",
@@ -882,7 +882,7 @@ price: 59,
 rating: 4.5,
 reviews: 10258,
 description: "A beautiful smart digital photo frame that keeps families connected through memories. Instantly send photos and short videos from anywhere using the Frameo app. Perfect for Mother’s Day, birthdays, weddings, and long-distance loved ones. A heartfelt gift that brings smiles every single day.",
-Features: [
+features: [
 "10.1 inch IPS HD touch screen display",
 "Instantly share photos and videos via Frameo app",
 "32GB built in memory stores thousands of memories",
@@ -893,7 +893,7 @@ Features: [
 "Perfect gift for moms family and loved ones"
 ],
 
-Materials: [
+materials: [
 "Premium IPS LCD touch screen display",
 "Durable black modern frame design",
 "High resolution 1280 x 800 display",
@@ -914,7 +914,7 @@ price: 59,
 rating: 4.5,
 reviews: 10258,
 description: "A beautiful smart digital photo frame that keeps families connected through memories. Instantly send photos and short videos from anywhere using the Frameo app. Perfect for Mother’s Day, birthdays, weddings, and long-distance loved ones. A heartfelt gift that brings smiles every single day.",
-Features: [
+features: [
 "10.1 inch IPS HD touch screen display",
 "Instantly share photos and videos via Frameo app",
 "32GB built in memory stores thousands of memories",
@@ -925,7 +925,7 @@ Features: [
 "Perfect gift for moms family and loved ones"
 ],
 
-Materials: [
+materials: [
 "Premium IPS LCD touch screen display",
 "Durable black modern frame design",
 "High resolution 1280 x 800 display",
@@ -946,7 +946,7 @@ price: 59,
 rating: 4.1,
 reviews: 12833,
 description: "Experience salon-quality nails at home with the Glamnetic Ma Damn Press-On Nails. Designed with a trendy short almond shape and elegant semi-transparent French tip finish, these reusable gel nails deliver a luxurious professional look in minutes. The durable full-cover design offers comfortable wear, long-lasting hold, and effortless application, making them perfect for everyday glam, special occasions, prom nights, weddings, and modern beauty lovers who want stylish nails without expensive salon visits.",
-Features: [
+features: [
 "Salon quality semi-transparent French tip finish",
 "Short almond shape for elegant modern style",
 "Quick easy at-home application in minutes",
@@ -957,7 +957,7 @@ Features: [
 "Perfect for prom weddings parties and daily glam"
 ],
 
-Materials: [
+materials: [
 "Premium quality reusable gel press-on nails",
 "Glossy semi-transparent French tip coating",
 "Durable lightweight full-cover nail design",
@@ -978,7 +978,7 @@ price: 59,
 rating: 4.5,
 reviews: 27114,
 description: "Bring salon-quality nail art home with the colorful and trending beetles 44pcs Gel Nail Polish Set. This viral gel nail kit includes 36 vibrant shades with glossy, matte, and glitter finishes perfect for creating endless nail designs. Designed for beginners and nail lovers, the long-lasting UV gel formula delivers a smooth, high-shine manicure that stays beautiful for weeks. Perfect for DIY nail art, seasonal looks, gifts, and everyday glam.",
-Features: [
+features: [
 "36 vibrant gel nail polish colors for endless nail art styles",
 "Includes glossy matte and holographic glitter top coats",
 "Long-lasting salon-quality gel formula up to 28+ days",
@@ -989,7 +989,7 @@ Features: [
 "Great gift idea for women nail lovers and beauty enthusiasts"
 ],
 
-Materials: [
+materials: [
 "Premium soak-off UV LED gel nail polish formula",
 "High-pigment colorful gel polish collection",
 "Glossy matte and holographic glitter top coat formulas",
@@ -1010,7 +1010,7 @@ price: 59,
 rating: 4.5,
 reviews: 20164,
 description: "Beetles Fairy Garden Cat Eye Gel Nail Polish Set features 6 dreamy pastel shimmer shades with a stunning velvet cat eye effect for salon-quality nails at home. This magnetic gel polish collection includes pink, red, blue, orange, green, and purple shades designed to create elegant glossy nail art for every season. The long-lasting chip-resistant formula delivers up to 28+ days of shine when cured with a UV/LED lamp. Perfect for beginners and nail lovers, the included magnetic tool helps create dazzling cat eye designs with ease. Ideal for DIY manicures, special occasions, and beauty gifts for women who love trendy nail art styles.",
-Features: [
+features: [
 "6 pastel cat eye gel nail polish colors with velvet shimmer effect",
 "Magnetic cat eye formula creates unique dazzling nail art styles",
 "Long-lasting chip-resistant wear up to 28+ days with glossy shine",
@@ -1021,7 +1021,7 @@ Features: [
 "Elegant beauty gift set for women nail lovers and special occasions"
 ],
 
-Materials: [
+materials: [
 "Premium soak-off UV LED gel nail polish formula",
 "Magnetic shimmer pigments for velvet cat eye effects",
 "High-pigment pastel color gel polish collection",
@@ -1042,7 +1042,7 @@ price: 59,
 rating: 4.4,
 reviews: 24373,
 description: "UNA GELLA Almond Nail Tips are designed to create salon-quality gel x nail extensions at home with a professional natural finish. This set includes 216 pre-shaped medium almond press on nail tips in 12 sizes for easy customized fitting. The clear full cover gelly tips are lightweight, durable, and flexible, making them perfect for colorful nail designs, acrylic nail looks, French manicures, and trendy DIY salon nails. Ideal for beginners and nail lovers, these nail extension tips work perfectly with gel polish, cat eye nails, chrome nails, and modern Pinterest-inspired nail art styles.",
-Features: [
+features: [
 "216 pre-shaped medium almond nail tips for salon-quality nail extensions",
 "Includes 12 different sizes for comfortable custom nail fitting",
 "Clear full cover gelly tips perfect for gel x and acrylic nail designs",
@@ -1053,7 +1053,7 @@ Features: [
 "Works perfectly with gel polish chrome cat eye and glitter nail designs"
 ],
 
-Materials: [
+materials: [
 "Premium soft gel full cover nail tip material",
 "Clear lightweight flexible gelly nail extension tips",
 "Durable break-resistant press on nail structure",
@@ -1074,7 +1074,7 @@ price: 59,
 rating: 4.4,
 reviews: 28516,
 description: "Bring home endless summer fun with the SplashEZ 3-in-1 Splash Pad for Kids & Toddlers — the perfect outdoor water toy that combines learning, play, and cooling fun in one exciting splash pool. Designed with colorful alphabet and animal learning graphics, this educational splash pad helps toddlers learn while they play under refreshing sprinkler fountains. Made with BPA-free, non-slip, child-safe materials, SplashEZ creates safe backyard adventures for babies, toddlers, kids, and even pets. Perfect for summer outdoor activities, toddler learning games, backyard water parties, and family fun.",
-Features: [
+features: [
 "Educational splash pad with colorful alphabet and animal learning design",
 "Refreshing sprinkler fountain keeps toddlers cool during hot summer days",
 "Extra large splash play area perfect for babies toddlers kids and pets",
@@ -1085,7 +1085,7 @@ Features: [
 "Perfect summer outdoor toy for family activities water games and parties"
 ],
 
-Materials: [
+materials: [
 "Premium BPA-free child-safe splash pad material",
 "Durable heavy-duty PVC outdoor water play construction",
 "Soft non-slip splash surface for safe toddler activities",
