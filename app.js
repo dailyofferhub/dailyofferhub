@@ -1048,6 +1048,8 @@ amazon: "https://www.amazon.com/beetles-Gel-Polish-Beetles-nailpolish/dp/B0D2LFL
 
 // ================= HELPER =================
 
+// ================= HELPER =================
+
 function formatReviews(num){
 return num.toLocaleString() + "+"
 }
@@ -1058,11 +1060,112 @@ function renderProducts(){
 
 const grid = document.getElementById("product-grid")
 const params = new URLSearchParams(window.location.search)
+
 const selectedId = parseInt(params.get("product"))
+
+const selectedIds = params.get("products")
+? params.get("products").split(",").map(id => parseInt(id))
+: null
 
 let html = ""
 
-if(selectedId){
+// ================= MULTIPLE PRODUCTS =================
+
+if(selectedIds){
+
+const selectedProducts = products.filter(p =>
+selectedIds.includes(p.id)
+)
+
+if(selectedProducts.length === 0){
+grid.innerHTML = "<h2>Products not found</h2>"
+return
+}
+
+grid.className = "w-full"
+
+selectedProducts.forEach(product => {
+
+html += `
+<div class="w-full flex flex-col md:flex-row gap-10 p-6 border-b">
+
+<div class="w-full md:w-1/2">
+<div class="image-container">
+<img src="${product.image}"
+onmousemove="zoomImage(event,this)"
+onmouseleave="hideZoom(this)">
+</div>
+</div>
+
+<div class="w-full md:w-1/2">
+
+<!-- TITLE -->
+<div class="mb-3">
+
+<h1 class="text-2xl font-bold">
+${product.name}
+<span class="text-sm text-blue-500 ml-2 font-medium">
+(Price may change — check on Amazon)
+</span>
+</h1>
+
+<a href="${product.amazon}" target="_blank" rel="noopener noreferrer"
+class="inline-block mt-3 bg-yellow-400 px-6 py-3 rounded font-bold w-fit">
+Check Latest Price on Amazon
+</a>
+
+</div>
+
+<!-- RATING -->
+<div class="flex items-center mb-3 text-yellow-500 text-sm">
+${"★".repeat(Math.round(product.rating))}
+${"☆".repeat(5 - Math.round(product.rating))}
+<span class="text-gray-600 ml-2">
+(${product.rating} • ${formatReviews(product.reviews)} reviews)
+</span>
+</div>
+
+<!-- DESCRIPTION -->
+<div class="mb-4">
+<h3 class="font-bold text-lg mb-1">Description</h3>
+<p class="text-gray-600">${product.description}</p>
+</div>
+
+<!-- FEATURES -->
+${product.features ? `
+<div class="mb-4">
+<h3 class="font-bold text-lg mb-1">Key Features</h3>
+<ul class="list-disc pl-5 text-gray-700 text-sm">
+${product.features.map(f => `<li>${f}</li>`).join("")}
+</ul>
+</div>
+` : ""}
+
+<!-- INGREDIENTS / MATERIAL -->
+${product.ingredients || product.materials ? `
+<div class="mb-4">
+<h3 class="font-bold text-lg mb-1">
+${product.materials ? "Material" : "Key Ingredients"}
+</h3>
+
+<ul class="list-disc pl-5 text-gray-700 text-sm">
+${(product.ingredients || product.materials).map(i => `<li>${i}</li>`).join("")}
+</ul>
+
+</div>
+` : ""}
+
+</div>
+</div>
+`
+
+})
+
+}
+
+// ================= SINGLE PRODUCT =================
+
+else if(selectedId){
 
 const product = products.find(p => p.id === selectedId)
 
@@ -1086,38 +1189,39 @@ onmouseleave="hideZoom(this)">
 
 <div class="w-full md:w-1/2">
 
-<!-- ✅ TITLE + PRICE NOTE + BUTTON -->
+<!-- TITLE -->
 <div class="mb-3">
 
-  <!-- Title with price note -->
-  <h1 class="text-2xl font-bold">
-    ${product.name}
-    <span class="text-sm text-blue-500 ml-2 font-medium">
-  (Price may change — check on Amazon)
+<h1 class="text-2xl font-bold">
+${product.name}
+<span class="text-sm text-blue-500 ml-2 font-medium">
+(Price may change — check on Amazon)
 </span>
-  </h1>
+</h1>
 
-  <!-- Amazon Button ABOVE rating -->
-  <a href="${product.amazon}" target="_blank" rel="noopener noreferrer"
-  class="inline-block mt-3 bg-yellow-400 px-6 py-3 rounded font-bold w-fit">
-    Check Latest Price on Amazon
-  </a>
+<a href="${product.amazon}" target="_blank" rel="noopener noreferrer"
+class="inline-block mt-3 bg-yellow-400 px-6 py-3 rounded font-bold w-fit">
+Check Latest Price on Amazon
+</a>
 
 </div>
 
-<!-- ✅ RATING -->
+<!-- RATING -->
 <div class="flex items-center mb-3 text-yellow-500 text-sm">
-${"★".repeat(Math.round(product.rating))}${"☆".repeat(5 - Math.round(product.rating))}
-<span class="text-gray-600 ml-2">(${product.rating} • ${formatReviews(product.reviews)} reviews)</span>
+${"★".repeat(Math.round(product.rating))}
+${"☆".repeat(5 - Math.round(product.rating))}
+<span class="text-gray-600 ml-2">
+(${product.rating} • ${formatReviews(product.reviews)} reviews)
+</span>
 </div>
 
-<!-- ✅ DESCRIPTION -->
+<!-- DESCRIPTION -->
 <div class="mb-4">
 <h3 class="font-bold text-lg mb-1">Description</h3>
 <p class="text-gray-600">${product.description}</p>
 </div>
 
-<!-- ✅ FEATURES -->
+<!-- FEATURES -->
 ${product.features ? `
 <div class="mb-4">
 <h3 class="font-bold text-lg mb-1">Key Features</h3>
@@ -1127,29 +1231,33 @@ ${product.features.map(f => `<li>${f}</li>`).join("")}
 </div>
 ` : ""}
 
-<!-- ✅ INGREDIENTS / MATERIAL -->
+<!-- INGREDIENTS / MATERIAL -->
 ${product.ingredients || product.materials ? `
 <div class="mb-4">
 <h3 class="font-bold text-lg mb-1">
-  ${product.materials ? "Material" : "Key Ingredients"}
+${product.materials ? "Material" : "Key Ingredients"}
 </h3>
+
 <ul class="list-disc pl-5 text-gray-700 text-sm">
 ${(product.ingredients || product.materials).map(i => `<li>${i}</li>`).join("")}
 </ul>
+
 </div>
 ` : ""}
 
-
 </div>
-
 </div>
 `
+}
 
-}else{
+// ================= PRODUCT GRID =================
+
+else{
 
 grid.className = "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
 
 products.forEach(product => {
+
 html += `
 <div class="bg-white p-4 rounded shadow">
 
@@ -1162,7 +1270,8 @@ onmouseleave="hideZoom(this)">
 <h3 class="font-bold mt-2">${product.name}</h3>
 
 <div class="text-yellow-500 text-xs mt-1">
-${"★".repeat(Math.round(product.rating))}${"☆".repeat(5 - Math.round(product.rating))}
+${"★".repeat(Math.round(product.rating))}
+${"☆".repeat(5 - Math.round(product.rating))}
 </div>
 
 <p class="text-sm text-gray-600">${product.description}</p>
@@ -1174,6 +1283,7 @@ View Product
 
 </div>
 `
+
 })
 
 }
@@ -1184,22 +1294,27 @@ grid.innerHTML = html
 // ================= START =================
 
 document.addEventListener("DOMContentLoaded", renderProducts)
+
 // ================= ZOOM FUNCTIONS =================
 
 function zoomImage(event, img) {
-  const rect = img.getBoundingClientRect();
 
-  const x = event.clientX - rect.left;
-  const y = event.clientY - rect.top;
+const rect = img.getBoundingClientRect()
 
-  const xPercent = (x / rect.width) * 100;
-  const yPercent = (y / rect.height) * 100;
+const x = event.clientX - rect.left
+const y = event.clientY - rect.top
 
-  img.style.transformOrigin = `${xPercent}% ${yPercent}%`;
-  img.style.transform = "scale(2)";
+const xPercent = (x / rect.width) * 100
+const yPercent = (y / rect.height) * 100
+
+img.style.transformOrigin = `${xPercent}% ${yPercent}%`
+img.style.transform = "scale(2)"
+
 }
 
 function hideZoom(img) {
-  img.style.transform = "scale(1)";
-  img.style.transformOrigin = "center";
+
+img.style.transform = "scale(1)"
+img.style.transformOrigin = "center"
+
 }
