@@ -1097,6 +1097,37 @@ materials: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/summer%20pool.png?raw=true",
 amazon: "https://www.amazon.com/SplashEZ-Sprinkler-Splash-Wading-Learning/dp/B07MNMT3M7?dib=eyJ2IjoiMSJ9.fE8vMBLps3WIoqu-7x2UaR13GT36wqXFS1ejVkyZK6n6NX-35-Bnc9mhXwzzZlOYlEqduU4tyNzHIgzpldb2ApOWybiSf97XFKxhQ7seEYzgPYHhdN0jHOUAo7Y_TMzks0HjuUr6DejRThpzZv22vKrkGagFYxgCi2KgIMzzzxKFXiF4sxrBSbWTfhLLDcTsJ1FGtGynlPer8n9YUFm9SZ3pqlfQ3Dbn1DAhKoeoZaArAyU7krM5OHd_9FXW0u5OTFnUrQW0CAqlWGu3Fn83JhUDLun-P58xKUjXkMgvEQg.8kd1JCx_dTA1vCCUjU6uJLN_BTSHhyddDQvO_cK_3vQ&dib_tag=se&keywords=wengty%2Bsplash%2Bpad&qid=1778680218&sr=8-7&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=940724541f199ff40db3e8ff85a2b604&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 42,
+name: "Hydro Flask Water Bottle - Insulated Stainless Steel - Wide Straw Lid, Non Spill, Leakproof in 40 Oz Wide Mouth Flex Straw Cap Seacliff",
+price: 59,
+rating: 4.8,
+reviews: 32096,
+description: "Stay hydrated in style with the Hydro Flask 40 Oz Wide Mouth Water Bottle with Flex Straw Cap — the perfect insulated stainless steel bottle designed for all-day cold refreshment and leakproof portability. Featuring TempShield double-wall vacuum insulation, this durable Hydro Flask keeps drinks ice cold for hours while maintaining a sleek modern design. The wide mouth opening with flexible straw lid offers easy sipping and quick filling, making it perfect for gym workouts, office use, outdoor adventures, travel, hiking, and everyday hydration. Built with premium BPA-free stainless steel and a non-slip powder-coated finish, this reusable water bottle combines durability, convenience, and stylish performance.",
+features: [
+"TempShield double-wall vacuum insulation keeps drinks cold for hours",
+"Wide mouth flex straw cap designed for easy sipping and quick hydration",
+"Leakproof and non-spill lid perfect for travel gym and outdoor activities",
+"Large 40 oz capacity ideal for all-day hydration and active lifestyles",
+"Premium stainless steel construction resists flavor transfer and odors",
+"Durable powder-coated exterior provides a secure non-slip grip",
+"BPA-free reusable water bottle safe for everyday drinking use",
+"Perfect for hiking camping office workouts road trips and daily hydration"
+],
+materials: [
+"Premium 18/8 pro-grade stainless steel bottle construction",
+"Double-wall vacuum insulated TempShield technology interior",
+"Durable powder-coated sweat-free exterior finish",
+"BPA-free food-grade reusable water bottle materials",
+"Leak-resistant flexible straw cap sealing components",
+"Wide mouth stainless steel hydration bottle structure",
+"Rust-resistant odor-resistant premium metal construction",
+"Eco-friendly reusable insulated drinkware material"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/bottleee.png?raw=true",
+amazon: "https://www.amazon.com/Hydro-Flask-Water-Bottle-Insulated/dp/B0D8K4GQN5?crid=UPKQR8NZH38V&dib=eyJ2IjoiMSJ9.dTV0ObA149SgmUF5UH_v-CnkB3ZMS-VrsmJ2keZL_D3dySMkjXQbMNW34j36m-kxQ3vZgn-wGoluWb813l5AB9EGfVyEhlBxduuXCQnq4yuOXtEdajGluiW_A4ulVoJrRJggoKAjVqy7ekHW292W7ao5vIVV0Xn0zKCr_ufuTEPTVMlAm3wCIPI-pWWUxhQP0sxZIrLGHfq5ieth2tJd8JoukizxMKH765pAkmoNVmnXVDVO3dXkp2PHDFITBWcAY_vbWcN8Mf6i33rkhzNsnYNBPPbBDjFgNiNzllXG3KI.MaMoLK2bme4HTW90bNWa_wUKnyVrD_5UvyBCePg7ue0&dib_tag=se&keywords=Hydro%2BFlask%2BWater%2BBottle%2B-%2BInsulated%2BStainless%2BSteel%2B-%2BWide%2BStraw%2BLid%2C%2BNon%2BSpill%2C%2BLeakproof%2Bin%2B40%2BOz%2BWide%2BMouth%2BFlex%2BStraw%2BCap%2BSeacliff&nsdOptOutParam=true&qid=1778856057&sprefix=hydro%2Bflask%2Bwater%2Bbottle%2B-%2Binsulated%2Bstainless%2Bsteel%2B-%2Bwide%2Bstraw%2Blid%2C%2Bnon%2Bspill%2C%2Bleakproof%2Bin%2B40%2Boz%2Bwide%2Bmouth%2Bflex%2Bstraw%2Bcap%2Bseacliff%2Caps%2C685&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=ad660e4033f3257c32393d19a50efba9&language=en_US&ref_=as_li_ss_tl"
 }
 
 
