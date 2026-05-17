@@ -1159,6 +1159,37 @@ materials: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/hand%20bagg.png?raw=true",
 amazon: "https://www.amazon.com/MIYCOO-Lunch-Bag-Box-Women/dp/B0C2YW1TCK?dib=eyJ2IjoiMSJ9.ZcOXDP90XPdocqF2XIa8coz8yD7_LbRc-Nzav_lirBMOwOXPjxaPLkxME6Z-J3WLBLqacQ2CKwkecnHiCdXvDq-LUL4UQy_qSGsl6zmzIm3oyRuD0-XxcEjwXxq53f4jJpNmKvxbCoh5pqgQjdhlFwzIv15MNgwAcTGwgsi_Vcdtt1t50lRnKYvsPXRSBcsZwMjseFL72GoKdaTcvC0muJhYXf_sGuc4wZR3XRmSV5nloaVb81YoTi-ABfiDnC24TC51URgtftLHbcN7fPUGDiBZFhURdeM62tWZJwYs5tw.dulCemXkuYmnqTjqO-LcJzueWo_CCBPU1K3pgPtjRro&dib_tag=se&keywords=stylish%2Blunch%2Bbags%2Bfor%2Bwomen%2Bhigh%2Brating&qid=1778909488&sr=8-8&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=eeae6bd180cb914ef20fe98c4d67531f&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 44,
+name: "HydroJug Traveler - 40 oz Water Bottle with Handle & Flip Straw - Fits in Cup Holder, Leak Resistant Tumbler-Reusable Insulated Stainless Steel & Rubber Base - Gifts for Women & Men, Cream",
+price: 59,
+rating: 4.6,
+reviews: 19130,
+description: "Elegant 40 oz insulated tumbler designed for women who want a stylish and functional hydration companion for work gym travel office car rides and everyday routines. The leak-resistant HydroJug Traveler keeps drinks cold or hot for hours while offering a modern cream aesthetic that fits perfectly into an active lifestyle.",
+features: [
+"Triple-wall vacuum insulation keeps drinks cold for 24 hours and hot for 12 hours",
+"Leak-resistant flip straw lid helps prevent spills during travel and daily use",
+"Large 40 oz capacity supports all-day hydration with fewer refills needed",
+"Cup holder friendly tapered base fits most car cup holders easily",
+"Comfort-grip ergonomic handle provides easy carrying throughout the day",
+"Premium stainless steel construction offers long-lasting durability and performance",
+"Dishwasher safe tumbler and detachable straw allow effortless cleaning",
+"Stylish cream aesthetic design perfect for women office gym and lifestyle content"
+],
+materials: [
+"Premium food-grade stainless steel tumbler body construction",
+"Triple-wall vacuum insulated stainless steel interior technology",
+"BPA-free reusable plastic flip straw lid components",
+"Durable leak-resistant silicone sealing system materials",
+"Non-slip protective rubber base for added stability support",
+"Scratch-resistant powder-coated cream exterior finish",
+"Comfortable ergonomic integrated handle construction",
+"Dishwasher-safe reusable hydration tumbler materials"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/Hydrojug.png?raw=true",
+amazon: "https://www.amazon.com/HydroJug-Traveler-Resistant-Tumbler-Reusable-Insulated/dp/B0CQVWW5QK?crid=1SF651KXDFFAX&dib=eyJ2IjoiMSJ9.vfeZtHWq6tbOazQ06aU7-mAvYq719m7_tNfIIOJRuqGwrxb3s-iA4hjdIPvID4I5yI5bM7cOF529cCN-GiEV-wZMZPjn1Dg63KmMKFcN7277MzRsBrnWsxRYG28wbzmzth8AiYpGawn2b5LNnc-pWYyxNKPBerYTss4JX6Bk0AZZu34LskDJiwqT9SXeqc5xOU0pp5YOO2doAEC2IHqyT0gvN4G0NLqrXCF-qldWenE.uOuCN6vAwBpvezS9tXgXAqXlJsQVomCLOclt4uPIt4c&dib_tag=se&keywords=If%2Byou%2Bwant%3A%2Bmost%2Bpeople%E2%80%99s%2Bchoice%2B%E2%86%92%2BStanley%2B40%2Boz%2Bbest%2Bpractical%2Bdaily%2Buse%2B%E2%86%92%2BHydroJug%2B40%2Boz%2BFor%2Baffiliate%2Bmarketing%2Band%2BPinterest%2Bviral%2Bcontent%2C%2Bthe%2B40%2Boz%2BStanley%2Bis%2Bstill%2Bthe%2Bstrongest%2Bchoice%2Bright%2Bnow.%2BHydraJug%2BHydroJug%2BTraveler%2B40%2Boz%2BWater%2BBottle&nsdOptOutParam=true&qid=1779015456&sprefix=if%2Byou%2Bwant%2Bmost%2Bpeople%2Bs%2Bchoice%2Bstanley%2B40%2Boz%2Bbest%2Bpractical%2Bdaily%2Buse%2Bhydrojug%2B40%2Boz%2Bfor%2Baffiliate%2Bmarketing%2Band%2Bpinterest%2Bviral%2Bcontent%2C%2Bthe%2B40%2Boz%2Bstanley%2Bis%2Bstill%2Bthe%2Bstrongest%2Bchoice%2Bright%2Bnow.%2Bhydrajug%2Bhydrojug%2Btraveler%2B40%2Boz%2Bwater%2Bbottle%2Caps%2C398&sr=8-1&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=af25cb24c0b760501fb98eda25ab7be7&language=en_US&ref_=as_li_ss_tl"
 }
 
 
