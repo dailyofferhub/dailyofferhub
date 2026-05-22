@@ -1225,6 +1225,41 @@ materials: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/lightt.jpg?raw=true",
 amazon: "https://www.amazon.com/Govee-Assistant-Diffuser-Channel-Skirting/dp/B0D736VXNX?crid=1Q0VONO1YQVNU&dib=eyJ2IjoiMSJ9.M7bUWlhuHrHUvdcteCQhTCgHPXFVRpcNsD2mvx8zLTfMFFVwfh19ceuUdVn2w4v7iGbn2DXl1q9nzajHBAbGRjuQeKyiMJWk6wH69B406L3GpygA9J23SQe3IWWaKWGuVD9ctJgoVGYYvyIqLtkOheicsnVP0KY0-KtbtFZ9CXXTD-Eq-N703e_uE4udWstqI_CCaBRJ8CdW4Bcw9v-3En4saPxfUsXNsT5TL6o0VMFkDy1oVxLR2LvVRhqn7M07-aCvyTsWdEwt4zcl0LPGFJ2v-bmCWJ6LlcL2nY_67tg.5p7gz9bDCEsVkXMO_UTjvWEeRNahbO1ZaBuEGh7NQpQ&dib_tag=se&keywords=Govee%2BRGBIC%2BLED%2BStrip%2BLights%2B32.8ft%2Bwith%2BCovers%2C%2BSmart%2BLights%2BWork%2Bwith%2BAlexa%2Band%2BGoogle%2BAssistant%2C%2BLED%2BDiffuser%2BChannel%2Bwith%2BLED%2BLights%2Bfor%2BBedroom%2C%2BSkirting%2BLines%2C%2BStudio%2C%2BCabinet&nsdOptOutParam=true&qid=1779457791&sprefix=govee%2Brgbic%2Bled%2Bstrip%2Blights%2B32.8ft%2Bwith%2Bcovers%2C%2Bsmart%2Blights%2Bwork%2Bwith%2Balexa%2Band%2Bgoogle%2Bassistant%2C%2Bled%2Bdiffuser%2Bchannel%2Bwith%2Bled%2Blights%2Bfor%2Bbedroom%2C%2Bskirting%2Blines%2C%2Bstudio%2C%2Bcabinet%2Caps%2C415&sr=8-1&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=5a9051c77ce2a67ee53cb59f5c429a94&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 46,
+name: "Ophanie Orange Rugs for Living Room Bedroom, 5x8 Fluffy Fuzzy Furry Carpet, Plush Soft Shaggy Bedside Indoor Floor Area Rug for Kids Girls Boys Baby Teen Dorm Nursery Home Decor Aesthetic",
+price: 59,
+rating: 4.3,
+reviews: 24244,
+Description:"Transform your home with this ultra-soft shaggy area rug designed for cozy bedrooms, modern living rooms, nursery decor, and aesthetic apartment setups. Featuring a plush furry texture, non-slip backing, and minimalist bohemian style, this fluffy rug adds warmth, comfort, and elegance to any space. Perfect for Pinterest-inspired home decor, dorm room makeovers, kids’ rooms, playrooms, and relaxing barefoot comfort. Its soft polyester material and stylish solid-color design create a cozy hygge atmosphere ideal for modern interiors.",
+Features: [
+"Ultra-soft shaggy surface provides plush comfort and luxurious underfoot feel for daily relaxation",
+"High-density sponge interlayer enhances cushioning and creates a cozy warm home atmosphere",
+"Non-slip bottom with durable anti-slip dots improves grip and helps prevent sliding on floors",
+"Soft polyester fabric delivers a skin-friendly texture perfect for barefoot walking and lounging",
+"Minimalist solid-color design complements modern bohemian hygge and aesthetic room decor styles",
+"Versatile rectangular rug design fits living rooms bedrooms nurseries dorm rooms and playrooms",
+"Low-shedding fluffy carpet construction supports cleaner and more comfortable indoor environments",
+"Kid-friendly and pet-friendly materials provide a safe soft surface for families and everyday use",
+"Layered rug styling enhances cozy interiors and adds depth to minimalist furniture arrangements",
+"Warm furry texture creates relaxing comfort for reading gaming meditation and home relaxation",
+"Lightweight rug structure allows easy placement movement and flexible room decoration styling",
+"Modern boho-inspired design elevates apartment decor dorm aesthetics and cozy room makeovers"
+],
+Materials: [
+"Premium polyester shaggy fabric materials with ultra-soft furry texture construction",
+"High-density sponge interlayer padding for enhanced softness cushioning and comfort support",
+"Durable knitted weave rug construction designed for long-lasting indoor everyday use",
+"Anti-slip backing materials with strong grip dots for improved floor stability",
+"Soft velvety microfiber surface materials suitable for barefoot comfort and relaxation",
+"Lightweight rectangular rug construction optimized for bedrooms dorms and living spaces",
+"Skin-friendly synthetic fiber materials designed for kids pets and family-friendly environments",
+"Durable edge stitching materials that help maintain rug shape and structure over time"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/rug%20orange.jpg?raw=true",
+amazon: "https://www.amazon.com/Ophanie-Bedroom-Bedside-Nursery-Aesthetic/dp/B0DPGJDSJ3?crid=2XBHZAL0K3WZD&dib=eyJ2IjoiMSJ9.3itw3yMVg3cLqfbwphkQGmO7skLOusKtaoR7VolbIbRe9AGGcf7yKr1fSTfaXQFZpeOq1X6KHOr9BxMEGUoMeS2rSwH4mnslgaEHB7_jA9Slhzkr4QJgPfkB7Lgn6sVt6ooE6gNxkVnYhXDNqC6i98peAXkoYOVMZ8XMmZF9b4HdVzsk0hEw6kLsWs36Eppc2yLWqksj5Nek8is_9Gnya2RMiku_p7jyDlFYNXv4E-jvK1x4d_Z4QjCNhKwsoEE4mIKPwFOWxGjeL78nh_cA2EoEJI4cKrOPrUbT8iP5f94.U11vCCpr1GROV8KM0Loq2JV4zueLuiomuKhgcdalW7k&dib_tag=se&keywords=bohemian%2Brug&qid=1779458450&sprefix=bohemian%2Brug%2Caps%2C668&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=bf36862ec5ca8095e8d31136a1144096&language=en_US&ref_=as_li_ss_tl"
 }
 
 
