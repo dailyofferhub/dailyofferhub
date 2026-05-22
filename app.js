@@ -1190,6 +1190,41 @@ materials: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/Hydrojug.png?raw=true",
 amazon: "https://www.amazon.com/HydroJug-Traveler-Resistant-Tumbler-Reusable-Insulated/dp/B0CQVWW5QK?crid=1SF651KXDFFAX&dib=eyJ2IjoiMSJ9.vfeZtHWq6tbOazQ06aU7-mAvYq719m7_tNfIIOJRuqGwrxb3s-iA4hjdIPvID4I5yI5bM7cOF529cCN-GiEV-wZMZPjn1Dg63KmMKFcN7277MzRsBrnWsxRYG28wbzmzth8AiYpGawn2b5LNnc-pWYyxNKPBerYTss4JX6Bk0AZZu34LskDJiwqT9SXeqc5xOU0pp5YOO2doAEC2IHqyT0gvN4G0NLqrXCF-qldWenE.uOuCN6vAwBpvezS9tXgXAqXlJsQVomCLOclt4uPIt4c&dib_tag=se&keywords=If%2Byou%2Bwant%3A%2Bmost%2Bpeople%E2%80%99s%2Bchoice%2B%E2%86%92%2BStanley%2B40%2Boz%2Bbest%2Bpractical%2Bdaily%2Buse%2B%E2%86%92%2BHydroJug%2B40%2Boz%2BFor%2Baffiliate%2Bmarketing%2Band%2BPinterest%2Bviral%2Bcontent%2C%2Bthe%2B40%2Boz%2BStanley%2Bis%2Bstill%2Bthe%2Bstrongest%2Bchoice%2Bright%2Bnow.%2BHydraJug%2BHydroJug%2BTraveler%2B40%2Boz%2BWater%2BBottle&nsdOptOutParam=true&qid=1779015456&sprefix=if%2Byou%2Bwant%2Bmost%2Bpeople%2Bs%2Bchoice%2Bstanley%2B40%2Boz%2Bbest%2Bpractical%2Bdaily%2Buse%2Bhydrojug%2B40%2Boz%2Bfor%2Baffiliate%2Bmarketing%2Band%2Bpinterest%2Bviral%2Bcontent%2C%2Bthe%2B40%2Boz%2Bstanley%2Bis%2Bstill%2Bthe%2Bstrongest%2Bchoice%2Bright%2Bnow.%2Bhydrajug%2Bhydrojug%2Btraveler%2B40%2Boz%2Bwater%2Bbottle%2Caps%2C398&sr=8-1&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=af25cb24c0b760501fb98eda25ab7be7&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 45,
+name: "Govee RGBIC LED Strip Lights 32.8ft with Covers, Smart Lights Work with Alexa and Google Assistant, LED Diffuser Channel with LED Lights for Bedroom, Skirting Lines, Studio, Cabinet",
+price: 59,
+rating: 4.2,
+reviews: 1002,
+description: "Transform your space with these viral RGBIC LED strip lights perfect for cozy bedroom decor, aesthetic apartment ideas, smart home lighting, and modern room setups. Create a warm ambient glow with customizable colors, music sync, Alexa voice control, and soft lighting effects. Ideal for Pinterest-inspired home decor, cozy room makeovers, desk setups, studio lighting, and relaxing night vibes.",
+features: [
+"RGBIC technology delivers multiple vibrant colors simultaneously for dynamic lighting effects",
+"60 LEDs per meter create soft uniform and spot-free ambient illumination throughout spaces",
+"Smart voice control works seamlessly with Alexa and Google Assistant for hands-free operation",
+"Govee Home App allows customization of brightness timers scene modes and color settings",
+"50 customizable lighting segments enable personalized multicolor combinations and creative effects",
+"64 preset scene modes enhance bedrooms studios gaming rooms and party environments",
+"Music sync feature reacts to audio beats creating immersive entertainment lighting experiences",
+"LED diffuser channel design provides smooth premium lighting accents for modern interiors",
+"Flexible installation supports skirting lines ceilings cabinets walls and corner applications",
+"Cuttable LED strip design allows customized lengths for personalized lighting setups",
+"Wi-Fi and Bluetooth connectivity offer stable smart control and easy device pairing",
+"Modern RGBIC lighting style enhances home decor gaming setups and studio aesthetics"
+],
+materials: [
+"Flexible RGBIC LED strip lighting with integrated smart LED technology",
+"Premium LED diffuser channel covers for softer and uniform light distribution",
+"Durable adhesive backing designed for smooth clean and dry indoor surfaces",
+"High-density 60 LEDs per meter lighting strip construction materials",
+"Integrated Wi-Fi and Bluetooth smart connectivity control components",
+"AC powered energy-efficient LED lighting system construction",
+"Flexible cuttable circuit strip materials for custom installation adjustments",
+"Inside and outside corner connector pieces for seamless corner lighting installation"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/lightt.jpg?raw=true",
+amazon: "https://www.amazon.com/Govee-Assistant-Diffuser-Channel-Skirting/dp/B0D736VXNX?crid=1Q0VONO1YQVNU&dib=eyJ2IjoiMSJ9.M7bUWlhuHrHUvdcteCQhTCgHPXFVRpcNsD2mvx8zLTfMFFVwfh19ceuUdVn2w4v7iGbn2DXl1q9nzajHBAbGRjuQeKyiMJWk6wH69B406L3GpygA9J23SQe3IWWaKWGuVD9ctJgoVGYYvyIqLtkOheicsnVP0KY0-KtbtFZ9CXXTD-Eq-N703e_uE4udWstqI_CCaBRJ8CdW4Bcw9v-3En4saPxfUsXNsT5TL6o0VMFkDy1oVxLR2LvVRhqn7M07-aCvyTsWdEwt4zcl0LPGFJ2v-bmCWJ6LlcL2nY_67tg.5p7gz9bDCEsVkXMO_UTjvWEeRNahbO1ZaBuEGh7NQpQ&dib_tag=se&keywords=Govee%2BRGBIC%2BLED%2BStrip%2BLights%2B32.8ft%2Bwith%2BCovers%2C%2BSmart%2BLights%2BWork%2Bwith%2BAlexa%2Band%2BGoogle%2BAssistant%2C%2BLED%2BDiffuser%2BChannel%2Bwith%2BLED%2BLights%2Bfor%2BBedroom%2C%2BSkirting%2BLines%2C%2BStudio%2C%2BCabinet&nsdOptOutParam=true&qid=1779457791&sprefix=govee%2Brgbic%2Bled%2Bstrip%2Blights%2B32.8ft%2Bwith%2Bcovers%2C%2Bsmart%2Blights%2Bwork%2Bwith%2Balexa%2Band%2Bgoogle%2Bassistant%2C%2Bled%2Bdiffuser%2Bchannel%2Bwith%2Bled%2Blights%2Bfor%2Bbedroom%2C%2Bskirting%2Blines%2C%2Bstudio%2C%2Bcabinet%2Caps%2C415&sr=8-1&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=5a9051c77ce2a67ee53cb59f5c429a94&language=en_US&ref_=as_li_ss_tl"
 }
 
 
