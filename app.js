@@ -1333,7 +1333,7 @@ onmouseleave="hideZoom(this)">
 <h1 class="text-2xl font-bold">
 ${product.name}
 <span class="text-sm text-blue-500 ml-2 font-medium">
-(Price may change — check on Amazon)
+()
 </span>
 </h1>
 
