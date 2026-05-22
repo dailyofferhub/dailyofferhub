@@ -1233,8 +1233,8 @@ name: "Ophanie Orange Rugs for Living Room Bedroom, 5x8 Fluffy Fuzzy Furry Carpe
 price: 59,
 rating: 4.3,
 reviews: 24244,
-Description:"Transform your home with this ultra-soft shaggy area rug designed for cozy bedrooms, modern living rooms, nursery decor, and aesthetic apartment setups. Featuring a plush furry texture, non-slip backing, and minimalist bohemian style, this fluffy rug adds warmth, comfort, and elegance to any space. Perfect for Pinterest-inspired home decor, dorm room makeovers, kids’ rooms, playrooms, and relaxing barefoot comfort. Its soft polyester material and stylish solid-color design create a cozy hygge atmosphere ideal for modern interiors.",
-Features: [
+description:"Transform your home with this ultra-soft shaggy area rug designed for cozy bedrooms, modern living rooms, nursery decor, and aesthetic apartment setups. Featuring a plush furry texture, non-slip backing, and minimalist bohemian style, this fluffy rug adds warmth, comfort, and elegance to any space. Perfect for Pinterest-inspired home decor, dorm room makeovers, kids’ rooms, playrooms, and relaxing barefoot comfort. Its soft polyester material and stylish solid-color design create a cozy hygge atmosphere ideal for modern interiors.",
+features: [
 "Ultra-soft shaggy surface provides plush comfort and luxurious underfoot feel for daily relaxation",
 "High-density sponge interlayer enhances cushioning and creates a cozy warm home atmosphere",
 "Non-slip bottom with durable anti-slip dots improves grip and helps prevent sliding on floors",
@@ -1248,7 +1248,7 @@ Features: [
 "Lightweight rug structure allows easy placement movement and flexible room decoration styling",
 "Modern boho-inspired design elevates apartment decor dorm aesthetics and cozy room makeovers"
 ],
-Materials: [
+materials: [
 "Premium polyester shaggy fabric materials with ultra-soft furry texture construction",
 "High-density sponge interlayer padding for enhanced softness cushioning and comfort support",
 "Durable knitted weave rug construction designed for long-lasting indoor everyday use",
