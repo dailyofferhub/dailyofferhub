@@ -1229,37 +1229,37 @@ amazon: "https://www.amazon.com/Govee-Assistant-Diffuser-Channel-Skirting/dp/B0D
 
 {
 id: 46,
-name: "Ophanie Orange Rugs for Living Room Bedroom, 5x8 Fluffy Fuzzy Furry Carpet, Plush Soft Shaggy Bedside Indoor Floor Area Rug for Kids Girls Boys Baby Teen Dorm Nursery Home Decor Aesthetic",
+name: "Grace & Stella Award Winning Under Eye Mask - Gel Eye Patches for Dark Circles, Puffy Eyes, Undereye Bags - Vegan Self Care (24 Pairs, Gold)",
 price: 59,
-rating: 4.3,
-reviews: 24244,
-description:"Transform your home with this ultra-soft shaggy area rug designed for cozy bedrooms, modern living rooms, nursery decor, and aesthetic apartment setups. Featuring a plush furry texture, non-slip backing, and minimalist bohemian style, this fluffy rug adds warmth, comfort, and elegance to any space. Perfect for Pinterest-inspired home decor, dorm room makeovers, kids’ rooms, playrooms, and relaxing barefoot comfort. Its soft polyester material and stylish solid-color design create a cozy hygge atmosphere ideal for modern interiors.",
+rating: 4.4,
+reviews: 46660,
+description:"Refresh tired-looking eyes with these award-winning gold under eye patches designed to reduce puffiness, dark circles, under eye bags, and dryness while delivering a cooling spa-like self-care experience at home. Infused with hydrating and brightening ingredients, these vegan eye masks help smooth the appearance of fine lines and wrinkles while leaving under eyes looking refreshed, awakened, youthful, and radiant. Perfect for morning skincare routines, self-care nights, travel recovery, pre-makeup prep, and beauty gifting for women who love luxurious skincare essentials.",
 features: [
-"Ultra-soft shaggy surface provides plush comfort and luxurious underfoot feel for daily relaxation",
-"High-density sponge interlayer enhances cushioning and creates a cozy warm home atmosphere",
-"Non-slip bottom with durable anti-slip dots improves grip and helps prevent sliding on floors",
-"Soft polyester fabric delivers a skin-friendly texture perfect for barefoot walking and lounging",
-"Minimalist solid-color design complements modern bohemian hygge and aesthetic room decor styles",
-"Versatile rectangular rug design fits living rooms bedrooms nurseries dorm rooms and playrooms",
-"Low-shedding fluffy carpet construction supports cleaner and more comfortable indoor environments",
-"Kid-friendly and pet-friendly materials provide a safe soft surface for families and everyday use",
-"Layered rug styling enhances cozy interiors and adds depth to minimalist furniture arrangements",
-"Warm furry texture creates relaxing comfort for reading gaming meditation and home relaxation",
-"Lightweight rug structure allows easy placement movement and flexible room decoration styling",
-"Modern boho-inspired design elevates apartment decor dorm aesthetics and cozy room makeovers"
+"Cooling hydrogel eye patches help reduce puffiness swelling and under eye bags instantly",
+"Brightening formula improves the appearance of dark circles and tired under eyes",
+"Hydrating under eye masks deeply moisturize dry delicate under eye skin for smoother texture",
+"Niacinamide-infused formula helps illuminate dull under eyes and promote radiant skin appearance",
+"Helps soften the visibility of fine lines wrinkles and signs of fatigue around the eyes",
+"Vegan cruelty-free skincare formula made without parabens sulfates or phthalates",
+"Sensitive-skin-friendly ingredients provide gentle soothing care for daily skincare routines",
+"Gold eye patch design delivers a luxurious spa-inspired self-care experience at home",
+"Perfect for morning depuffing before makeup application and late-night recovery skincare",
+"Lightweight gel sheet masks comfortably fit under eyes without slipping during use",
+"Popular beauty self-care gift idea for birthdays holidays bridesmaids and wellness gift boxes",
+"Travel-friendly skincare patches ideal for flights work stress and tired puffy eyes recovery"
 ],
 materials: [
-"Premium polyester shaggy fabric materials with ultra-soft furry texture construction",
-"High-density sponge interlayer padding for enhanced softness cushioning and comfort support",
-"Durable knitted weave rug construction designed for long-lasting indoor everyday use",
-"Anti-slip backing materials with strong grip dots for improved floor stability",
-"Soft velvety microfiber surface materials suitable for barefoot comfort and relaxation",
-"Lightweight rectangular rug construction optimized for bedrooms dorms and living spaces",
-"Skin-friendly synthetic fiber materials designed for kids pets and family-friendly environments",
-"Durable edge stitching materials that help maintain rug shape and structure over time"
+"Hydrogel sheet mask material designed for cooling soothing under eye application",
+"Vegan skincare formulation free from animal-derived ingredients and cruelty testing",
+"Paraben-free ingredients formulated for gentler under eye skincare routines",
+"Sulfate-free skincare blend suitable for sensitive delicate skin types",
+"Phthalate-free beauty formula focused on cleaner skincare experiences",
+"Niacinamide-infused essence designed to brighten and refresh dull under eye areas",
+"Hydrating serum blend that helps maintain moisture balance and smoother skin texture",
+"Soft flexible gel patch construction for comfortable secure under eye placement"
 ],
-image: "https://github.com/Aadhi6374/image/blob/main/rug%20orange.jpg?raw=true",
-amazon: "https://www.amazon.com/Ophanie-Bedroom-Bedside-Nursery-Aesthetic/dp/B0DPGJDSJ3?crid=2XBHZAL0K3WZD&dib=eyJ2IjoiMSJ9.3itw3yMVg3cLqfbwphkQGmO7skLOusKtaoR7VolbIbRe9AGGcf7yKr1fSTfaXQFZpeOq1X6KHOr9BxMEGUoMeS2rSwH4mnslgaEHB7_jA9Slhzkr4QJgPfkB7Lgn6sVt6ooE6gNxkVnYhXDNqC6i98peAXkoYOVMZ8XMmZF9b4HdVzsk0hEw6kLsWs36Eppc2yLWqksj5Nek8is_9Gnya2RMiku_p7jyDlFYNXv4E-jvK1x4d_Z4QjCNhKwsoEE4mIKPwFOWxGjeL78nh_cA2EoEJI4cKrOPrUbT8iP5f94.U11vCCpr1GROV8KM0Loq2JV4zueLuiomuKhgcdalW7k&dib_tag=se&keywords=bohemian%2Brug&qid=1779458450&sprefix=bohemian%2Brug%2Caps%2C668&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=bf36862ec5ca8095e8d31136a1144096&language=en_US&ref_=as_li_ss_tl"
+image: "https://github.com/Aadhi6374/image/blob/main/Face%20pack.png?raw=true",
+amazon: "https://www.amazon.com/Under-Eye-Patches-Gold-24-Pairs/dp/B014E2D6BY?crid=YUFRGDYFZX08&dib=eyJ2IjoiMSJ9.MGOxfQjgdDtxn6tiZGi4hML81gxy4D5Qo2UmT8H2-DGtx2y0b0ehITeupFKj_6E-LKZLkLz29jakXqFIcY5DD6lIVwUFNv2gvLD6tS_GpVCxVLwd71KJhzcdBEgHRMsFoEh1zDJEWSDGp4Cowf8ZzZor8KJet0N3tSG5cN2PYEsPqZ0oSg8aGThr_T79dWkHKhFi1FxSPmEcqG5HAiUtX5ZkKxjHDJf-w5HRzygX1RgeGaZ6I96WPL757ClDvfOKheaZyHZfI2IXLAGaOApTTRZpV-nNFvFcc8sOPla3x9o.CqmIFbfxr-BpMaOCSl5nbBTOZNCHqJWYoyIkJ_ftC3A&dib_tag=se&keywords=premium%2Bbeauty%2Bpicks&qid=1779511788&sprefix=premimum%2Bbeauty%2Bpick%2Caps%2C474&sr=8-5-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=d0e59d3c1a270a00297fb6ba0d64bfb8&language=en_US&ref_=as_li_ss_tl"
 }
 
 
