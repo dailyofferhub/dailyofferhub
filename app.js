@@ -1260,6 +1260,41 @@ materials: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/Face%20pack.png?raw=true",
 amazon: "https://www.amazon.com/Under-Eye-Patches-Gold-24-Pairs/dp/B014E2D6BY?crid=YUFRGDYFZX08&dib=eyJ2IjoiMSJ9.MGOxfQjgdDtxn6tiZGi4hML81gxy4D5Qo2UmT8H2-DGtx2y0b0ehITeupFKj_6E-LKZLkLz29jakXqFIcY5DD6lIVwUFNv2gvLD6tS_GpVCxVLwd71KJhzcdBEgHRMsFoEh1zDJEWSDGp4Cowf8ZzZor8KJet0N3tSG5cN2PYEsPqZ0oSg8aGThr_T79dWkHKhFi1FxSPmEcqG5HAiUtX5ZkKxjHDJf-w5HRzygX1RgeGaZ6I96WPL757ClDvfOKheaZyHZfI2IXLAGaOApTTRZpV-nNFvFcc8sOPla3x9o.CqmIFbfxr-BpMaOCSl5nbBTOZNCHqJWYoyIkJ_ftC3A&dib_tag=se&keywords=premium%2Bbeauty%2Bpicks&qid=1779511788&sprefix=premimum%2Bbeauty%2Bpick%2Caps%2C474&sr=8-5-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=d0e59d3c1a270a00297fb6ba0d64bfb8&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+id: 47,
+name: "CleverMade Tahoe Collapsible Cooler Bag – Medium Portable Foldable Insulated Cooler for Beach, Travel & Road Trips",
+price: 59,
+rating: 4.5,
+reviews: 9523,
+description:"Keep drinks, snacks, and food cold for hours with this CleverMade Tahoe Collapsible Cooler Bag designed for beach trips, camping, picnics, tailgates, grocery runs, and outdoor adventures. This leakproof insulated cooler holds up to 30 cans plus ice while remaining lightweight, portable, and easy to carry. Unlike bulky hard coolers, the foldable design collapses nearly flat for compact storage in your trunk, closet, RV, or luggage. Built with durable recycled polyester fabric, reinforced structure, adjustable shoulder strap, and convenient bottle opener, this travel-friendly soft cooler combines cooling performance, portability, and smart storage for everyday outdoor use.",
+features: [
+"Holds up to 30 cans plus ice making it perfect for beach trips picnics camping and tailgates",
+"Collapsible cooler design folds nearly flat in seconds for compact storage after travel",
+"Insulated leakproof liner helps keep drinks food and snacks cold for hours outdoors",
+"Soft portable cooler bag is lightweight easy to carry and ideal for road trips travel and parks",
+"Structured wire frame keeps the cooler upright for easier loading unloading and organization",
+"Reinforced base provides extra durability and stability during outdoor activities",
+"Durable recycled polyester exterior designed for long-lasting travel and outdoor performance",
+"Adjustable shoulder strap offers comfortable hands-free carrying during trips and events",
+"Front storage pocket provides space for napkins utensils keys phones and accessories",
+"Built-in bottle opener adds convenient functionality for beach camping and tailgate use",
+"Compact foldable construction saves storage space in cars closets RVs and luggage",
+"Perfect portable cooler solution for family outings grocery runs fishing hiking and travel adventures"
+],
+materials: [
+"Durable recycled polyester fabric exterior designed for outdoor and travel use",
+"Leak-resistant PEVA insulated liner helps maintain cold temperatures for extended periods",
+"Structured wire frame construction supports upright loading and cooler stability",
+"Reinforced base material improves durability while carrying heavy drinks and ice",
+"Soft insulated layered padding enhances temperature retention for food and beverages",
+"Heavy-duty carry handles designed for comfortable portable transport",
+"Adjustable shoulder strap material built for convenient travel carrying support",
+"Foldable compact construction engineered for easy flat storage and portability"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/bagg.png?raw=true",
+amazon: "https://www.amazon.com/CleverMade-Collapsible-Folding-Shoulder-Midnight/dp/B0DTBS1J3Z?crid=SFESDXOWT6OB&dib=eyJ2IjoiMSJ9.ycRhIvgo3pt0fzvBOejrLHzLOB8GIFl9SaD5AO6grD9Jn2Ew5nj0y4eDWE5RoERPQaHLOuM6Ux_cq7qSyJ0x9uEEjbdbFUtglZefFuN5zy8B2dUqy3Z-z-XfoWnudpHwem8PP1GsGwqt3TSeJCEZuWkunmvtBxOkBVLJ-oea4RxX2D3vxyYYhg5pZjr1jXfYP1ZV_GfKpXCMwIDBNCO4nI2SQyO9B6dwrFsvz9nkErA0I6w7YjrlLaLgDREfQLpN-5ILHEf2tH9KoHY6hIMccmAEtkPy63WMUJ3_GHC7p5o.8-cc8Ru8K5JFkiiuOLSlwytfOWFHacuDYXrupEolXew&dib_tag=se&keywords=4%2BCans%2F3.1qt%2BSoft%2BSided%2BPersonal%2BCooler%2BBlue%2B-%2BSun%2BSquad%E2%84%A2&nsdOptOutParam=true&qid=1779545850&sprefix=4%2Bcans%2F3.1qt%2Bsoft%2Bsided%2Bpersonal%2Bcooler%2Bblue%2B-%2Bsun%2Bsquad%2B%2Caps%2C510&sr=8-11&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=0bc4c3251eeb2ca67ea600011aa5ad7d&language=en_US&ref_=as_li_ss_tl"
 }
 
 
