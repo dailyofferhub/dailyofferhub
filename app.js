@@ -1295,7 +1295,41 @@ materials: [
 ],
 image: "https://github.com/Aadhi6374/image/blob/main/bagg.png?raw=true",
 amazon: "https://www.amazon.com/CleverMade-Collapsible-Folding-Shoulder-Midnight/dp/B0CZSD8HWS?crid=SFESDXOWT6OB&dib=eyJ2IjoiMSJ9.ycRhIvgo3pt0fzvBOejrLHzLOB8GIFl9SaD5AO6grD9Jn2Ew5nj0y4eDWE5RoERPQaHLOuM6Ux_cq7qSyJ0x9uEEjbdbFUtglZefFuN5zy8B2dUqy3Z-z-XfoWnudpHwem8PP1GsGwqt3TSeJCEZuWkunmvtBxOkBVLJ-oea4RxX2D3vxyYYhg5pZjr1jXfYP1ZV_GfKpXCMwIDBNCO4nI2SQyO9B6dwrFsvz9nkErA0I6w7YjrlLaLgDREfQLpN-5ILHEf2tH9KoHY6hIMccmAEtkPy63WMUJ3_GHC7p5o.8-cc8Ru8K5JFkiiuOLSlwytfOWFHacuDYXrupEolXew&dib_tag=se&keywords=4%2BCans%2F3.1qt%2BSoft%2BSided%2BPersonal%2BCooler%2BBlue%2B-%2BSun%2BSquad%E2%84%A2&nsdOptOutParam=true&qid=1779545850&sprefix=4%2Bcans%2F3.1qt%2Bsoft%2Bsided%2Bpersonal%2Bcooler%2Bblue%2B-%2Bsun%2Bsquad%2B%2Caps%2C510&sr=8-11&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=223e0a88078a8726e0349fa7c1e794db&language=en_US&ref_=as_li_ss_tl"
-}
+},
+
+{id: 48,
+name: "LAURA GELLER NEW YORK Best of the Best Baked Palette – 7-in-1 Full Face Palette – Bronzer, Blush, 2 Highlighters & 3 Eyeshadows – Crease-Proof, Handmade in Italy – Travel-Friendly",
+price: 59,
+rating: 4.5,
+reviews: 9470,
+description:"Create a complete glowing makeup look with the LAURA GELLER NEW YORK Best of the Best Baked Palette featuring bronzer, blush, highlighters, and versatile eyeshadows in one luxury travel-friendly compact. Handmade in Italy using baked makeup technology, this full face palette delivers smooth blendable color with lightweight crease-proof wear that flatters multiple skin tones. Designed for quick everyday glam and effortless beauty routines, the palette combines luminous finishes and natural-looking pigments to help achieve radiant skin, sculpted cheeks, and soft glam eye looks without carrying multiple products.",
+features: [
+"7-in-1 full face makeup palette includes bronzer blush highlighters and eyeshadows in one compact",
+"Handmade baked makeup formula in Italy delivers smooth blendable and lightweight application",
+"Travel-friendly palette design fits easily inside handbags makeup bags and luggage for on-the-go beauty",
+"Crease-proof long-lasting formula helps maintain fresh makeup looks throughout the day",
+"Soft luminous finishes create natural radiant glowing skin with minimal effort",
+"Versatile neutral shades work beautifully for everyday makeup and soft glam looks",
+"Highly pigmented baked powders blend evenly without looking cakey or heavy on skin",
+"Multi-use face palette helps simplify makeup routines and reduce carrying multiple products",
+"Suitable for multiple skin tones with buildable shades for customizable coverage and intensity",
+"Lightweight silky texture applies smoothly with brushes or fingertips for quick makeup application",
+"Perfect all-in-one makeup solution for travel vacations work events and daily beauty routines",
+"Luxury rose-gold inspired packaging adds an elegant professional makeup aesthetic"
+],
+materials: [
+"Baked powder makeup formula crafted using traditional Italian baking techniques",
+"Mineral-inspired pressed pigments designed for smooth lightweight makeup application",
+"Silky blendable powder texture helps create natural-looking radiant finishes",
+"Long-wear crease-resistant ingredients support lasting makeup performance throughout the day",
+"Finely milled shimmer pigments provide soft luminous highlighting effects",
+"Skin-friendly cosmetic powders formulated for comfortable everyday wear",
+"Compact mirrored palette packaging designed for portable travel convenience",
+"Cruelty-free makeup formulation created without animal testing"
+],
+image: "https://github.com/Aadhi6374/image/blob/main/beauty%20pack.png?raw=true",
+amazon: "https://www.amazon.com/LAURA-GELLER-NEW-YORK-Best/dp/B0BBH8FRYL?content-id=amzn1.sym.0a3d7af1-408b-4d97-8532-5af55b19637b%3Aamzn1.sym.0a3d7af1-408b-4d97-8532-5af55b19637b&crid=W1A9SPA7XOJS&cv_ct_cx=premium+beauty+products+blushers+and+bronzers&keywords=premium+beauty+products+blushers+and+bronzers&pd_rd_i=B0BBH8FRYL&pd_rd_r=07342552-6843-40b4-a5e9-a9e6b55e20db&pd_rd_w=TkGOZ&pd_rd_wg=X5Ogm&pf_rd_p=0a3d7af1-408b-4d97-8532-5af55b19637b&pf_rd_r=RCR6D2P2FWGAAHK16315&qid=1779689668&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=premium+beauty+products+blushers+and+bronzers%2Caps%2C1523&sr=1-3-6e60e730-e094-43e9-99e8-1a4854cd27ff-spons&aref=3m1ImUEHv6&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1&linkCode=ll2&tag=aadhithyan637-20&linkId=49299492385ee3baf7bfdd2bac8b59a8&language=en_US&ref_=as_li_ss_tl"
+},
 
 
 
