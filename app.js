@@ -1331,6 +1331,42 @@ image: "https://github.com/Aadhi6374/image/blob/main/beauty%20pack.png?raw=true"
 amazon: "https://www.amazon.com/LAURA-GELLER-NEW-YORK-Best/dp/B0BBH8FRYL?content-id=amzn1.sym.0a3d7af1-408b-4d97-8532-5af55b19637b%3Aamzn1.sym.0a3d7af1-408b-4d97-8532-5af55b19637b&crid=W1A9SPA7XOJS&cv_ct_cx=premium+beauty+products+blushers+and+bronzers&keywords=premium+beauty+products+blushers+and+bronzers&pd_rd_i=B0BBH8FRYL&pd_rd_r=07342552-6843-40b4-a5e9-a9e6b55e20db&pd_rd_w=TkGOZ&pd_rd_wg=X5Ogm&pf_rd_p=0a3d7af1-408b-4d97-8532-5af55b19637b&pf_rd_r=RCR6D2P2FWGAAHK16315&qid=1779689668&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=premium+beauty+products+blushers+and+bronzers%2Caps%2C1523&sr=1-3-6e60e730-e094-43e9-99e8-1a4854cd27ff-spons&aref=3m1ImUEHv6&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1&linkCode=ll2&tag=aadhithyan637-20&linkId=49299492385ee3baf7bfdd2bac8b59a8&language=en_US&ref_=as_li_ss_tl"
 },
 
+{
+ id: 49,
+name: "MIYCOO Cooler Backpack – 40 Cans Insulated Leakproof Backpack Cooler for Beach Travel Camping Hiking Picnic BBQ",
+price: 39,
+rating: 4.6,
+reviews: 2065,
+description: "Stay refreshed during beach trips, camping adventures, road trips, hiking, and outdoor gatherings with the MIYCOO Cooler Backpack featuring a spacious 40-can capacity and dual insulated compartments for organized cold storage. Designed with leakproof insulation technology and comfortable backpack-style portability, this cooler keeps drinks and snacks chilled for hours while allowing hands-free travel convenience. The stylish outdoor design combines functionality and durability with multiple storage pockets, waterproof lining, and ergonomic shoulder straps, making it perfect for beach days, picnics, fishing trips, tailgating, lunch carrying, and summer travel essentials.",
+features: [
+    "Large 40-can storage capacity provides enough space for drinks snacks fruits and ice packs during outdoor trips",
+    "Dual insulated compartments help separate cold beverages from dry foods and delicate items",
+    "Leakproof cooler backpack design helps prevent spills and keeps contents secure during travel",
+    "High-density insulation technology keeps drinks and food cold for extended outdoor use",
+    "Comfortable padded shoulder straps support easy carrying during hiking beach trips and camping",
+    "Backpack-style portable design allows hands-free movement while traveling or walking outdoors",
+    "Multiple storage pockets offer convenient organization for phones utensils napkins and accessories",
+    "Water-resistant exterior fabric enhances durability for beach camping fishing and picnic environments",
+    "Front bungee cord system provides additional storage for towels lightweight gear or accessories",
+    "Side mesh pockets securely hold water bottles wine bottles or outdoor essentials",
+    "Stylish modern outdoor aesthetic fits travel beach vacation camping and adventure lifestyles",
+    "Heavy-duty zipper construction improves durability and smooth opening during frequent use"
+  ],
+  materials:
+   [
+    "High-density insulated foam lining designed for long-lasting temperature retention",
+    "Food-grade PEVA waterproof interior helps maintain leakproof cold storage performance",
+    "Durable Oxford fabric exterior supports outdoor travel and heavy daily use",
+    "Reinforced polyester stitching enhances structural strength and long-term durability",
+    "Soft padded breathable mesh back panel improves carrying comfort during extended use",
+    "Adjustable ergonomic shoulder straps designed for balanced weight distribution",
+    "Water-resistant outer shell helps protect contents from splashes and outdoor conditions",
+    "Premium zipper hardware provides secure closure and smooth everyday functionality"
+  ],
+image: "https://github.com/Aadhi6374/image/blob/main/backkpackk.png?raw=true",
+amazon: "https://www.amazon.com/Cooler-Backpack-2pc-Ice-Packs/dp/B0D5MFG5RF?crid=2NYZV2E1X55PJ&dib=eyJ2IjoiMSJ9.z0eWDp6_P0ra-dEzr2xKQ4ABDJucGCmsmNc7XklzixHNjNEtakeGhYpnBLhxcc_WC4Ox_MjEKa-Ydmr3FHFEgH7DOfZp311_bVxhzJNPOu9kD5K7H42794agk4MTCGhTmHo_W0Gryz3-1A6TOw_YWFJn-baynPpUdkttrDbkxESlzLBMf6UJRa0_f2OEaslkSgtqsqGDkFscIvVCBU89RVUUwWevjTT1IpxAyJ3jjjqPMO_3mfAZMDY06gpoyhz3IiCR4Fe4s319HXkx1226U-lsmPOjMxILvR1r4GyLVXM.iIDXxmpZr-kU_gfx93WGFQgRRaVpKDSeUIh5mwlr_co&dib_tag=se&keywords=REI%2BREI%2BCo-op%2BCampwell%2B8%2BL%2BFolding%2BCooler%2BEmber%2BOrange&nsdOptOutParam=true&qid=1779725690&sprefix=premium%2Bbeauty%2Bproducts%2Bblushers%2Band%2Bbronzers%2Caps%2C503&sr=8-7&th=1&psc=1&linkCode=ll2&tag=aadhithyan637-20&linkId=16184644ac3b51a75c2d25347ae09625&language=en_US&ref_=as_li_ss_tl"
+}
+
 
 
 
