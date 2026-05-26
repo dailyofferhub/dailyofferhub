@@ -1365,6 +1365,41 @@ features: [
   ],
 image: "https://github.com/Aadhi6374/image/blob/main/backkpackk.png?raw=true",
 amazon: "https://www.amazon.com/Cooler-Backpack-2pc-Ice-Packs/dp/B0D5MFG5RF?crid=2NYZV2E1X55PJ&dib=eyJ2IjoiMSJ9.z0eWDp6_P0ra-dEzr2xKQ4ABDJucGCmsmNc7XklzixHNjNEtakeGhYpnBLhxcc_WC4Ox_MjEKa-Ydmr3FHFEgH7DOfZp311_bVxhzJNPOu9kD5K7H42794agk4MTCGhTmHo_W0Gryz3-1A6TOw_YWFJn-baynPpUdkttrDbkxESlzLBMf6UJRa0_f2OEaslkSgtqsqGDkFscIvVCBU89RVUUwWevjTT1IpxAyJ3jjjqPMO_3mfAZMDY06gpoyhz3IiCR4Fe4s319HXkx1226U-lsmPOjMxILvR1r4GyLVXM.iIDXxmpZr-kU_gfx93WGFQgRRaVpKDSeUIh5mwlr_co&dib_tag=se&keywords=REI%2BREI%2BCo-op%2BCampwell%2B8%2BL%2BFolding%2BCooler%2BEmber%2BOrange&nsdOptOutParam=true&qid=1779725690&sprefix=premium%2Bbeauty%2Bproducts%2Bblushers%2Band%2Bbronzers%2Caps%2C503&sr=8-7&th=1&psc=1&linkCode=ll2&tag=aadhithyan637-20&linkId=16184644ac3b51a75c2d25347ae09625&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+  "id": 50,
+  "name": "Hearth & Hand with Magnolia Soft Sided Cooler Bag – Sour Cream/Toffee Stripe Portable Picnic Cooler",
+  "price": 35,
+  "rating": 4.7,
+  "reviews": 480,
+  "description": "Enjoy stylish outdoor adventures with the Hearth & Hand with Magnolia Soft Sided Cooler Bag featuring a trendy sour cream and toffee striped design perfect for beach days picnics road trips camping and summer gatherings. Designed with insulated leak-resistant storage this portable cooler helps keep beverages snacks fruits and picnic essentials chilled for hours while adding an aesthetic lifestyle touch to every outing. The spacious interior and comfortable carrying handles make it ideal for travel outdoor brunches tailgating park visits boating and vacation use. Its fashionable neutral striped appearance blends modern farmhouse aesthetics with practical functionality making it a perfect Pinterest-worthy summer essential.",
+  "features": [
+    "Insulated soft sided cooler design helps maintain cold temperatures for drinks snacks and picnic foods",
+    "Spacious interior storage accommodates beverages fruits sandwiches ice packs and outdoor essentials",
+    "Stylish sour cream and toffee stripe pattern creates an aesthetic summer picnic and beach vibe",
+    "Comfortable dual carry handles provide easy transport during travel beach trips and outdoor activities",
+    "Adjustable shoulder strap supports convenient hands-free carrying while walking or traveling",
+    "Leak-resistant interior lining helps reduce spills and supports clean storage performance",
+    "Lightweight portable construction makes it easy to carry for picnics camping and road trips",
+    "Wide zip-top opening allows quick access to drinks snacks and chilled food items",
+    "Front exterior pocket offers extra storage space for sunglasses napkins phones or accessories",
+    "Modern farmhouse inspired aesthetic complements beach picnic and outdoor entertaining lifestyles",
+    "Durable zipper closure helps secure contents during transportation and outdoor adventures",
+    "Versatile cooler bag works well for beach vacations boating sports events and summer gatherings"
+  ],
+  "materials": [
+    "Durable polyester fabric exterior designed for outdoor use and long-lasting performance",
+    "Insulated foam interior lining helps preserve cold temperatures for food and beverages",
+    "Leak-resistant inner material supports secure storage and minimizes moisture leakage",
+    "Reinforced stitching construction improves durability during frequent travel and carrying",
+    "Soft woven carrying handles provide comfortable grip and easy portability",
+    "Adjustable woven shoulder strap designed for convenient crossbody carrying support",
+    "Premium zipper hardware ensures smooth opening and secure closure functionality",
+    "Structured soft-shell construction maintains shape while remaining lightweight and flexible"
+  ],
+image: "https://github.com/Aadhi6374/image/blob/main/neww%20bag.png?raw=true",
+amazon: "https://www.amazon.com/Hearth-Sided-Cooler-Toffee-Stripe/dp/B0H1Y9XB2J?crid=195QOOJNMGC9Q&dib=eyJ2IjoiMSJ9.HDBiRObP56HGAArBxfBslpKH9KGjXx8ZgIKbndEdEbGJxCy47TYRveNe2F2CsXa6uWxhPDyRl9NoH0scrIUE7A.lO_UnhEtxEc-_lKOz5oSvBRa7keP89NnmTI5SxqCIoQ&dib_tag=se&keywords=Soft+Sided+Cooler+Sour+Cream%2FToffee+Stripe+-+Hearth+%26+Hand%E2%84%A2+with+Magnolia&nsdOptOutParam=true&qid=1779789230&sprefix=soft+sided+cooler+sour+cream%2Ftoffee+stripe+-+hearth+%26+hand+with+magnolia%2Caps%2C438&sr=8-1&linkCode=ll2&tag=aadhithyan637-20&linkId=3b6f3bf981d0b0e8e8cb17ee04ff6a39&language=en_US&ref_=as_li_ss_tl"
 }
 
 
