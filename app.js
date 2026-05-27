@@ -1435,6 +1435,41 @@ amazon: "https://www.amazon.com/Hearth-Sided-Cooler-Toffee-Stripe/dp/B0H1Y9XB2J?
   ],
   image: "https://github.com/Aadhi6374/image/blob/main/beautyyyyy.png?raw=true",
   amazon: "https://www.amazon.com/Milani-Updated-Powder-Cheeks-Cruelty/dp/B0G59LVZN9?crid=ZT42SIK9EFBY&dib=eyJ2IjoiMSJ9.g5auC-PMA7OC5hdKqMktiX-BOsXkeI8-nmQA609KgQqCqTTcKRbcytvCaZ4853DaZBduDkTG8xDWbdVNGBRiR82Zlf9axkzF_PwQ77cgMpKh4CcZreBdkJ-k_KLZAlSmX0e9TtapfzrHuWK_c9Nm00_k03DTiLmtxxvuls50UOmgraBBGsc0xMgu9_IVjQZ9QtSgcsdz8G2yQTM8ILpbCmS3tjofhRK4Zarrriak1cyfcwek87o-LJ1LWJ28n7jfM9V7LludnMbAftRLK4Pi5xDnjgcbEaXIYjShQ8XA5eo.BRMTjOTIHEU-7p7o5Uvf2FQ3WsmOkYfa0tx1njcn_IQ&dib_tag=se&keywords=MAKEUP%2BBY%2BMARIO%2BSoft%2BPop%2BPlumping%2BCream%2BBlush%2BVeil%2BPinch%2BMe%2BPink%2B.17%2Boz%2B%2F%2B5%2Bg&nsdOptOutParam=true&qid=1779858029&sprefix=makeup%2Bby%2Bmario%2Bsoft%2Bpop%2Bplumping%2Bcream%2Bblush%2Bveil%2Bpinch%2Bme%2Bpink%2B.17%2Boz%2B%2F%2B5%2Bg%2Caps%2C525&sr=8-6&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=8f7dd9c7571d4e8bf6bc25ccf4ac93a0&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+  "id": 52,
+  "name": "Miss Mouth's Messy Eater Stain Treater Spray - Fast Acting Baby Clothes & Laundry Stain Remover",
+  "price": 24,
+  "rating": 4.4,
+  "reviews": 91751,
+  "description": "Remove tough baby food and everyday fabric stains quickly with Miss Mouth's Messy Eater Stain Treater Spray, a powerful fast acting laundry stain remover designed for parents families and busy households. This EPA Safer Choice certified unscented stain remover spray works effectively on baby clothes carpets upholstery underwear bibs and fabric while helping eliminate fresh and set-in stains from formula ketchup grease coffee fruit juice blood and food spills without harsh fragrances or heavy chemicals. The lightweight easy to use spray formula is gentle for family use yet strong on stains making it a must have newborn and toddler essential for modern laundry care routines. Perfect for Pinterest inspired mom hacks cleaning routines laundry organization content and viral Amazon home essentials.",
+  "features": [
+    "Fast acting stain remover spray helps break down tough stains within seconds",
+    "Effective on baby clothes bibs upholstery carpets laundry fabric and underwear",
+    "Works on food stains grease coffee ketchup formula fruit juice and blood spots",
+    "Suitable for fresh stains and older set-in fabric stains for versatile cleaning use",
+    "EPA Safer Choice certified formula supports safer family friendly cleaning routines",
+    "Unscented formula contains no added fragrance for sensitive households",
+    "Easy spray application allows quick stain treatment before regular washing",
+    "Great for newborn baby toddler kids and adult clothing stain removal needs",
+    "Portable spray bottle design supports convenient home travel and diaper bag use",
+    "Helps reduce the need for dry cleaning and expensive fabric treatments",
+    "Multi surface stain remover works on clothes upholstery carpets and soft fabrics",
+    "Pinterest friendly cleaning product ideal for laundry hacks mom essentials and Amazon finds content"
+  ],
+  "materials": [
+    "Unscented water based cleaning formula designed for fabric stain removal",
+    "Fragrance free ingredients help support sensitive skin and family safe cleaning",
+    "EPA Safer Choice certified cleaning ingredients meet safety focused standards",
+    "Spray bottle packaging allows easy direct stain targeting application",
+    "Durable plastic trigger bottle supports repeated household cleaning use",
+    "Lightweight liquid stain remover formula spreads evenly across fabrics",
+    "Multi fabric compatible cleaning solution suitable for clothes upholstery and carpets",
+    "Non dry cleaning stain treatment formula supports everyday laundry care"
+  ],
+image: "https://github.com/Aadhi6374/image/blob/main/stainn.png?raw=true",
+amazon: "https://www.amazon.com/Miss-Mouths-Messy-Eater-Treater/dp/B0BVXQQNBB?crid=1J5O6663CA6F5&dib=eyJ2IjoiMSJ9.DlaEgUGJ_8mrxn5jib7V_R8Xz-axqRJbzFfQE3BzAScBUNYIagn3R_3ElxQpmaVKFGwF59i-qu3MDEC5xgzI7-3UuxnJJ-YEkYOVBbTv8iHn1Q26a7fUDRrQJgtLWH12tWCnwtfs89LF9-m4EEKoZ_Y3HFeVHz9IsgIyNuoy3nDWu4xw9fKfHB8RR7rD_vUc1UCvgXGBrkw4Svwgp5p5BDt7KDpUDO5y4ggVgfiq9MXvLNNnPf5acgi-CJplItJ7S5Z3RHexJi1KwVyI1YtfrSnFkR_2FxV06iQ0ycT7usM.VzuC-128bF5LAoaKSFzIigtdVUit6FNg0TkOrMe6Xjs&dib_tag=se&keywords=trending%2Bsummer%2Bproducts%2B2026&qid=1779877449&sprefix=trending%2Bproduct%2Bfor%2Bsummer%2B%2Caps%2C1998&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=228f7ab5ac62c442dd2b2d77baf6609a&language=en_US&ref_=as_li_ss_tl"
 }
 
 
