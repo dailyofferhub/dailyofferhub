@@ -1505,6 +1505,41 @@ amazon: "https://www.amazon.com/Miss-Mouths-Messy-Eater-Treater/dp/B0BVXQQNBB?cr
   ],
 image: "https://github.com/Aadhi6374/image/blob/main/Butterfly%20bagg.png?raw=true",
 amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies/dp/B0DDH9H5J2?crid=4XARU87JSNYK&dib=eyJ2IjoiMSJ9.I4bu9_1uj_CRB869tpY9fGChJOQy4Dz57pSOKgKW4maR9bN0xrjaQ3atnpOgr0kKtZ0VEKVv_f-88ZLvMnMro-XRYQbNEQCwn-13fGH0FqYpFeSYpNtmQk5V1VJ_HqeTKo-mRO-DURuQN3J5fmKAjwLaEabr7exQRyz2YL_7Udn1jyaaUFOdnIEX6vnn6NEJpkNS-OSgNJj2hDcr2aAdhwCTrfCbq5iy8HoJ9lyW71MmDk-ojiUwjlYNnY1Et8u1svGIOCHie2Cn-obQYVfSnPXwCmR7aO6QvLfJgBzPBBQ.yfIZgosxvfEEIjjDdK6GapexMQm-on3LUy-9AI2EgEs&dib_tag=se&keywords=Puffy%2BLunch%2BBag%2B-%2BButterflies%2B-%2BButterflies%2B%2F%2BOS&nsdOptOutParam=true&qid=1779983928&sprefix=puffy%2Blunch%2Bbag%2B-%2Bbutterflies%2B-%2Bbutterflies%2B%2F%2Bos%2Caps%2C972&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=4993060e187b34a172a84f257d3a5134&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+  "id": 54,
+  "name": "Dash Rapid Egg Cooker - 7 Egg Capacity Electric Boiler, Poacher & Omelet Maker (Cream)",
+  "price": 20,
+  "rating": 4.6,
+  "reviews": 135568,
+  "description": "Make breakfast faster and easier with the Dash Rapid Egg Cooker, a compact electric egg cooker designed to prepare hard-boiled, soft-boiled, poached, scrambled eggs, and individual omelets in just minutes. Featuring a built-in precision thermal sensor, this versatile kitchen appliance delivers consistent cooking results without guesswork. Its space-saving design includes conveniently stored accessories, while dishwasher-safe removable parts make cleanup quick and effortless. Perfect for busy mornings, healthy meal prep, family breakfasts, college dorms, apartments, and small kitchens, this highly rated cooker helps create perfectly cooked eggs every time with minimal effort.",
+  "features": [
+    "Cooks up to 7 eggs at once for quick family breakfasts and meal prep",
+    "Prepares hard-boiled, soft-boiled, poached, scrambled eggs and omelets",
+    "Built-in precision thermal sensor helps prevent overcooking",
+    "One-touch operation provides simple and convenient cooking",
+    "Consistent cooking results for perfectly cooked eggs every time",
+    "Compact countertop design saves valuable kitchen space",
+    "Accessories store inside the appliance for organized storage",
+    "Dishwasher-safe removable parts simplify cleanup",
+    "Ideal for busy mornings, healthy eating and weekly meal preparation",
+    "Suitable for apartments, dorm rooms, RVs and small kitchens",
+    "Fast cooking performance reduces breakfast preparation time",
+    "Popular Amazon kitchen gadget with thousands of positive customer reviews"
+  ],
+  "materials": [
+    "Durable BPA-free plastic exterior construction",
+    "Transparent plastic lid for monitoring cooking progress",
+    "Heat-resistant plastic cooking tray and accessories",
+    "Stainless steel heating plate for efficient cooking performance",
+    "Non-electric removable components designed for dishwasher-safe cleaning",
+    "Food-safe materials suitable for daily kitchen use",
+    "Lightweight plastic housing for easy portability and storage",
+    "Long-lasting kitchen appliance construction designed for everyday use"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/eggggg%20maker.png?raw=true",
+ amazon: "https://www.amazon.com/DASH-Rapid-Egg-Cooker-Scrambled/dp/B0D3WNQGJC?crid=2Q7B6NW7GQNEC&dib=eyJ2IjoiMSJ9.n8ebzC9HGvXi6TBy1XZ70ZH_ttLgzop4Ls_6-EwAo0m9PmGXpm4PuVRfpe9gqJoz13wBU2jNMmdwj93CHePA6GNFo94YuwXaq9RglZnlIZQolItIALW_oyxI2WBaX9t2yW70-TRERpD3XS7FZo8USGDJvMduglxIZbZCWN2qt7K0CQHIiEw3L67m61PmXJYOZdwlmZldgYmrSkHzF0bydNFlQSM7elFvEn1_AW5PlPM.S1AyAs0KuWe3SL3f3Y24TsYVXI4YlOy5LInuGmxUiF0&dib_tag=se&keywords=Multifunctional%2BElectric%2BEgg%2BCooker%2B%E2%80%93%2BFast%2C%2BEfficient%2C%2BAnd%2BEasy%2BTo%2BUse%2BFor%2BPerfect%2BSoft-Boiled%2C%2BHard-Boiled%2BEggs%2B%26%2BSmooth%2BEgg%2BCustard.%2BCompact%2BDesign%2BIdeal%2BFor%2BHome%2C%2BKitchen%2C%2BAnd%2BDaily%2BHealthy%2BBreakfast&nsdOptOutParam=true&qid=1780066221&sprefix=multifunctional%2Belectric%2Begg%2Bcooker%2Bfast%2C%2Befficient%2C%2Band%2Beasy%2Bto%2Buse%2Bfor%2Bperfect%2Bsoft-boiled%2C%2Bhard-boiled%2Beggs%2B%26%2Bsmooth%2Begg%2Bcustard.%2Bcompact%2Bdesign%2Bideal%2Bfor%2Bhome%2C%2Bkitchen%2C%2Band%2Bdaily%2Bhealthy%2Bbreakfast%2Caps%2C941&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=0d18b54d2604b07da4de47da375d67c5&language=en_US&ref_=as_li_ss_tl"
 }
 
 
