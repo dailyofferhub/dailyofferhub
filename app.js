@@ -1575,6 +1575,41 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/serummmm.png?raw=true",
  amazon: "https://www.amazon.com/Fortifying-Hydrating-Hyaluronic-Lightweight-Moisturizing/dp/B06XC5PQGL?crid=1D4JDJ3T3TWJB&dib=eyJ2IjoiMSJ9.8CCNmr1H1UwB0zuN-f1ECySUeaaAUJsGTJ7Us-iz9TdXwM2tFQE4YR07eVeNx7GI6KxhiCYNPmZ9RmdmyjQyE2pEesUKB63OpPIRqTcvkYh2JV5LcvoHpK1XL3P0NWyl2JKhXbKW_BBiig0T-bqMNrbvtEJb4_c7XoxsG7NMUgmxkAtiXMHEO8U2gM6qAGmJi2ssF-G6MuI2wz3oUJ852mikpWsKyklmpvIF9uHuqqaE8C-FOtUtjtkAL-eccyhG9uLNX-IdounxZD6xovQyOVR299c7Ge9GrPW0EvMQbTg.0yFUxop2xrledW17vTm2iosEPYXIQYquqLrG_CQSEeQ&dib_tag=se&keywords=premium%2Bskin%2Bcare%2Bproducts&qid=1780135294&rdc=1&sprefix=premium%2Bskin%2Bcare%2Bproducts%2Caps%2C541&sr=8-21-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=a860af2f2818db333bfb58ea677429bf&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+  "id": 56,
+  "name": "La Roche-Posay Toleriane Double Repair Face Moisturizer, Daily Moisturizer with Ceramide-3 & Niacinamide for Barrier Repair and 48-Hour Hydration",
+  "price": 24,
+  "rating": 4.6,
+  "reviews": 49345,
+  "description": "La Roche-Posay Toleriane Double Repair Face Moisturizer is a lightweight, oil-free daily face cream designed to restore the skin barrier, deliver long-lasting hydration, and improve overall skin comfort. Formulated with Ceramide-3, Niacinamide, Glycerin, and Microbiome-Balancing Prebiotics, this fast-absorbing moisturizer helps repair the skin's natural protective barrier in as little as one hour while providing up to 48 hours of hydration. Suitable for all skin types, including sensitive and acne-prone skin, its fragrance-free, non-comedogenic formula delivers immediate comfort without clogging pores. The lightweight texture layers easily under sunscreen and makeup, making it ideal for both morning and evening skincare routines.",
+  "features": [
+    "Provides up to 48 hours of long-lasting hydration",
+    "Helps restore the skin's natural protective barrier in just 1 hour",
+    "Formulated with Ceramide-3 to strengthen and maintain the skin barrier",
+    "Contains Niacinamide to soothe skin and improve moisture retention",
+    "Enriched with Glycerin for deep hydration and moisture replenishment",
+    "Microbiome-balancing prebiotics help support healthy skin",
+    "Lightweight cream texture absorbs quickly without feeling greasy",
+    "Oil-free and non-comedogenic formula won't clog pores",
+    "Suitable for all skin types including sensitive skin",
+    "Fragrance-free, paraben-free formula minimizes irritation risk",
+    "Provides immediate comfort and soothing hydration",
+    "Dermatologist-tested and safe for daily face and neck use"
+  ],
+  "materials": [
+    "Ceramide-3",
+    "Niacinamide",
+    "Glycerin",
+    "Microbiome-Balancing Prebiotics",
+    "La Roche-Posay Thermal Spring Water",
+    "Fragrance-Free Formula",
+    "Oil-Free Cream Base",
+    "Non-Comedogenic Hydration Complex"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/moisture.png?raw=true",
+ amazon: "https://www.amazon.com/Roche-Posay-Toleriane-Double-Repair-Moisturizer/dp/B01N9SPQHQ?crid=16YSJ7GT95STI&dib=eyJ2IjoiMSJ9.viy2HWSX4dd1utvgf_OwoWVJ-VhfCilkJ86mFNtl6IecMNqCjj1vsDdhdkg-HDtq1mo-xz2T2VpdzVVIGxE1BLn84v5fCTQ7Ke0UdW6d27DViepLKn7Q1bfsEksBkc1yU5455FmmF4VjLIYKgiVvBqwyily7vWGC9L6x6wvgvXzQkyFfPfWp1ZhaZICxF5T7AcfUK-Mj0yO8BHSVFuOUIP0WwlvvltPN3GkChAx3LPLTjXL4rNv63RvEOwiODG5Fr9cDpcpYjcCj0WsxOfmfyOEQUs44RUcsC1muCV55IeE.nLxs8utIgovZOsIEw24UaqwhVO8O7kwk6vKU2yZ5B08&dib_tag=se&keywords=La%2BRoche-Posay%2BToleriane%2BDouble%2BRepair%2BFace%2BMoisturizer&qid=1780142208&refinements=p_36%3A1253950011&rnid=386662011&s=beauty&sprefix=la%2Broche-posay%2Btoleriane%2Bdouble%2Brepair%2Bface%2Bmoisturizer%2Cbeauty%2C514&sr=1-2&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=824c0493fc29362c8bd6f3d39aced998&language=en_US&ref_=as_li_ss_tl"
 }
 
 
