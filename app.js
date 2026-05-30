@@ -1540,6 +1540,41 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/eggggg%20maker.png?raw=true",
  amazon: "https://www.amazon.com/DASH-Rapid-Egg-Cooker-Scrambled/dp/B0D3WNQGJC?crid=2Q7B6NW7GQNEC&dib=eyJ2IjoiMSJ9.n8ebzC9HGvXi6TBy1XZ70ZH_ttLgzop4Ls_6-EwAo0m9PmGXpm4PuVRfpe9gqJoz13wBU2jNMmdwj93CHePA6GNFo94YuwXaq9RglZnlIZQolItIALW_oyxI2WBaX9t2yW70-TRERpD3XS7FZo8USGDJvMduglxIZbZCWN2qt7K0CQHIiEw3L67m61PmXJYOZdwlmZldgYmrSkHzF0bydNFlQSM7elFvEn1_AW5PlPM.S1AyAs0KuWe3SL3f3Y24TsYVXI4YlOy5LInuGmxUiF0&dib_tag=se&keywords=Multifunctional%2BElectric%2BEgg%2BCooker%2B%E2%80%93%2BFast%2C%2BEfficient%2C%2BAnd%2BEasy%2BTo%2BUse%2BFor%2BPerfect%2BSoft-Boiled%2C%2BHard-Boiled%2BEggs%2B%26%2BSmooth%2BEgg%2BCustard.%2BCompact%2BDesign%2BIdeal%2BFor%2BHome%2C%2BKitchen%2C%2BAnd%2BDaily%2BHealthy%2BBreakfast&nsdOptOutParam=true&qid=1780066221&sprefix=multifunctional%2Belectric%2Begg%2Bcooker%2Bfast%2C%2Befficient%2C%2Band%2Beasy%2Bto%2Buse%2Bfor%2Bperfect%2Bsoft-boiled%2C%2Bhard-boiled%2Beggs%2B%26%2Bsmooth%2Begg%2Bcustard.%2Bcompact%2Bdesign%2Bideal%2Bfor%2Bhome%2C%2Bkitchen%2C%2Band%2Bdaily%2Bhealthy%2Bbreakfast%2Caps%2C941&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=0d18b54d2604b07da4de47da375d67c5&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+  "id": 55,
+  "name": "Vichy Mineral 89 Booster, Pure Hyaluronic Acid Serum for Face with Polyglutamic Acid for Skin Barrier Repair, Plumps & Hydrates, Lightweight Hydrating Serum, Oil-Free, Non-Sticky",
+  "price": 30,
+  "rating": 4.6,
+  "reviews": 46667,
+  "description": "Vichy Minéral 89 is a lightweight, fragrance-free hydrating face serum designed to instantly boost moisture, strengthen the skin barrier, and improve overall skin health. Powered by Hyaluronic Acid, Polyglutamic Acid, and Vichy Volcanic Mineral-Rich Water, this fast-absorbing gel serum helps plump the skin, lock in hydration, support skin repair, and promote a healthy radiant glow. Suitable for all skin types, including sensitive skin, it can be used daily on the face and neck as part of both morning and evening skincare routines. Its non-sticky texture layers easily under moisturizers, sunscreen, and makeup, making it an ideal addition to any skincare regimen focused on hydration, barrier support, and glass skin results.",
+  "features": [
+    "Provides instant and long-lasting hydration for visibly healthier skin",
+    "Powered by Hyaluronic Acid to attract and retain moisture",
+    "Contains Polyglutamic Acid to help lock hydration into the skin",
+    "Fortified with Vichy Volcanic Mineral-Rich Water for barrier support",
+    "Helps strengthen and protect the skin's moisture barrier",
+    "Promotes plumper, smoother, and more radiant-looking skin",
+    "Lightweight gel texture absorbs quickly without feeling greasy",
+    "Non-sticky formula layers well under makeup and sunscreen",
+    "Suitable for all skin types including sensitive skin",
+    "Fragrance-free formula minimizes irritation risk",
+    "Can be used on both face and neck for daily hydration",
+    "Dermatologist-tested and accepted by the National Eczema Association"
+  ],
+  "materials": [
+    "Hyaluronic Acid",
+    "Polyglutamic Acid",
+    "Vichy Volcanic Mineral-Rich Water",
+    "Fragrance-Free Formula",
+    "Oil-Free Gel Base",
+    "Fast-Absorbing Hydrating Complex",
+    "Skin Barrier Support Ingredients",
+    "Dermatologist-Tested Sensitive Skin Formula"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/serummmm.png?raw=true",
+ amazon: "https://www.amazon.com/Fortifying-Hydrating-Hyaluronic-Lightweight-Moisturizing/dp/B06XC5PQGL?crid=1D4JDJ3T3TWJB&dib=eyJ2IjoiMSJ9.8CCNmr1H1UwB0zuN-f1ECySUeaaAUJsGTJ7Us-iz9TdXwM2tFQE4YR07eVeNx7GI6KxhiCYNPmZ9RmdmyjQyE2pEesUKB63OpPIRqTcvkYh2JV5LcvoHpK1XL3P0NWyl2JKhXbKW_BBiig0T-bqMNrbvtEJb4_c7XoxsG7NMUgmxkAtiXMHEO8U2gM6qAGmJi2ssF-G6MuI2wz3oUJ852mikpWsKyklmpvIF9uHuqqaE8C-FOtUtjtkAL-eccyhG9uLNX-IdounxZD6xovQyOVR299c7Ge9GrPW0EvMQbTg.0yFUxop2xrledW17vTm2iosEPYXIQYquqLrG_CQSEeQ&dib_tag=se&keywords=premium%2Bskin%2Bcare%2Bproducts&qid=1780135294&rdc=1&sprefix=premium%2Bskin%2Bcare%2Bproducts%2Caps%2C541&sr=8-21-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=a860af2f2818db333bfb58ea677429bf&language=en_US&ref_=as_li_ss_tl"
 }
 
 
