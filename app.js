@@ -1647,6 +1647,43 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/suncreen.png?raw=true",
  amazon: "https://www.amazon.com/Roche-Posay-Anthelios-Clear-Skin-Sunscreen/dp/B01A0NT3D6?dib=eyJ2IjoiMSJ9.Ac0JrViB-83fpStNhA85E8tDE3LM65raw9nDOdGZAcE3b9Qt5fPdygA2vXZBd4-enfzm_VmnYvGqVgSg4MZYjzD6YWlvOqXCWdKhOZZ_m1uEmzZHYkhvS-t4qdv_bmjNBhPk98PPZeycztFC4j1S6LjcwJEGotBVhlugLgIKJwP1gAh9QCagy0_edChzMIB5JlQ8xwjORF9EDJ0FzrQicHWn-UMbkTUacfKWiNQSgKu4EL9aHLDpI6CXCAhTL_75294IBchZ0MBGS_01aFjC6KzqYOCcQ6vTN3oNy2FVu0g.S_MVg1GdabfHAUUXBh13V7dXUWVDsTfPdQp48uTvkqQ&dib_tag=se&keywords=La%2BRoche-Posay%2BAnthelios%2BUVMune%2B400%2BInvisible%2BFluid%2BSPF50%2B&nsdOptOutParam=true&qid=1780142446&refinements=p_36%3A1253950011&rnid=386662011&s=beauty&sr=1-1&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=ea03fddea270844f5517389f614ab496&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+  "id": 58,
+  "name": "La Roche-Posay Toleriane Purifying Foaming Facial Cleanser, Oil-Free Face Wash with Niacinamide & Ceramide-3",
+  "price": 18,
+  "rating": 4.7,
+  "reviews": 48959,
+  "description": "La Roche-Posay Toleriane Purifying Foaming Facial Cleanser is a gentle daily face wash designed for normal to oily, sensitive, and acne-prone skin. This soap-free foaming gel cleanser effectively removes dirt, excess oil, makeup, and impurities without disrupting the skin's natural moisture barrier. Enriched with La Roche-Posay Prebiotic Thermal Water, Ceramide-3, Niacinamide, and Glycerin, it helps soothe irritation, support barrier repair, and maintain optimal hydration. The lightweight oil-free formula rinses clean without leaving residue, keeping skin feeling fresh, balanced, and comfortable. Dermatologist-tested, allergy-tested, fragrance-free, sulfate-free, and non-comedogenic, it is suitable for daily use on sensitive skin and helps promote a healthier-looking complexion.",
+  "features": [
+    "Gently removes dirt, oil, makeup, and daily impurities",
+    "Foaming gel texture cleanses without over-drying skin",
+    "Maintains the skin's natural protective moisture barrier",
+    "Supports healthy skin with Ceramide-3 and Niacinamide",
+    "Contains Prebiotic Thermal Water to soothe sensitive skin",
+    "Helps balance excess oil without leaving skin tight",
+    "Non-comedogenic formula won't clog pores",
+    "Oil-free, soap-free, and sulfate-free cleanser",
+    "Fragrance-free and allergy-tested for sensitive skin",
+    "Dermatologist-tested for daily facial cleansing",
+    "Suitable for normal, oily, and sensitive skin types",
+    "Leaves skin feeling clean, refreshed, and comfortable"
+  ],
+  "materials": [
+    "Ceramide-3",
+    "Niacinamide",
+    "Glycerin",
+    "La Roche-Posay Prebiotic Thermal Water",
+    "Oil-Free Gel Base",
+    "Soap-Free Cleansing Agents",
+    "Sulfate-Free Formula",
+    "Fragrance-Free Formula",
+    "Non-Comedogenic Ingredients",
+    "pH-Balanced Cleansing System"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/facewashhh.jpeg?raw=true",
+ amazon: "https://www.amazon.com/Roche-Posay-Toleriane-Cleanser-Purifying-Sensitive/dp/B0835T9PCR?dib=eyJ2IjoiMSJ9.o7LYMS2d-SNSH5fkzKTSHbUQPu2QmKjNcGKqKBPj9tGmG_ixcuxCuvdrGkgieMjq-2oSKRiPMKJL8nw9HN3jSDQcPA6GlU_ZRgWfO4TCEUE1gHeXZTRFmHFMo8WaQo8V7SvY0efmPiUdnL4_7LPR3hzSqsLBjNRHUDb32nWEQFYmdxZBJJHplKYnaBCPNs2iol9ZvX-Ate1yBa6OV-NMKNxlpK_ObWpjYTz0F1FWvku0enmOE8zUaPJOAWB1ZAWgK5p4cQnuuI1mg21mhaKfsxmybinPqkPdT2i5CDT9ZQQ.9_dP8j752VPIC8oP6cuO-wKZNYLuVOFASB9Awb501kE&dib_tag=se&keywords=La%2BRoche-Posay%2BEffaclar%2BPurifying%2BFoaming%2BGel&qid=1780142718&s=beauty&sr=1-8&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=c4260bc63f774f9b853a35cadbef06ff&language=en_US&ref_=as_li_ss_tl"
 }
 
 
