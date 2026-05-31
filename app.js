@@ -1610,6 +1610,43 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/moisture.png?raw=true",
  amazon: "https://www.amazon.com/Roche-Posay-Toleriane-Double-Repair-Moisturizer/dp/B01N9SPQHQ?crid=16YSJ7GT95STI&dib=eyJ2IjoiMSJ9.viy2HWSX4dd1utvgf_OwoWVJ-VhfCilkJ86mFNtl6IecMNqCjj1vsDdhdkg-HDtq1mo-xz2T2VpdzVVIGxE1BLn84v5fCTQ7Ke0UdW6d27DViepLKn7Q1bfsEksBkc1yU5455FmmF4VjLIYKgiVvBqwyily7vWGC9L6x6wvgvXzQkyFfPfWp1ZhaZICxF5T7AcfUK-Mj0yO8BHSVFuOUIP0WwlvvltPN3GkChAx3LPLTjXL4rNv63RvEOwiODG5Fr9cDpcpYjcCj0WsxOfmfyOEQUs44RUcsC1muCV55IeE.nLxs8utIgovZOsIEw24UaqwhVO8O7kwk6vKU2yZ5B08&dib_tag=se&keywords=La%2BRoche-Posay%2BToleriane%2BDouble%2BRepair%2BFace%2BMoisturizer&qid=1780142208&refinements=p_36%3A1253950011&rnid=386662011&s=beauty&sprefix=la%2Broche-posay%2Btoleriane%2Bdouble%2Brepair%2Bface%2Bmoisturizer%2Cbeauty%2C514&sr=1-2&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=824c0493fc29362c8bd6f3d39aced998&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+  "id": 57,
+  "name": "La Roche-Posay Anthelios Clear Skin Oil-Free Sunscreen SPF 60, Matte Finish Face Sunscreen for Oily & Acne-Prone Skin",
+  "price": 20,
+  "rating": 4.4,
+  "reviews": 22774,
+  "description": "La Roche-Posay Anthelios Clear Skin Oil-Free Sunscreen SPF 60 is a lightweight daily facial sunscreen specially formulated for oily, acne-prone, and sensitive skin. Powered by Cell-Ox Shield technology, it delivers advanced broad-spectrum UVA/UVB protection while helping absorb excess oil and reduce unwanted shine throughout the day. This fast-absorbing sunscreen leaves a clean matte finish without clogging pores, making it ideal for individuals prone to breakouts. Its oil-free, fragrance-free, non-comedogenic formula is rigorously tested for sensitive skin and remains comfortable even in heat and humidity. Free from oxybenzone, octinoxate, and parabens, it provides reliable sun protection while supporting a clearer, healthier-looking complexion.",
+  "features": [
+    "Broad-spectrum SPF 60 protection against UVA and UVB rays",
+    "Powered by Cell-Ox Shield antioxidant technology",
+    "Helps absorb excess oil and control shine throughout the day",
+    "Leaves a clean, matte finish without a greasy feel",
+    "Non-comedogenic formula won't clog pores or trigger breakouts",
+    "Ideal for oily, acne-prone, and sensitive skin types",
+    "Oil-free lightweight texture absorbs quickly",
+    "Provides comfortable wear even in heat and humidity",
+    "Fragrance-free and allergy-tested for sensitive skin",
+    "Oxybenzone-free and Octinoxate-free formula",
+    "Paraben-free sunscreen suitable for daily use",
+    "Can be worn alone or under makeup for everyday protection"
+  ],
+  "materials": [
+    "Cell-Ox Shield Technology",
+    "Broad Spectrum UVA/UVB Filters",
+    "Antioxidant Complex",
+    "Oil-Absorbing Silica",
+    "Fragrance-Free Formula",
+    "Oil-Free Cream Base",
+    "Non-Comedogenic Ingredients",
+    "Paraben-Free Formula",
+    "Oxybenzone-Free UV Filters",
+    "Octinoxate-Free UV Filters"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/suncreen.png?raw=true",
+ amazon: "https://www.amazon.com/Roche-Posay-Anthelios-Clear-Skin-Sunscreen/dp/B01A0NT3D6?dib=eyJ2IjoiMSJ9.Ac0JrViB-83fpStNhA85E8tDE3LM65raw9nDOdGZAcE3b9Qt5fPdygA2vXZBd4-enfzm_VmnYvGqVgSg4MZYjzD6YWlvOqXCWdKhOZZ_m1uEmzZHYkhvS-t4qdv_bmjNBhPk98PPZeycztFC4j1S6LjcwJEGotBVhlugLgIKJwP1gAh9QCagy0_edChzMIB5JlQ8xwjORF9EDJ0FzrQicHWn-UMbkTUacfKWiNQSgKu4EL9aHLDpI6CXCAhTL_75294IBchZ0MBGS_01aFjC6KzqYOCcQ6vTN3oNy2FVu0g.S_MVg1GdabfHAUUXBh13V7dXUWVDsTfPdQp48uTvkqQ&dib_tag=se&keywords=La%2BRoche-Posay%2BAnthelios%2BUVMune%2B400%2BInvisible%2BFluid%2BSPF50%2B&nsdOptOutParam=true&qid=1780142446&refinements=p_36%3A1253950011&rnid=386662011&s=beauty&sr=1-1&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=ea03fddea270844f5517389f614ab496&language=en_US&ref_=as_li_ss_tl"
 }
 
 
