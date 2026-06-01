@@ -1978,3 +1978,17 @@ img.style.transform = "scale(1)"
 img.style.transformOrigin = "center"
 
 }
+const params = new URLSearchParams(window.location.search);
+
+const productsParam =
+params.get("products") || params.get("product");
+
+if (
+productsParam &&
+productsParam.includes(",")
+){
+const msg = document.getElementById("scrollMessage");
+if(msg){
+msg.style.display = "block";
+}
+}
