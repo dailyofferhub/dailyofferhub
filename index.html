@@ -3,12 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="p:domain_verify" content="7ae030ce533a40982703cdec813c7ebb"/>
+<meta name="p:domain_verify" content="7ae030ce533a40982703cdec813c7ebb"/>
 
 <title>DailyOfferHub</title>
 
 <script src="https://cdn.tailwindcss.com"></script>
-
 
 <style>
 html{
@@ -21,8 +20,8 @@ position:relative;
 width:100%;
 overflow:hidden;
 display:block;
-background:none; /* removes white */
-border-radius:0; /* removes card look */
+background:none;
+border-radius:0;
 }
 
 /* ✅ FULL WIDTH IMAGE */
@@ -39,6 +38,28 @@ cursor:zoom-in;
 .image-container img:hover{
 transform:scale(1.03);
 }
+
+/* 👇 SCROLL MESSAGE */
+.scroll-message{
+text-align:center;
+font-size:22px;
+font-weight:700;
+color:#2563eb;
+padding:10px 20px 25px;
+animation:bounce 2s infinite;
+}
+
+@keyframes bounce{
+0%,20%,50%,80%,100%{
+transform:translateY(0);
+}
+40%{
+transform:translateY(-8px);
+}
+60%{
+transform:translateY(-4px);
+}
+}
 </style>
 
 </head>
@@ -50,8 +71,7 @@ transform:scale(1.03);
 
 <div class="flex items-center gap-3">
 
-<!-- ✅ YOUR WORKING LOGO -->
-<img 
+<img
 src="https://github.com/dailyofferhub/dailyofferhub/blob/main/image/logo.jpeg.jpeg?raw=true"
 class="w-12 h-12 object-contain">
 
@@ -76,6 +96,11 @@ Welcome to DailyOfferHub
 We suggest good quality, budget-friendly products with the best offers that are trending on Amazon — helping you make smarter buying decisions faster.
 </p>
 
+</div>
+
+<!-- 👇 SCROLL MESSAGE -->
+<div class="scroll-message">
+ ↓ Scroll for More Products ↓
 </div>
 
 <!-- PRODUCTS -->
