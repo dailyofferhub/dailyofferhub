@@ -1714,11 +1714,18 @@ function renderProducts(){
 const grid = document.getElementById("product-grid")
 const params = new URLSearchParams(window.location.search)
 
-const selectedId = parseInt(params.get("product"))
+const productParam =
+params.get("products") || params.get("product");
 
-const selectedIds = params.get("products")
-? params.get("products").split(",").map(id => parseInt(id))
-: null
+const selectedIds =
+productParam && productParam.includes(",")
+? productParam.split(",").map(id => parseInt(id))
+: null;
+
+const selectedId =
+productParam && !productParam.includes(",")
+? parseInt(productParam)
+: null;
 
 let html = ""
 
