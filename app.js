@@ -1684,7 +1684,45 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/facewashhh.jpeg?raw=true",
  amazon: "https://www.amazon.com/Roche-Posay-Toleriane-Cleanser-Purifying-Sensitive/dp/B0835T9PCR?dib=eyJ2IjoiMSJ9.o7LYMS2d-SNSH5fkzKTSHbUQPu2QmKjNcGKqKBPj9tGmG_ixcuxCuvdrGkgieMjq-2oSKRiPMKJL8nw9HN3jSDQcPA6GlU_ZRgWfO4TCEUE1gHeXZTRFmHFMo8WaQo8V7SvY0efmPiUdnL4_7LPR3hzSqsLBjNRHUDb32nWEQFYmdxZBJJHplKYnaBCPNs2iol9ZvX-Ate1yBa6OV-NMKNxlpK_ObWpjYTz0F1FWvku0enmOE8zUaPJOAWB1ZAWgK5p4cQnuuI1mg21mhaKfsxmybinPqkPdT2i5CDT9ZQQ.9_dP8j752VPIC8oP6cuO-wKZNYLuVOFASB9Awb501kE&dib_tag=se&keywords=La%2BRoche-Posay%2BEffaclar%2BPurifying%2BFoaming%2BGel&qid=1780142718&s=beauty&sr=1-8&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=c4260bc63f774f9b853a35cadbef06ff&language=en_US&ref_=as_li_ss_tl"
+},
+
+{
+  "id": 59,
+  "name": "Laura Ashley 6.8 Quart Slow Cooker - China Rose Floral Slow Cooker",
+  "price": 89,
+  "rating": 4.4,
+  "reviews": 121,
+  "description": "The Laura Ashley 6.8 Quart Slow Cooker in the elegant China Rose floral pattern combines timeless kitchen style with practical everyday cooking. Designed for families, meal prep, and entertaining, this large-capacity slow cooker serves 8–10 portions with ease. Its durable stainless steel body, removable ceramic crock, and tempered glass lid provide reliable performance while locking in flavor and moisture for delicious home-cooked meals. Featuring three heat settings including a convenient keep-warm function, it is perfect for preparing soups, stews, curries, casseroles, pulled meats, and other slow-cooked favorites. The removable ceramic pot is dishwasher-safe for effortless cleanup, while the iconic Laura Ashley floral design adds a decorative touch to any kitchen. Energy-efficient operation helps reduce power consumption compared to traditional ovens, making it both stylish and economical for everyday use.",
+  "features": [
+    "Large 6.8-quart capacity serves approximately 8-10 portions",
+    "Beautiful Laura Ashley China Rose floral design",
+    "Three heat settings including High, Low, and Keep Warm",
+    "Removable ceramic crock for easy serving and cleaning",
+    "Dishwasher-safe ceramic pot for hassle-free maintenance",
+    "Tempered glass lid allows easy food monitoring",
+    "Ideal for stews, soups, curries, casseroles, and meal prep",
+    "Durable stainless steel construction for long-lasting use",
+    "Energy-efficient cooking compared to conventional ovens",
+    "Non-slip feet provide added stability during operation",
+    "Perfect for family meals, gatherings, and entertaining guests",
+    "Stylish decorative appliance that enhances kitchen aesthetics"
+  ],
+  "materials": [
+    "Stainless Steel Body",
+    "Removable Ceramic Cooking Pot",
+    "Tempered Glass Lid",
+    "Heat-Resistant Plastic Controls",
+    "Chrome-Finished Handles",
+    "Non-Slip Feet",
+    "Electrical Heating Element",
+    "Floral Printed Exterior Finish",
+    "Food-Safe Ceramic Interior",
+    "Durable Metal Housing"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/cooker.png?raw=true",
+ amazon: "https://www.amazon.com/Laura-Ashley-Slow-Cooker-Quart/dp/B0DJDGWFNN?crid=VVGC47GZHQ6M&dib=eyJ2IjoiMSJ9.TGVBhW-lOccjf9E2cMtOqSpPoLSdTnKNfZaffAAWrSVXR2kaCtULQm7SC7hkOZ0URyoWZuJn7H_hj4XLMC4qJaCAwY7v6yhU9qitHKr2dw9YAo9qYuF04iwHYByRXS4m6lnUkaOWhhZRjQDS46j_IjN19lfuIacZHU74OjQ9ieQXwYucL52dMuF1edhpayUrrOIzOSVRxeQZBoaEiw-d2wbYiMlS69o_jadWi5_50LA.BvIid-YLm2AMefKQNh9fqErHsjoc0pKmivIgFLgqlXY&dib_tag=se&keywords=Laura%2BAshley%2B6.5L%2BSlow%2BCooker%2BWhite%3A%2B320W%2BCeramic%2B%26%2BStainless%2BSteel%2C%2B3%2BSettings%2C%2BKeep%2BWarm%2C%2B6%2BQuart%2BPot%2C%2B1%2BYear%2BWarranty&nsdOptOutParam=true&qid=1780413289&sprefix=laura%2Bashley%2B6.5l%2Bslow%2Bcooker%2Bwhite%2B320w%2Bceramic%2B%26%2Bstainless%2Bsteel%2C%2B3%2Bsettings%2C%2Bkeep%2Bwarm%2C%2B6%2Bquart%2Bpot%2C%2B1%2Byear%2Bwarranty%2Caps%2C597&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=5ced250bc0367fd33e24bb5ab4eec799&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
