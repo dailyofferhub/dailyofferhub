@@ -1685,42 +1685,41 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
  image: "https://github.com/Aadhi6374/image/blob/main/facewashhh.jpeg?raw=true",
  amazon: "https://www.amazon.com/Roche-Posay-Toleriane-Cleanser-Purifying-Sensitive/dp/B0835T9PCR?dib=eyJ2IjoiMSJ9.o7LYMS2d-SNSH5fkzKTSHbUQPu2QmKjNcGKqKBPj9tGmG_ixcuxCuvdrGkgieMjq-2oSKRiPMKJL8nw9HN3jSDQcPA6GlU_ZRgWfO4TCEUE1gHeXZTRFmHFMo8WaQo8V7SvY0efmPiUdnL4_7LPR3hzSqsLBjNRHUDb32nWEQFYmdxZBJJHplKYnaBCPNs2iol9ZvX-Ate1yBa6OV-NMKNxlpK_ObWpjYTz0F1FWvku0enmOE8zUaPJOAWB1ZAWgK5p4cQnuuI1mg21mhaKfsxmybinPqkPdT2i5CDT9ZQQ.9_dP8j752VPIC8oP6cuO-wKZNYLuVOFASB9Awb501kE&dib_tag=se&keywords=La%2BRoche-Posay%2BEffaclar%2BPurifying%2BFoaming%2BGel&qid=1780142718&s=beauty&sr=1-8&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=c4260bc63f774f9b853a35cadbef06ff&language=en_US&ref_=as_li_ss_tl"
 },
-
-{
-  "id": 59,
-  "name": "Laura Ashley 6.8 Quart Slow Cooker - China Rose Floral Slow Cooker",
-  "price": 89,
-  "rating": 4.4,
-  "reviews": 121,
-  "description": "The Laura Ashley 6.8 Quart Slow Cooker in the elegant China Rose floral pattern combines timeless kitchen style with practical everyday cooking. Designed for families, meal prep, and entertaining, this large-capacity slow cooker serves 8–10 portions with ease. Its durable stainless steel body, removable ceramic crock, and tempered glass lid provide reliable performance while locking in flavor and moisture for delicious home-cooked meals. Featuring three heat settings including a convenient keep-warm function, it is perfect for preparing soups, stews, curries, casseroles, pulled meats, and other slow-cooked favorites. The removable ceramic pot is dishwasher-safe for effortless cleanup, while the iconic Laura Ashley floral design adds a decorative touch to any kitchen. Energy-efficient operation helps reduce power consumption compared to traditional ovens, making it both stylish and economical for everyday use.",
+ {
+  "id": 60,
+  "name": "Fix-It and Forget-It Big Cookbook: 1400 Best Slow Cooker Recipes",
+  "price": 18,
+  "rating": 4.6,
+  "reviews": 5887,
+  "description": "Fix-It and Forget-It Big Cookbook is a bestselling slow cooker recipe collection by Phyllis Good, featuring 1,400 carefully selected recipes from home cooks across America. Designed for busy families, beginners, and anyone looking for convenient meal preparation, this comprehensive cookbook offers easy-to-follow instructions and a wide variety of delicious slow-cooker meals. From hearty soups and stews to casseroles, desserts, and family favorites, the recipes have been tested in real-life kitchens for reliable results. The hardcover edition includes full-color food photography galleries throughout the book and combines the best recipes from the renowned Fix-It and Forget-It series, which has sold over 11 million copies worldwide. Perfect for meal planning, family dinners, entertaining, and effortless home cooking, this cookbook helps readers create flavorful meals with minimal preparation.",
   "features": [
-    "Large 6.8-quart capacity serves approximately 8-10 portions",
-    "Beautiful Laura Ashley China Rose floral design",
-    "Three heat settings including High, Low, and Keep Warm",
-    "Removable ceramic crock for easy serving and cleaning",
-    "Dishwasher-safe ceramic pot for hassle-free maintenance",
-    "Tempered glass lid allows easy food monitoring",
-    "Ideal for stews, soups, curries, casseroles, and meal prep",
-    "Durable stainless steel construction for long-lasting use",
-    "Energy-efficient cooking compared to conventional ovens",
-    "Non-slip feet provide added stability during operation",
-    "Perfect for family meals, gatherings, and entertaining guests",
-    "Stylish decorative appliance that enhances kitchen aesthetics"
+    "Includes 1,400 slow-cooker recipes",
+    "Written by bestselling author Phyllis Good",
+    "Easy-to-follow instructions suitable for beginners",
+    "Recipes collected from experienced home cooks across America",
+    "Real-life kitchen tested recipes for reliable results",
+    "Covers soups, stews, casseroles, desserts, and main dishes",
+    "Ideal for busy families and meal preparation",
+    "Hardcover edition with durable construction",
+    "Features full-color food photography galleries",
+    "Suitable for everyday cooking and special occasions",
+    "Part of the bestselling Fix-It and Forget-It cookbook series",
+    "Over 1,500 five-star customer reviews"
   ],
   "materials": [
-    "Stainless Steel Body",
-    "Removable Ceramic Cooking Pot",
-    "Tempered Glass Lid",
-    "Heat-Resistant Plastic Controls",
-    "Chrome-Finished Handles",
-    "Non-Slip Feet",
-    "Electrical Heating Element",
-    "Floral Printed Exterior Finish",
-    "Food-Safe Ceramic Interior",
-    "Durable Metal Housing"
+    "Hardcover Binding",
+    "Printed Paper Pages",
+    "Full-Color Food Photography Pages",
+    "Laminated Cover Finish",
+    "Ink Printed Content",
+    "Durable Cardboard Cover Boards",
+    "Glossy Photo Inserts",
+    "Recipe Reference Index Pages",
+    "Table of Contents Section",
+    "Stitched and Glued Book Binding"
   ],
- image: "https://github.com/Aadhi6374/image/blob/main/cooker.png?raw=true",
- amazon: "https://www.amazon.com/Laura-Ashley-Slow-Cooker-Quart/dp/B0DJDGWFNN?crid=VVGC47GZHQ6M&dib=eyJ2IjoiMSJ9.TGVBhW-lOccjf9E2cMtOqSpPoLSdTnKNfZaffAAWrSVXR2kaCtULQm7SC7hkOZ0URyoWZuJn7H_hj4XLMC4qJaCAwY7v6yhU9qitHKr2dw9YAo9qYuF04iwHYByRXS4m6lnUkaOWhhZRjQDS46j_IjN19lfuIacZHU74OjQ9ieQXwYucL52dMuF1edhpayUrrOIzOSVRxeQZBoaEiw-d2wbYiMlS69o_jadWi5_50LA.BvIid-YLm2AMefKQNh9fqErHsjoc0pKmivIgFLgqlXY&dib_tag=se&keywords=Laura%2BAshley%2B6.5L%2BSlow%2BCooker%2BWhite%3A%2B320W%2BCeramic%2B%26%2BStainless%2BSteel%2C%2B3%2BSettings%2C%2BKeep%2BWarm%2C%2B6%2BQuart%2BPot%2C%2B1%2BYear%2BWarranty&nsdOptOutParam=true&qid=1780413289&sprefix=laura%2Bashley%2B6.5l%2Bslow%2Bcooker%2Bwhite%2B320w%2Bceramic%2B%26%2Bstainless%2Bsteel%2C%2B3%2Bsettings%2C%2Bkeep%2Bwarm%2C%2B6%2Bquart%2Bpot%2C%2B1%2Byear%2Bwarranty%2Caps%2C597&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=5ced250bc0367fd33e24bb5ab4eec799&language=en_US&ref_=as_li_ss_tl"
+ image: "https://github.com/Aadhi6374/image/blob/main/recepiee.png?raw=true",
+ amazon: "https://www.amazon.com/Fix-Forget-Big-Cookbook-Recipes/dp/156148640X?crid=3TB8XY4BWY1JY&dib=eyJ2IjoiMSJ9.iPDBu-ctFmn-pALHlAvBsatI1-YR8lCqOBytoIfG_j6XBWL6NIcZJZAxuk1SUlgootsdMYri5qGob8wuuAO6qQJ9BpuXDlP2iD23EUfxvvauiTRaW-Q3rUtl-W-w1m0S0ygDRmvCMyCHlivf8zRFrYjsgiS33NasvB7P8ESge0fUyAQzayl5T6O4BedU9zwey92QzjTX9lKll81FXm7UNch_PErb4b-IIh0iVv0p5y4.kpj6TPdouK6yeHy7lWuHhF-boexuRAKrK78s80hTLUE&dib_tag=se&keywords=Slow+Cooker+Recipes%3A+60+Delicious%2C+Easy+And+Healthy+Slow+Cooker+Recipes+For...&nsdOptOutParam=true&qid=1780482097&sprefix=quickbite+1.6l+rice+cooker%2C+purple%2Caps%2C806&sr=8-2&linkCode=ll2&tag=aadhithyan637-20&linkId=cafec8100e1dc1edb74e6fd39be7bd3b&language=en_US&ref_=as_li_ss_tl"
 }
 
 
