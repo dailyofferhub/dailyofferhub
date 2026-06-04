@@ -1686,6 +1686,42 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
  amazon: "https://www.amazon.com/Roche-Posay-Toleriane-Cleanser-Purifying-Sensitive/dp/B0835T9PCR?dib=eyJ2IjoiMSJ9.o7LYMS2d-SNSH5fkzKTSHbUQPu2QmKjNcGKqKBPj9tGmG_ixcuxCuvdrGkgieMjq-2oSKRiPMKJL8nw9HN3jSDQcPA6GlU_ZRgWfO4TCEUE1gHeXZTRFmHFMo8WaQo8V7SvY0efmPiUdnL4_7LPR3hzSqsLBjNRHUDb32nWEQFYmdxZBJJHplKYnaBCPNs2iol9ZvX-Ate1yBa6OV-NMKNxlpK_ObWpjYTz0F1FWvku0enmOE8zUaPJOAWB1ZAWgK5p4cQnuuI1mg21mhaKfsxmybinPqkPdT2i5CDT9ZQQ.9_dP8j752VPIC8oP6cuO-wKZNYLuVOFASB9Awb501kE&dib_tag=se&keywords=La%2BRoche-Posay%2BEffaclar%2BPurifying%2BFoaming%2BGel&qid=1780142718&s=beauty&sr=1-8&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=c4260bc63f774f9b853a35cadbef06ff&language=en_US&ref_=as_li_ss_tl"
 },
  {
+  "id": 59,
+  "name": "VQ Laura Ashley 6.8 Quart Slow Cooker - China Rose",
+  "price": 18,
+  "rating": 4.4,
+  "reviews": 122,
+  "description": "The VQ Laura Ashley 6.8 Quart Slow Cooker in the elegant China Rose floral pattern combines stylish kitchen design with practical cooking performance. Featuring a large 6.8-quart capacity, this slow cooker is ideal for preparing hearty family meals, batch cooking, entertaining guests, and meal prepping. Its durable stainless steel construction, removable ceramic cooking pot, and tempered glass lid help retain moisture and flavor while ensuring long-lasting performance. Equipped with three heat settings, including a keep-warm function, it allows users to prepare soups, stews, curries, casseroles, roasts, and other slow-cooked recipes with minimal effort. The dishwasher-safe components simplify cleanup, while the beautiful Laura Ashley floral design makes it an attractive addition to any kitchen countertop. Energy-efficient operation and reliable safety features make this slow cooker a convenient solution for everyday home cooking.",
+  "features": [
+    "Large 6.8-quart capacity suitable for families and gatherings",
+    "Elegant Laura Ashley China Rose floral design",
+    "Durable stainless steel exterior construction",
+    "Removable ceramic cooking pot for easy serving",
+    "Three heat settings including low, high, and keep-warm modes",
+    "Tempered glass lid for convenient cooking monitoring",
+    "Dishwasher-safe removable components",
+    "Ideal for soups, stews, curries, casseroles, and roasts",
+    "Energy-efficient cooking compared to conventional ovens",
+    "Non-slip feet for added countertop stability",
+    "Perfect for meal prepping and batch cooking",
+    "Designed for stress-free and convenient home cooking"
+  ],
+  "materials": [
+    "Stainless Steel Housing",
+    "Removable Ceramic Cooking Pot",
+    "Tempered Glass Lid",
+    "Heat-Resistant Plastic Handles",
+    "Metal Heating Components",
+    "Non-Slip Rubber Feet",
+    "Electrical Heating Element",
+    "Durable Floral Printed Exterior Finish",
+    "Dishwasher-Safe Ceramic Insert",
+    "Reinforced Internal Cooking Chamber"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/cooker.png?raw=true",
+ amazon: "https://www.amazon.com/Laura-Ashley-Slow-Cooker-Quart/dp/B0DJDGWFNN?crid=1GJBFZMGB1PME&dib=eyJ2IjoiMSJ9.czysi-DaD29Q8PuBWc7DhlgQemdnvGSbsBA_pee5MA6z-KoQTu1CCsr7q-9SMkzQLZUNVhwSirKVM7KYolHYwi8IBcGNxPXxb87bFYJTqiMy0re80j9z11HKthnkhhsB9aT4yy_-Q7s_7apbsDUNMGsloqPC3ssByQLV3QpFrAfjaowP_aa0AKUxl17KvAquDU_eWtrMRhXlVbVqyyER5O69Y-dXU5Xvys3T0EZjnas.MHjiDNwNrypsUymQZuX7hDxAV9z-dcdjhwGpNJfudbc&dib_tag=se&keywords=slow%2Bcooker%2Brecently%2Bviewed&qid=1780575282&sprefix=slow%2Bcooker%2Brecently%2Bviewed%2Caps%2C399&sr=8-5-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=9f71f6fbd5c86748029d2800cced5ebd&language=en_US&ref_=as_li_ss_tl"
+},
+ {
   "id": 60,
   "name": "Fix-It and Forget-It Big Cookbook: 1400 Best Slow Cooker Recipes",
   "price": 18,
