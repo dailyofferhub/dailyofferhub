@@ -1423,7 +1423,7 @@ amazon: "https://www.amazon.com/Hearth-Sided-Cooler-Toffee-Stripe/dp/B0H1Y9XB2J?
     "Works beautifully across fair medium and deeper skin tones for versatile use",
     "Affordable luxury style blush offers high end appearance at drugstore beauty pricing"
   ],
-  "materials": [
+ ingredients: [
     "Baked powder pigment formula designed for smooth blendable cheek application",
     "Cruelty free cosmetic ingredients support ethical makeup production standards",
     "Finely milled shimmer particles provide luminous radiant skin finish",
@@ -1458,7 +1458,7 @@ amazon: "https://www.amazon.com/Hearth-Sided-Cooler-Toffee-Stripe/dp/B0H1Y9XB2J?
     "Multi surface stain remover works on clothes upholstery carpets and soft fabrics",
     "Pinterest friendly cleaning product ideal for laundry hacks mom essentials and Amazon finds content"
   ],
-  "materials": [
+  ingredients: [
     "Unscented water based cleaning formula designed for fabric stain removal",
     "Fragrance free ingredients help support sensitive skin and family safe cleaning",
     "EPA Safer Choice certified cleaning ingredients meet safety focused standards",
@@ -1563,7 +1563,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
     "Can be used on both face and neck for daily hydration",
     "Dermatologist-tested and accepted by the National Eczema Association"
   ],
-  "materials": [
+ ingredients: [
     "Hyaluronic Acid",
     "Polyglutamic Acid",
     "Vichy Volcanic Mineral-Rich Water",
@@ -1598,7 +1598,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
     "Provides immediate comfort and soothing hydration",
     "Dermatologist-tested and safe for daily face and neck use"
   ],
-  "materials": [
+  ingredients:[
     "Ceramide-3",
     "Niacinamide",
     "Glycerin",
@@ -1633,7 +1633,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
     "Paraben-free sunscreen suitable for daily use",
     "Can be worn alone or under makeup for everyday protection"
   ],
-  "materials": [
+  ingredients: [
     "Cell-Ox Shield Technology",
     "Broad Spectrum UVA/UVB Filters",
     "Antioxidant Complex",
@@ -1670,7 +1670,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
     "Suitable for normal, oily, and sensitive skin types",
     "Leaves skin feeling clean, refreshed, and comfortable"
   ],
-  "materials": [
+  ingredients: [
     "Ceramide-3",
     "Niacinamide",
     "Glycerin",
@@ -1779,8 +1779,6 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
     "Ideal for daily luxury bathing rituals"
   ],
  ingredients: [
-    "Recyclable Plastic Bottle",
-    "50% Recycled Plastic Packaging",
     "Patchouli Essential Oil",
     "Rose Fragrance Notes",
     "Cassis Fragrance Notes",
