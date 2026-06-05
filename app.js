@@ -1756,7 +1756,45 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/recepiee.png?raw=true",
  amazon: "https://www.amazon.com/Fix-Forget-Big-Cookbook-Recipes/dp/156148640X?crid=3TB8XY4BWY1JY&dib=eyJ2IjoiMSJ9.iPDBu-ctFmn-pALHlAvBsatI1-YR8lCqOBytoIfG_j6XBWL6NIcZJZAxuk1SUlgootsdMYri5qGob8wuuAO6qQJ9BpuXDlP2iD23EUfxvvauiTRaW-Q3rUtl-W-w1m0S0ygDRmvCMyCHlivf8zRFrYjsgiS33NasvB7P8ESge0fUyAQzayl5T6O4BedU9zwey92QzjTX9lKll81FXm7UNch_PErb4b-IIh0iVv0p5y4.kpj6TPdouK6yeHy7lWuHhF-boexuRAKrK78s80hTLUE&dib_tag=se&keywords=Slow+Cooker+Recipes%3A+60+Delicious%2C+Easy+And+Healthy+Slow+Cooker+Recipes+For...&nsdOptOutParam=true&qid=1780482097&sprefix=quickbite+1.6l+rice+cooker%2C+purple%2Caps%2C806&sr=8-2&linkCode=ll2&tag=aadhithyan637-20&linkId=cafec8100e1dc1edb74e6fd39be7bd3b&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 61,
+  "name": "Molton Brown Rose Dunes Body Wash 10 fl. oz.",
+  "price": 35,
+  "rating": 4.6,
+  "reviews": 539,
+  "description": "Molton Brown Rose Dunes Body Wash is a luxurious bath and shower gel inspired by the mysterious beauty of desert landscapes at sunset. This shimmering body wash combines rich floral rose notes with earthy patchouli and tart cassis, creating a sophisticated and long-lasting fragrance experience. Formulated for all skin types, it gently cleanses while leaving skin feeling refreshed, soft, and delicately scented. The fragrance features sustainably sourced patchouli from Sulawesi, Indonesia, known for its exceptional quality and intensity. Made in England, this premium body wash comes in a recyclable bottle made from 50% recycled plastic and is never tested on animals, reflecting Molton Brown's commitment to responsible luxury.",
+  "features": [
+    "Luxurious bath and shower gel with shimmering formula",
+    "Inspired by desert rose landscapes and sunset dunes",
+    "Features warm rose, earthy patchouli, and tart cassis notes",
+    "Deeply cleanses while leaving skin softly fragranced",
+    "Suitable for all skin types",
+    "Long-lasting floral and woody scent trail",
+    "Contains sustainably sourced patchouli from Sulawesi, Indonesia",
+    "Made in England",
+    "Cruelty-free and never tested on animals",
+    "Recyclable bottle made from 50% recycled plastic",
+    "Premium fragrance developed with expert perfumers",
+    "Ideal for daily luxury bathing rituals"
+  ],
+ ingredients: [
+    "Recyclable Plastic Bottle",
+    "50% Recycled Plastic Packaging",
+    "Patchouli Essential Oil",
+    "Rose Fragrance Notes",
+    "Cassis Fragrance Notes",
+    "Geranium Fragrance Notes",
+    "Saffron Fragrance Notes",
+    "Gel-Based Cleansing Formula",
+    "Cruelty-Free Ingredients",
+    "Premium Fragrance Blend"
+  ],
+  
+ image: "https://github.com/Aadhi6374/image/blob/main/bodywash.png?raw=true",
+ amazon: "https://www.amazon.com/Molton-Brown-Rose-Dunes-Shower/dp/B0BY37RFFZ?crid=1MFT45GH61H40&dib=eyJ2IjoiMSJ9.TFrDD-GQ2cwFoXlN2pjJLqA0mR8u_7V8xq25X13nfwBmii_ryoK6OCn1QjG0Slube7eE9gCr4v3jHYgQHAl1syYksFuVOn1wUkzEcD7IwbVJxc2WK7yE3rEeZJA0Jw6JfzSh_GzRqieMW53gar_MQl1bFSvykagBGDE0o54365fVLXIUl_0AH3IGvqJYIYrJWuHWvHN34EVh1cervDfsNB6dVXjrRQgdV6LjFZLCNKJVNfR1mBM70ZdT-JPyhhZVQxnJy7I-UUm3Rq9OXzqWEFt6bj7TaJTILvjbKOB4e5Q.kiaJ7HEvAXDdE9Ym7mMK6rkLOxmh8HpjIayrk1uwhmw&dib_tag=se&keywords=Molton%2BBrown%2BRose%2BDunes%2BBody%2BWash%2B10%2Bfl.%2Boz.&nsdOptOutParam=true&qid=1780668003&sprefix=triple%2Bclear%2Bfloating%2Bbracket%2Bfor%2B10oz%2Bflowers%2Bhold%2Blife%2Caps%2C1894&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=e0bf5984ec9118305dc7972055838519&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
