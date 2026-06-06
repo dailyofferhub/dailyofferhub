@@ -1791,7 +1791,42 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   
  image: "https://github.com/Aadhi6374/image/blob/main/bodywash.png?raw=true",
  amazon: "https://www.amazon.com/Molton-Brown-Rose-Dunes-Shower/dp/B0BY37RFFZ?crid=1MFT45GH61H40&dib=eyJ2IjoiMSJ9.TFrDD-GQ2cwFoXlN2pjJLqA0mR8u_7V8xq25X13nfwBmii_ryoK6OCn1QjG0Slube7eE9gCr4v3jHYgQHAl1syYksFuVOn1wUkzEcD7IwbVJxc2WK7yE3rEeZJA0Jw6JfzSh_GzRqieMW53gar_MQl1bFSvykagBGDE0o54365fVLXIUl_0AH3IGvqJYIYrJWuHWvHN34EVh1cervDfsNB6dVXjrRQgdV6LjFZLCNKJVNfR1mBM70ZdT-JPyhhZVQxnJy7I-UUm3Rq9OXzqWEFt6bj7TaJTILvjbKOB4e5Q.kiaJ7HEvAXDdE9Ym7mMK6rkLOxmh8HpjIayrk1uwhmw&dib_tag=se&keywords=Molton%2BBrown%2BRose%2BDunes%2BBody%2BWash%2B10%2Bfl.%2Boz.&nsdOptOutParam=true&qid=1780668003&sprefix=triple%2Bclear%2Bfloating%2Bbracket%2Bfor%2B10oz%2Bflowers%2Bhold%2Blife%2Caps%2C1894&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=e0bf5984ec9118305dc7972055838519&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 62,
+  "name": "The Honest Company Refresh 2-in-1 Shampoo + Body Wash Citrus Vanilla 10 fl. oz.",
+  "price": 11.99,
+  "rating": 4.7,
+  "reviews": 46181,
+  "description": "The Honest Company Refresh 2-in-1 Shampoo + Body Wash is a best-selling, tear-free cleanser designed to gently clean both hair and skin in one simple step. Formulated for babies, kids, and adults, this hypoallergenic wash is ideal for sensitive skin and everyday use. Infused with chamomile extract and aloe, it helps leave skin feeling soft, refreshed, and moisturized while keeping hair clean and manageable. The Citrus Vanilla Refresh scent combines naturally derived botanicals and essential oils to create a light, uplifting bathing experience. Made in the USA, this dermatologist-tested formula is free from harsh chemicals such as parabens, sulfates, dyes, silicones, phthalates, synthetic fragrances, and formaldehyde donors, making it a trusted choice for the whole family.",
+  "features": [
+    "2-in-1 shampoo and body wash for hair and skin",
+    "Tear-free formula suitable for babies and children",
+    "Gentle enough for sensitive skin",
+    "Hypoallergenic and dermatologist-tested",
+    "Leaves skin soft, clean, and refreshed",
+    "Helps keep hair clean and manageable",
+    "Infused with chamomile extract and aloe",
+    "Naturally derived Citrus Vanilla Refresh fragrance",
+    "Suitable for all hair types and hair colors",
+    "Cruelty-free and never tested on animals",
+    "Made in the USA",
+    "Free from parabens, dyes, silicones, sulfates, phthalates, synthetic fragrances, and formaldehyde donors"
+  ],
+  "ingredients": [
+    "Chamomile Extract",
+    "Aloe Vera",
+    "Naturally Derived Citrus Vanilla Fragrance",
+    "Essential Oils",
+    "Purified Water",
+    "Plant-Based Cleansing Agents",
+    "Hypoallergenic Formula",
+    "Naturally Derived Ingredients"
+  ],
+   image: "https://github.com/Aadhi6374/image/blob/main/bodywash.png?raw=true",
+ amazon: "https://www.amazon.com/Company-Cleansing-Naturally-Tear-free-Hypoallergenic/dp/B00EHD9872?crid=XDONEA8P7MZ4&dib=eyJ2IjoiMSJ9.n1PPwHrZPd2ezbviYnuYUEj8yjYn-dCoRITdoseuC5Dacd07px7bsiA7DYlLFCaVrvW1d6VJlWFEEkVQzOyrog3vi-nrjiO_YH6GV2N70HQI5efBYcAjeTtoZEvbaCWQQvsOHsklXb3IPE-qufSWxGalz-JSzTVeg0drwQ-fo8xryVjl7-y_xWQv9gNBK8ld_81wgtj97i5THz4GUw7DyTzOWJGHv4dxdpmVre5M8w9_jpHXa7SLAjM8JKJyzX3v_hHnAvV2viJIK9SUWVmgBMnUIlDeov0hfwoucyCeHhU.Pj7aHs0r6ohKgdsm1igEAFAmxbtnGIOTwNnzwaqxC-Y&dib_tag=se&keywords=The%2BHonest%2BCompany%2BRefresh%2BCitrus%2BVanilla%2BShampoo%2Band%2BBody%2BWash%2B10%2Bfl%2Boz&nsdOptOutParam=true&qid=1780729507&rdc=1&sprefix=the%2Bhonest%2Bcompany%2Brefresh%2Bcitrus%2Bvanilla%2Bshampoo%2Band%2Bbody%2Bwash%2B10%2Bfl%2Boz%2Caps%2C416&sr=8-1&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=e91fb6bd55a4231752009bc040975fcb&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
