@@ -1825,7 +1825,42 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
    image: "https://github.com/Aadhi6374/image/blob/main/bodywash.png?raw=true",
  amazon: "https://www.amazon.com/Company-Cleansing-Naturally-Tear-free-Hypoallergenic/dp/B00EHD9872?crid=XDONEA8P7MZ4&dib=eyJ2IjoiMSJ9.n1PPwHrZPd2ezbviYnuYUEj8yjYn-dCoRITdoseuC5Dacd07px7bsiA7DYlLFCaVrvW1d6VJlWFEEkVQzOyrog3vi-nrjiO_YH6GV2N70HQI5efBYcAjeTtoZEvbaCWQQvsOHsklXb3IPE-qufSWxGalz-JSzTVeg0drwQ-fo8xryVjl7-y_xWQv9gNBK8ld_81wgtj97i5THz4GUw7DyTzOWJGHv4dxdpmVre5M8w9_jpHXa7SLAjM8JKJyzX3v_hHnAvV2viJIK9SUWVmgBMnUIlDeov0hfwoucyCeHhU.Pj7aHs0r6ohKgdsm1igEAFAmxbtnGIOTwNnzwaqxC-Y&dib_tag=se&keywords=The%2BHonest%2BCompany%2BRefresh%2BCitrus%2BVanilla%2BShampoo%2Band%2BBody%2BWash%2B10%2Bfl%2Boz&nsdOptOutParam=true&qid=1780729507&rdc=1&sprefix=the%2Bhonest%2Bcompany%2Brefresh%2Bcitrus%2Bvanilla%2Bshampoo%2Band%2Bbody%2Bwash%2B10%2Bfl%2Boz%2Caps%2C416&sr=8-1&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=e91fb6bd55a4231752009bc040975fcb&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 63,
+  "name": "L'OCCITANE Cleansing & Softening Almond Shower Oil Body Wash & Shaving Base 16.9 fl. oz.",
+  "price": 29.99,
+  "rating": 4.4,
+  "reviews": 17026,
+  "description": "L'OCCITANE Cleansing & Softening Almond Shower Oil is a luxurious body cleanser that transforms into a rich, milky lather upon contact with water. Enriched with sweet almond oil, this nourishing shower oil gently cleanses while helping to maintain the skin's natural moisture barrier. Designed for daily use and suitable for all skin types, it leaves skin feeling soft, smooth, comforted, and delicately scented with a warm almond fragrance. Its unique oil-to-milk texture also makes it an excellent shaving base, helping the razor glide smoothly across the skin while minimizing dryness. This premium body wash provides a spa-like cleansing experience that purifies and softens without stripping moisture, making it a favorite for those seeking hydrated, silky-smooth skin.",
+  "features": [
+    "Luxurious almond-scented shower oil",
+    "Transforms into a silky milky lather on contact with water",
+    "Gently cleanses without drying the skin",
+    "Leaves skin feeling soft, smooth, and nourished",
+    "Suitable for all skin types",
+    "Recommended for daily use",
+    "Provides long-lasting comfort and hydration",
+    "Can be used as a shaving base for a smoother shave",
+    "Helps maintain the skin's natural moisture barrier",
+    "Delicately perfumes skin with a warm almond fragrance",
+    "Rich oil-to-milk texture for a luxurious shower experience",
+    "Purifies and softens the skin while cleansing"
+  ],
+  "ingredients": [
+    "Sweet Almond Oil",
+    "Grape Seed Oil",
+    "Sunflower Seed Oil",
+    "Coconut-Derived Cleansing Agents",
+    "Glycerin",
+    "Vitamin E",
+    "Natural Almond Fragrance",
+    "Moisturizing Botanical Oils"
+  ],
+   image: "https://github.com/Aadhi6374/image/blob/main/shower%20oil.png?raw=true",
+ amazon: "https://www.amazon.com/LOccitane-Cleansing-Softening-Almond-Shower/dp/B017D5N9W0?crid=14KF26LX0VQ9G&dib=eyJ2IjoiMSJ9.cDZnY_Don494DvUZzvt4lyI0LJG71G4-I84FL-rYBjzEiCcZyYceymweoewrLnWrQ_PiGzfKbcQrm9_0HybivFfu0toQJSZjckCoVCfRvDy8bQ6d-i0z0oOJytb-E5kljikMmvX-FpbtXsFlPtvVCHtn7acPkvrvZr0s5VhB8rYMxPE5HCwCmHJOwvLCmIcSaR6NUktt2TH1O75GThxREe7A156eC1qwTsIf2aVtY-hEc4oGCafgSxG-15qDUDOLKdDO2pduuLQG_TN5jKh577BupOOREHbUcSFDA_NMYhs.jSr0t6RTZbHEQ1Pw6VMUKnpacmD-IDKPgd_qQVURlw4&dib_tag=se&keywords=L%27OCCITANE%2BCleansing%2B%26%2BSoftening%2BAlmond%2BShower%2BOil%2C%2BBody%2BWash%2B%26%2BShaving%2BBase%2BPurifies%2B%26%2BSmooths%2BWithout%2BDrying%2BSkin%2C%2BMilky%2BLather%2C%2BNourishing%2BSkincare&nsdOptOutParam=true&qid=1780736932&sprefix=l%27occitane%2Bcleansing%2B%26%2Bsoftening%2Balmond%2Bshower%2Boil%2C%2Bbody%2Bwash%2B%26%2Bshaving%2Bbase%2Bpurifies%2B%26%2Bsmooths%2Bwithout%2Bdrying%2Bskin%2C%2Bmilky%2Blather%2C%2Bnourishing%2Bskincare%2Caps%2C635&sr=8-7&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=5b7e38f52874a4756789ffb478243dc9&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
