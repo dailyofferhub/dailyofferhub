@@ -1789,7 +1789,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
     "Premium Fragrance Blend"
   ],
   
- image: "https://github.com/Aadhi6374/image/blob/main/bodywash.png?raw=true",
+ image: "https://github.com/Aadhi6374/image/blob/main/bodywashhh.jpg?raw=true",
  amazon: "https://www.amazon.com/Molton-Brown-Rose-Dunes-Shower/dp/B0BY37RFFZ?crid=1MFT45GH61H40&dib=eyJ2IjoiMSJ9.TFrDD-GQ2cwFoXlN2pjJLqA0mR8u_7V8xq25X13nfwBmii_ryoK6OCn1QjG0Slube7eE9gCr4v3jHYgQHAl1syYksFuVOn1wUkzEcD7IwbVJxc2WK7yE3rEeZJA0Jw6JfzSh_GzRqieMW53gar_MQl1bFSvykagBGDE0o54365fVLXIUl_0AH3IGvqJYIYrJWuHWvHN34EVh1cervDfsNB6dVXjrRQgdV6LjFZLCNKJVNfR1mBM70ZdT-JPyhhZVQxnJy7I-UUm3Rq9OXzqWEFt6bj7TaJTILvjbKOB4e5Q.kiaJ7HEvAXDdE9Ym7mMK6rkLOxmh8HpjIayrk1uwhmw&dib_tag=se&keywords=Molton%2BBrown%2BRose%2BDunes%2BBody%2BWash%2B10%2Bfl.%2Boz.&nsdOptOutParam=true&qid=1780668003&sprefix=triple%2Bclear%2Bfloating%2Bbracket%2Bfor%2B10oz%2Bflowers%2Bhold%2Blife%2Caps%2C1894&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=e0bf5984ec9118305dc7972055838519&language=en_US&ref_=as_li_ss_tl"
 },
 {
