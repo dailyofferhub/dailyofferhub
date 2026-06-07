@@ -1893,6 +1893,37 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
    image: "https://github.com/Aadhi6374/image/blob/main/body%20wash%20dermalogica.png?raw=true",
  amazon: "https://www.amazon.com/Dermalogica-Conditioning-Body-Wash-10/dp/B07YYPN8LX?crid=1YZNRRMYALINB&dib=eyJ2IjoiMSJ9.ifl2Bnb3_p0zlo5vdKdrkTkdsSEZpZivhHNp5htaZ28VtLOZl5p5hxQAdTCKyXEyDRatFr1Tz-cUSt3MEfJhYOift7ORkTFHQYyNYevSaGR8zlKgVXznzEZzmBt-vhhDIQv6ULWVbRcA8EwYr7TVmXrMwrUtu1zaYPfWZtyxPxxdbCUoVUyeUjtuxkv2XN6PuOIsv-3wI9BHkmglP277z_YTmJe95Xokr6u959WLcZQPLG19JZKLmtaPvxZgKaZaKLAumX1LKj2iRroo-ewdSNWkIieSSnrludmROX_kfOA.0qA-QVF9mgRFLFZh-Hdn8JvW46rBQa-rlcfhgdwBW34&dib_tag=se&keywords=dermalogica+conditioning+hand+%2B+body+wash&qid=1780827682&sprefix=dermalogica+conditioning+hand+%2B+body+wash%2Caps%2C429&sr=8-1&linkCode=ll2&tag=aadhithyan637-20&linkId=085ba070a1c318b03ae84cdee51a24c1&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 65,
+  "name": "Blackstone Egg & Omelet Ring Kit (7 Piece Set)",
+  "price": 37,
+  "rating": 4.6,
+  "reviews": 1235,
+  "description": "Blackstone Egg & Omelet Ring Kit is a versatile breakfast cooking accessory set designed to help create perfectly shaped eggs, omelets, pancakes, sausage patties, hash browns, crab cakes, and breakfast sandwiches. The 7-piece set includes six egg rings (three round and three square) along with one large omelet ring, making it easy to prepare restaurant-style breakfasts at home or on a griddle. Featuring a non-stick design and convenient lift handles, these molds simplify cooking while ensuring consistent shapes and easy food release. Dishwasher-safe and reusable, the kit is ideal for Blackstone griddles, flat-top grills, and traditional cooking surfaces.",
+  "features": [
+    "7-piece breakfast cooking mold set",
+    "Includes 3 round egg rings",
+    "Includes 3 square egg rings",
+    "Includes 1 large omelet ring",
+    "Helps create perfectly shaped eggs and omelets",
+    "Non-stick surface for easy food release",
+    "Convenient lift handles for safe handling",
+    "Easy to use on griddles and flat-top grills",
+    "Dishwasher safe for easy cleanup",
+    "Reusable and durable construction",
+    "Ideal for breakfast sandwiches",
+    "Suitable for pancakes, sausage patties, hash browns, and crab cakes",
+    "Creates restaurant-style breakfast presentation",
+    "Compatible with Blackstone griddles and other cooking surfaces",
+    "Easy hand washing with soap and water"
+  ],
+  "ingredients": [
+    "Food-Grade Non-Stick Silicone",
+    "Heat-Resistant Plastic Components"
+  ],
+   image: "https://github.com/Aadhi6374/image/blob/main/egg%20shaper.png?raw=true",
+ amazon: "https://www.amazon.com/Blackstone-5515-Omelet-Ring-Black/dp/B0919BB155?crid=1YVBUYOTF8FQ&dib=eyJ2IjoiMSJ9.DU_GIde4HhpwSI3qa0yXm2gLI3lrkpjgixKCt6vvls6RwcGxWNnasC7mNU4oo1xyvdjSKQnspeFEbY0bXjf6feuIbQ9rSvg-41d1hVWjjAtNZQlPetYKtHpbu0ncvHs32QY45hBfKSTWP0AOHfiPaVt3u_eW-lKXfCnveBeIRgAXvZVtThyZoN9rHyJNuKvdX2Julq7_dzBTEufbtIEDX_7nTA34VEIeeHYWGYnQ24rtkWa4LY97MMn3BogDeq3U8GlbqkovQwnlK2l2xISE5-2ExGInV1OAdR2XnPd2PU8.vmF4-0F_Fg07BTfZTOQGYKZhtybqY81Qe0uUYpfbdBk&dib_tag=se&keywords=Blackstone%2B5-Piece%2BEgg%2B%26%2BOmelet%2BBreakfast%2BKit%2B-%2BEgg%2BTools%2Bin%2BSilver%2B%7C%2BSize%2B12.4%22%2BH%2BX%2B9.2%22%2BW%2BX%2B2.8%22%2BD%2B%7C%2BPerigold&nsdOptOutParam=true&qid=1780840199&sprefix=blackstone%2B5-piece%2Begg%2B%26%2Bomelet%2Bbreakfast%2Bkit%2B-%2Begg%2Btools%2Bin%2Bsilver%2Bsize%2B12.4%2Bh%2Bx%2B9.2%2Bw%2Bx%2B2.8%2Bd%2Bperigold%2Caps%2C720&sr=8-1&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=aaf81c5be4c321d1fce50921b4ece5fa&language=en_US&ref_=as_li_ss_tl"
 }
 
 
