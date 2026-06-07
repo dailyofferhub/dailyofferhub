@@ -1859,7 +1859,42 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
    image: "https://github.com/Aadhi6374/image/blob/main/shower%20oil.png?raw=true",
  amazon: "https://www.amazon.com/LOccitane-Cleansing-Softening-Almond-Shower/dp/B017D5N9W0?crid=14KF26LX0VQ9G&dib=eyJ2IjoiMSJ9.cDZnY_Don494DvUZzvt4lyI0LJG71G4-I84FL-rYBjzEiCcZyYceymweoewrLnWrQ_PiGzfKbcQrm9_0HybivFfu0toQJSZjckCoVCfRvDy8bQ6d-i0z0oOJytb-E5kljikMmvX-FpbtXsFlPtvVCHtn7acPkvrvZr0s5VhB8rYMxPE5HCwCmHJOwvLCmIcSaR6NUktt2TH1O75GThxREe7A156eC1qwTsIf2aVtY-hEc4oGCafgSxG-15qDUDOLKdDO2pduuLQG_TN5jKh577BupOOREHbUcSFDA_NMYhs.jSr0t6RTZbHEQ1Pw6VMUKnpacmD-IDKPgd_qQVURlw4&dib_tag=se&keywords=L%27OCCITANE%2BCleansing%2B%26%2BSoftening%2BAlmond%2BShower%2BOil%2C%2BBody%2BWash%2B%26%2BShaving%2BBase%2BPurifies%2B%26%2BSmooths%2BWithout%2BDrying%2BSkin%2C%2BMilky%2BLather%2C%2BNourishing%2BSkincare&nsdOptOutParam=true&qid=1780736932&sprefix=l%27occitane%2Bcleansing%2B%26%2Bsoftening%2Balmond%2Bshower%2Boil%2C%2Bbody%2Bwash%2B%26%2Bshaving%2Bbase%2Bpurifies%2B%26%2Bsmooths%2Bwithout%2Bdrying%2Bskin%2C%2Bmilky%2Blather%2C%2Bnourishing%2Bskincare%2Caps%2C635&sr=8-7&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=5b7e38f52874a4756789ffb478243dc9&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 64,
+  "name": "Dermalogica Conditioning Hand + Body Wash (10 Fl Oz)",
+  "price": null,
+  "rating": 4.6,
+  "reviews": 671,
+  "description": "Dermalogica Conditioning Hand + Body Wash is a professional-grade moisturizing shower gel designed to gently cleanse, condition, and nourish the skin without disrupting its natural moisture barrier. Inspired by the aromatic bathing rituals of traditional Turkish hammams, this luxurious body wash is infused with invigorating botanical oils including French Rosemary, Chinese Eucalyptus, Tea Tree, and Lemon oils to awaken the senses while cleansing. Its skin-conditioning formula contains Pro-Vitamin B5, Sandalwood, Lavender, and Clary Sage to help maintain skin hydration and lipid barrier health, leaving skin feeling soft, smooth, refreshed, and healthy-looking. Suitable for all skin types and ideal for daily use, this body wash delivers a spa-like shower experience while helping combat dryness and dullness.",
+  "features": [
+    "Professional-grade conditioning hand and body wash",
+    "Gently cleanses without stripping the skin",
+    "Suitable for all skin types",
+    "Helps maintain lipid barrier health",
+    "Provides hydration and nourishment",
+    "Inspired by traditional Turkish hammam bathing rituals",
+    "Leaves skin soft, smooth, and refreshed",
+    "Awakens the senses with aromatic botanical oils",
+    "Helps address dryness and dullness",
+    "Ideal for daily use",
+    "Creates a rich, luxurious lather",
+    "Lightly fragrances the skin after cleansing"
+  ],
+  "ingredients": [
+    "French Rosemary Oil",
+    "Chinese Eucalyptus Oil",
+    "Tea Tree Oil",
+    "Lemon Oil",
+    "Pro-Vitamin B5 (Panthenol)",
+    "Sandalwood",
+    "Lavender",
+    "Clary Sage"
+  ],
+   image: "https://github.com/Aadhi6374/image/blob/main/body%20wash%20dermalogica.png?raw=true",
+ amazon: "https://www.amazon.com/Dermalogica-Conditioning-Body-Wash-10/dp/B07YYPN8LX?crid=1YZNRRMYALINB&dib=eyJ2IjoiMSJ9.ifl2Bnb3_p0zlo5vdKdrkTkdsSEZpZivhHNp5htaZ28VtLOZl5p5hxQAdTCKyXEyDRatFr1Tz-cUSt3MEfJhYOift7ORkTFHQYyNYevSaGR8zlKgVXznzEZzmBt-vhhDIQv6ULWVbRcA8EwYr7TVmXrMwrUtu1zaYPfWZtyxPxxdbCUoVUyeUjtuxkv2XN6PuOIsv-3wI9BHkmglP277z_YTmJe95Xokr6u959WLcZQPLG19JZKLmtaPvxZgKaZaKLAumX1LKj2iRroo-ewdSNWkIieSSnrludmROX_kfOA.0qA-QVF9mgRFLFZh-Hdn8JvW46rBQa-rlcfhgdwBW34&dib_tag=se&keywords=dermalogica+conditioning+hand+%2B+body+wash&qid=1780827682&sprefix=dermalogica+conditioning+hand+%2B+body+wash%2Caps%2C429&sr=8-1&linkCode=ll2&tag=aadhithyan637-20&linkId=085ba070a1c318b03ae84cdee51a24c1&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
