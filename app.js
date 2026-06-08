@@ -1924,7 +1924,45 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
    image: "https://github.com/Aadhi6374/image/blob/main/egg%20shaper.png?raw=true",
  amazon: "https://www.amazon.com/Blackstone-5515-Omelet-Ring-Black/dp/B0919BB155?crid=1YVBUYOTF8FQ&dib=eyJ2IjoiMSJ9.DU_GIde4HhpwSI3qa0yXm2gLI3lrkpjgixKCt6vvls6RwcGxWNnasC7mNU4oo1xyvdjSKQnspeFEbY0bXjf6feuIbQ9rSvg-41d1hVWjjAtNZQlPetYKtHpbu0ncvHs32QY45hBfKSTWP0AOHfiPaVt3u_eW-lKXfCnveBeIRgAXvZVtThyZoN9rHyJNuKvdX2Julq7_dzBTEufbtIEDX_7nTA34VEIeeHYWGYnQ24rtkWa4LY97MMn3BogDeq3U8GlbqkovQwnlK2l2xISE5-2ExGInV1OAdR2XnPd2PU8.vmF4-0F_Fg07BTfZTOQGYKZhtybqY81Qe0uUYpfbdBk&dib_tag=se&keywords=Blackstone%2B5-Piece%2BEgg%2B%26%2BOmelet%2BBreakfast%2BKit%2B-%2BEgg%2BTools%2Bin%2BSilver%2B%7C%2BSize%2B12.4%22%2BH%2BX%2B9.2%22%2BW%2BX%2B2.8%22%2BD%2B%7C%2BPerigold&nsdOptOutParam=true&qid=1780840199&sprefix=blackstone%2B5-piece%2Begg%2B%26%2Bomelet%2Bbreakfast%2Bkit%2B-%2Begg%2Btools%2Bin%2Bsilver%2Bsize%2B12.4%2Bh%2Bx%2B9.2%2Bw%2Bx%2B2.8%2Bd%2Bperigold%2Caps%2C720&sr=8-1&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=aaf81c5be4c321d1fce50921b4ece5fa&language=en_US&ref_=as_li_ss_tl"
+},
+ {
+  "id": 66,
+  "name": "The Stay-at-Home Chef Slow Cooker Cookbook: 120 Restaurant-Quality Recipes You Can Easily Make at Home",
+  "price": 15,
+  "rating": 4.6,
+  "reviews": 1276,
+  "description": "The Stay-at-Home Chef Slow Cooker Cookbook by Rachel Farnsworth features 120 restaurant-quality recipes that can be easily prepared at home using a slow cooker or Crock-Pot. Designed for busy families and home cooks, the cookbook focuses on simple, budget-friendly meals made with everyday ingredients. It includes recipes for breakfasts, soups, stews, sandwiches, snacks, desserts, and hearty main dishes featuring beef, chicken, pork, pasta, grains, and beans. The book also provides expert slow cooker tips, meal storage guidance, troubleshooting advice, and recipe variations to help readers create delicious meals with confidence.",
+  "features": [
+    "120 restaurant-quality slow cooker recipes",
+    "Created by Rachel Farnsworth, The Stay at Home Chef",
+    "Suitable for slow cookers and Crock-Pot appliances",
+    "Uses simple everyday ingredients",
+    "Budget-friendly home cooking solutions",
+    "Breakfast recipes included",
+    "Soups and stews section",
+    "Sandwich recipes included",
+    "Dips and snack recipes",
+    "Dessert recipes included",
+    "Beef entrée recipes",
+    "Chicken entrée recipes",
+    "Pork entrée recipes",
+    "Pasta, grains, and beans recipes",
+    "Slow cooker usage tips and techniques",
+    "Food storage and safety guidance",
+    "Troubleshooting tips for common slow cooking issues",
+    "Recipe variations and customization ideas",
+    "Family-friendly meal planning resource",
+    "Easy-to-follow instructions for every recipe"
+  ],
+  "ingredients": [
+    "Paperback Book",
+    "Printed Recipe Collection",
+    "Cooking Instructions and Meal Planning Content"
+  ],
+  image: "https://github.com/Aadhi6374/image/blob/main/slow%20cooker%20recepiessss.png?raw=true",
+ amazon: "https://www.amazon.com/Stay-at-Home-Chef-Cooker-Cookbook-Restaurant-Quality/dp/074402918X?crid=N0IWZTQFF8A2&dib=eyJ2IjoiMSJ9.eu00igXlAHmhOoiz3UNdCHh2EWNILs_suOtMdBIgvy87pZaiFPGBbT287AYGBPBG89Vq6ZCsONyzA4uEb2Lr-keKhYx06aIy1Z_6NFzCQv8rcP_S6xYNsIv49hPN6QRzSD0D43PGswo77p1a07ahuTrkaYgN_bBPwuBM1xQaamBbWYQHK3xm0S8u-Dkww9W5pRuC9KhEYjiqo3vtuGHFVd5E-COwwGIWccUUH9HKT6A.lxf299htjJsGIneQG6ht8jBDnq2MqfXqpElYHZVf-jM&dib_tag=se&keywords=Kohl%27s+The+Stay-at-Home+Chef+Slow+Cooker+Cookbook%2C+Multi&nsdOptOutParam=true&qid=1780915111&sprefix=kohl%27s+the+stay-at-home+chef+slow+cooker+cookbook%2C+multi%2Caps%2C616&sr=8-2&linkCode=ll2&tag=aadhithyan637-20&linkId=af627a780b97b30a2cca68a1e2c61202&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
