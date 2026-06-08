@@ -1961,6 +1961,47 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
   image: "https://github.com/Aadhi6374/image/blob/main/slow%20cooker%20recepiessss.png?raw=true",
  amazon: "https://www.amazon.com/Stay-at-Home-Chef-Cooker-Cookbook-Restaurant-Quality/dp/074402918X?crid=N0IWZTQFF8A2&dib=eyJ2IjoiMSJ9.eu00igXlAHmhOoiz3UNdCHh2EWNILs_suOtMdBIgvy87pZaiFPGBbT287AYGBPBG89Vq6ZCsONyzA4uEb2Lr-keKhYx06aIy1Z_6NFzCQv8rcP_S6xYNsIv49hPN6QRzSD0D43PGswo77p1a07ahuTrkaYgN_bBPwuBM1xQaamBbWYQHK3xm0S8u-Dkww9W5pRuC9KhEYjiqo3vtuGHFVd5E-COwwGIWccUUH9HKT6A.lxf299htjJsGIneQG6ht8jBDnq2MqfXqpElYHZVf-jM&dib_tag=se&keywords=Kohl%27s+The+Stay-at-Home+Chef+Slow+Cooker+Cookbook%2C+Multi&nsdOptOutParam=true&qid=1780915111&sprefix=kohl%27s+the+stay-at-home+chef+slow+cooker+cookbook%2C+multi%2Caps%2C616&sr=8-2&linkCode=ll2&tag=aadhithyan637-20&linkId=af627a780b97b30a2cca68a1e2c61202&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 67,
+  "name": "Whiskey Smoker Kit with Torch - 6 Flavors Wood Chips, 2 Glasses, 2 Ice Ball Molds - Cocktail Smoker Infuser Kit",
+  "price": 40,
+  "rating": 4.6,
+  "reviews": 5838,
+  "description": "The ComboJoy Whiskey Smoker Kit is a premium cocktail smoker set designed to enhance whiskey, bourbon, scotch, and other beverages with rich natural smoky flavors. The complete kit includes an oak wood smoker top, torch lighter (butane not included), six natural wood chip flavors, two whiskey glasses, two ice ball molds, and a stainless steel mesh filter. Designed for both beginners and enthusiasts, the smoker infuses drinks and foods with cold smoke to create a sophisticated tasting experience. It can also be used with meats, cheese, dried fruits, BBQ, and other foods. Packaged in an elegant gift box, it makes an excellent Father's Day, birthday, Christmas, or special occasion gift for whiskey lovers and cocktail enthusiasts.",
+  "features": [
+    "Premium oak wood cocktail smoker",
+    "Includes torch lighter (butane not included)",
+    "Six natural wood chip flavors included",
+    "Two premium whiskey glasses",
+    "Two reusable ice ball molds",
+    "Stainless steel mesh filter included",
+    "Cold smoke infusion technology",
+    "Enhances whiskey, bourbon, scotch, and cocktails",
+    "Adds rich natural smoky flavor",
+    "Easy-to-use smoking process",
+    "Elegant gift box packaging",
+    "Ideal Father's Day gift",
+    "Suitable for birthdays and Christmas gifts",
+    "Perfect for whiskey and bourbon enthusiasts",
+    "Can be used for food and beverage smoking",
+    "Enhances meats, cheese, and BBQ",
+    "Compact and portable design",
+    "Suitable for home bars and kitchens",
+    "Great for outdoor gatherings and picnics",
+    "Luxury cocktail-making experience"
+  ],
+  "ingredients": [
+    "Oak Wood Smoker Top",
+    "Torch Lighter (No Butane Included)",
+    "6 Natural Wood Chip Flavors",
+    "2 Whiskey Glasses",
+    "2 Ice Ball Molds",
+    "Stainless Steel Mesh Filter",
+    "Gift Box Packaging"
+  ],
+  image: "https://github.com/Aadhi6374/image/blob/main/fathers%20day.png?raw=true",
+ amazon: "https://www.amazon.com/Whiskey-Smoker-Kit-Torch-Fashioned/dp/B0BJV68C17?crid=2EACERWIPM3R1&dib=eyJ2IjoiMSJ9.C_7DgqLTVdxCkYBur1DUkNk3BdKx61SMdNcH8p18WL_8JsyARkUQLSaGA7Kn9_gGApeEDmy1DRJJGarGnXxe8152dwphGrXmKX2YUo5qMCHKMv4x1r35AR_u5XzjE7YNt_llIBKdQOzPYfaA8QwL5dIGzuJFSBKWKIHvzcxaXFQtu2IGmYEO_D8NTBLXSp_0zf4hULuL-dT82c8y2L25kHa8nSrM4Dn6dRNap8j5hXX65MfiypbF9f5n8WQuuY3C0pxtKKqtsHnFj0ICO7xshvWHxGuvv9GEasWGL8pn9xM.GY_W1Vo1z4ADiFKfz5ZCIoFm_-JwNvZRHEgWd_j_Ss4&dib_tag=se&keywords=fathers+day+gifts&qid=1780919114&s=home-garden&sprefix=fatherss%2Cgarden%2C624&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll2&tag=aadhithyan637-20&linkId=ca433a6c23dc601be1ff77c7a50270a9&language=en_US&ref_=as_li_ss_tl"
 }
 
 
