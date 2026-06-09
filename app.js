@@ -2055,7 +2055,62 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
   image: "https://github.com/Aadhi6374/image/blob/main/fathers%20day%201.png?raw=true",
  amazon: "https://www.amazon.com/TESLYAR-Organizer-Anniversary-Nightstand-Graduation/dp/B08YJR9HDL?crid=27SJC36FPX3I6&dib=eyJ2IjoiMSJ9.vAQieDyjCf58pfZi1MkmyBt48Z64eFE-l0wqbXbPwkwY1iWjvXU_VJhCEsXX94gLs3sVKOSyo4TAxoFaOl-PHJqSllcZ10SdprPbMl7q4TOw4ud5JVOqHdn9ehKf34AExK3CMLBwdKtbi10JQ26lnsO7RhEZXV0Llh1XltxmH2QjUeCO_qSfrdk4RDZSgwcMFrmI3Ztb3hdZHCWEfqq-aLuTKNXqSKGRjMXA7T-jGXfHGIYkfsh3e3YZeCH6Z0r_aTXEL3I_c2NSB2Pv-B9xX6fDfygJbT3T8HSzrLeJjZU.jEVyG4ddMah61PysSvxdKaGKY0gHu082XQRZY3LAslQ&dib_tag=se&keywords=Personalized%2BDocking%2BStation&qid=1780934030&s=home-garden&sprefix=fathers%2Bday%2Bgifts%2Cgarden%2C2278&sr=1-4&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=0fa6d63a022c6b07bf1a3b2c742417bb&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 69,
+  "name": "Salt & Stone Body Wash with Antioxidants for Deep Moisture - Santal & Vetiver (15.2 fl oz)",
+  "price": 36,
+  "rating": 4.3,
+  "reviews": 8186,
+  "description": "Salt & Stone Body Wash with Antioxidants for Deep Moisture is a premium skincare-infused body cleanser designed to gently cleanse while hydrating and nourishing the skin. Featuring a rich aromatic gel formula, it creates a luxurious lather that leaves skin feeling soft, smooth, refreshed, and delicately scented. Enriched with prebiotics, seaweed extracts, Vitamin C, and niacinamide, the body wash helps balance the skin microbiome while supporting healthy-looking, hydrated skin. The award-winning formula provides a deep clean without stripping moisture, making it suitable for daily use by both men and women. The signature Santal & Vetiver fragrance combines warm woody notes with creamy undertones, creating a sophisticated luxury shower experience. Made with clean ingredients, this vegan and cruelty-free formula is free from sulfates, parabens, dyes, phthalates, and harsh chemicals.",
+  "features": [
+    "Deep moisture body wash formula",
+    "Rich hydrating gel cleanser",
+    "Creates luxurious lather",
+    "Leaves skin soft and smooth",
+    "Skincare-infused body wash",
+    "Contains prebiotics for skin balance",
+    "Enriched with seaweed extracts",
+    "Contains Vitamin C",
+    "Contains niacinamide",
+    "Supports healthy hydrated skin",
+    "Deep cleans without drying skin",
+    "Award-winning body wash formula",
+    "Suitable for daily use",
+    "Unisex formula for men and women",
+    "Warm woody Santal & Vetiver scent",
+    "Creamy fragrance profile",
+    "Long-lasting fresh scent",
+    "Sulfate-free formula",
+    "Paraben-free formula",
+    "Dye-free formula",
+    "Phthalate-free formula",
+    "Clean beauty ingredients",
+    "Vegan body wash",
+    "Cruelty-free formula",
+    "Leaping Bunny Certified",
+    "Suitable for all skin types",
+    "Balances skin microbiome",
+    "Refreshing shower experience",
+    "Premium luxury body care",
+    "15.2 fl oz bottle"
+  ],
+  "ingredients": [
+    "Prebiotics",
+    "Seaweed Extracts",
+    "Vitamin C",
+    "Niacinamide",
+    "Antioxidants",
+    "Hydrating Cleansing Agents",
+    "Santal & Vetiver Fragrance Blend",
+    "Purified Water",
+    "Skin Conditioning Ingredients",
+    "Plant-Based Cleansing Components"
+  ],
+  image: "https://github.com/Aadhi6374/image/blob/main/body%20washhhhh1.png?raw=true",
+ amazon: "https://www.amazon.com/Salt-Stone-Antioxidants-Moisture-Hydrated/dp/B0C23Q2H61?crid=3F51UFWN63RSW&dib=eyJ2IjoiMSJ9.fflePuXVpW24mpG1U57nA5XekQHA_XNueze9hOy25JnUinKAsVA1ZrxQpwmlGVykBVB7p9c10dE8MMpROsMv7pXIcFHzSmwIeKDPcpiXRMsdt789YcqaqqyFipb2v7amsLFGgZ4cNgzqn2EuCwxFWub-7BGhzKIMW9KHLXMLc-FYSRdPmNRAa830emD0v2CusacZNWz4Y3YR12jcffk8lnPOIw9LfMHhH_TckzTm32M4HYKNzTt1Idsf1SG1eLlqpIKdUaza0wv3Yy6oHWmVl7WEaFLgwCP5h8EblHpOeFw.OJkQWG8SwAyyu6fWCwACgJJi-KetMvpYQchRxEU3lrI&dib_tag=se&keywords=Salt%2B%26%2BStone%2BSantal%2B%26%2BVetiver%2BRefillable%2BBody%2BWash%2Bwith%2BNiacinamide%2B%2B%2BProbiotic%2B15.2%2Boz%2F450%2Bml%2B15.2%2Boz%2F450%2Bml%2B%2436.00&nsdOptOutParam=true&qid=1780989118&sprefix=salt%2B%26%2Bstone%2Bsantal%2B%26%2Bvetiver%2Brefillable%2Bbody%2Bwash%2Bwith%2Bniacinamide%2B%2B%2Bprobiotic%2B15.2%2Boz%2F450%2Bml%2B15.2%2Boz%2F450%2Bml%2B%2436.00%2Caps%2C562&sr=8-5&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=9702f36aae8cbb538f4cc7bb2ea6b746&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
