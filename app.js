@@ -1918,7 +1918,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
     "Compatible with Blackstone griddles and other cooking surfaces",
     "Easy hand washing with soap and water"
   ],
-  "ingredients": [
+  "materials": [
     "Food-Grade Non-Stick Silicone",
     "Heat-Resistant Plastic Components"
   ],
@@ -1954,7 +1954,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
     "Family-friendly meal planning resource",
     "Easy-to-follow instructions for every recipe"
   ],
-  "ingredients": [
+  "materials": [
     "Paperback Book",
     "Printed Recipe Collection",
     "Cooking Instructions and Meal Planning Content"
@@ -1991,7 +1991,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
     "Great for outdoor gatherings and picnics",
     "Luxury cocktail-making experience"
   ],
-  "ingredients": [
+  "materials": [
     "Oak Wood Smoker Top",
     "Torch Lighter (No Butane Included)",
     "6 Natural Wood Chip Flavors",
@@ -2042,7 +2042,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
     "Premium gift-ready packaging",
     "Keeps everyday essentials organized and accessible"
   ],
-  "ingredients": [
+  "materials": [
     "Solid Wood Docking Station",
     "Phone Charging Stand",
     "Watch Holder",
@@ -2147,7 +2147,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
     "Beginner-friendly rice cooker",
     "White finish design"
   ],
-  "ingredients": [
+  "materials": [
     "Nonstick Inner Cooking Pan",
     "Tempered Glass Lid",
     "Heat-Resistant Plastic Handles",
@@ -2159,6 +2159,42 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
   image: "https://github.com/Aadhi6374/image/blob/main/kitchen%20product.png?raw=true",
  amazon: "https://www.amazon.com/Zojirushi-NHS-06-3-Cup-Uncooked-Cooker/dp/B00004S575?crid=11QKR3R04NVCL&dib=eyJ2IjoiMSJ9.iWfnh_c3GcLNhUjzssZc5DEHo0r_Lq-YcHWYwb9TeMcH1SEosMmwSXHtJLeEOpr5CrpSmnb7QlUrb23M_K30fG8h7nMGgo-mr73r5GDlqiXFsbUNflloKcOwa8tVVCzinfRuai9-V_nU6XHF-NM2D_oytpMhT_LH3n3I09-UxfidSl1m3ECapRIEwmupqyqWgTyw7XB46cy7Hkd7ODdfyixVORJsrurcXtUfGkzXINTHEDgAMBp_8LlfA29EvWq-_fEULredBnW3xv8hBLy7ObbZH5bOUyWa6OfwOjjKHN0.mgIeNh_1scRBIWWVBDBBZ1-dTIwCv3_aKZCJBiVJIgU&dib_tag=se&keywords=Eurostar%2BRc603%2B3-Cup%2BRice%2BCooker%2C%2BWhite&qid=1781086610&s=home-garden&sprefix=eurostar%2Brc603%2B3-cup%2Brice%2Bcooker%2C%2Bwhite%2Cgarden%2C666&sr=1-3&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=e1b8c5e2f1537643480a2f2968b0155c&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 71,
+  "name": "Casafield Half Moon Laundry Hamper with Lid and Removable Liner Bag - Espresso Dark Brown",
+  "price": 70,
+  "rating": 4.6,
+  "reviews": 263,
+  "description": "Casafield Half Moon Laundry Hamper with Lid and Removable Liner Bag is a stylish and functional laundry storage solution designed to keep clothes, towels, and household linens neatly organized. Handwoven from sustainable water hyacinth, this large hamper features a unique half-moon shape that fits efficiently against walls while adding a natural farmhouse-inspired accent to any room. The attached hinged lid conceals laundry for a clean, clutter-free appearance, while the removable cloth liner bag makes transporting laundry easy and convenient. Built-in woven carry handles enhance portability, making it simple to move laundry from room to room. Combining decorative appeal with practical storage, this eco-friendly hamper is ideal for bedrooms, bathrooms, laundry rooms, and closets.",
+  "features": [
+    "Half-moon shaped space-saving design",
+    "Handwoven sustainable water hyacinth construction",
+    "Attached hinged lid for concealed storage",
+    "Removable cloth liner bag included",
+    "Hook-and-loop liner attachment system",
+    "Large capacity laundry storage",
+    "Stores clothes, towels, and linens",
+    "Decorative farmhouse-style appearance",
+    "Eco-friendly natural materials",
+    "Woven handcrafted design",
+    "Comfortable built-in carry handles",
+    "Portable and lightweight structure",
+    "Keeps laundry neatly organized",
+    "Reduces visible household clutter",
+    "Suitable for bedrooms and bathrooms",
+    "Espresso dark brown finish"
+  ],
+  "materials": [
+    "Natural Water Hyacinth",
+    "Removable Cloth Liner Bag",
+    "Hook-and-Loop Fasteners",
+    "Handwoven Carry Handles",
+    "Hinged Lid Structure",
+    "Internal Support Frame"
+  ],
+  image: "https://github.com/Aadhi6374/image/blob/main/laundry.png?raw=true",
+ amazon: "https://www.amazon.com/Casafield-Laundry-Hamper-Removable-Liner/dp/B0CQKFWLJF?crid=8473LQRUZ8KJ&dib=eyJ2IjoiMSJ9.g_wG1MHjNyF47KpmxcuT2XaIjNDeuky8nr9RBcMRx3HpylgC5gGd9Q_dylF6WNb4ZuWV7BD11TCFi58YKGqT658nOZIm3DgGjM-rwo7j4x7fu8kfo7S6bH3j4j8BtLhNtyRl9Vu98OY6E_RdzxYJzx9hUmW-K60B4kz4sVo7Lu8xFvzsJFB3ktRqpRTe6vjCzSW0_0q9NZgVsYcG9OH3WP97ibMzZHaT3EDncJTNylDVagHF3OXL1M58HqDrS7q83o2J3b733eN9AGew6U4lhdKNU6j0axJNSRXZTy2XUvg.5N7iH6dADnBVeQ67jpnlFYqBFu_5jEEzTAjcAYN7-0k&dib_tag=se&keywords=Casafield%2BHalf%2BMoon%2BLaundry%2BHamper%2Bwith%2BLid%2Band%2BRemovable%2BLiner%2BBag%2B-%2BEspresso%2BDark%2BBrown%2C%2BWoven%2BWater%2BHyacinth%2BLaundry%2BBasket%2Bfor%2BClothes%2Band%2BTowels&nsdOptOutParam=true&qid=1781100733&s=home-garden&sprefix=casafield%2Bhalf%2Bmoon%2Blaundry%2Bhamper%2Bwith%2Blid%2Band%2Bremovable%2Bliner%2Bbag%2B-%2Bespresso%2Bdark%2Bbrown%2C%2Bwoven%2Bwater%2Bhyacinth%2Blaundry%2Bbasket%2Bfor%2Bclothes%2Band%2Btowels%2Cgarden%2C372&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=7d4f09cf7c604887aa62cdfc470a39b4&language=en_US&ref_=as_li_ss_tl"
 }
 
 
