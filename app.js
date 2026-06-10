@@ -2109,7 +2109,58 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
   image: "https://github.com/Aadhi6374/image/blob/main/body%20washhhhh1.png?raw=true",
  amazon: "https://www.amazon.com/Salt-Stone-Antioxidants-Moisture-Hydrated/dp/B0C23Q2H61?crid=3F51UFWN63RSW&dib=eyJ2IjoiMSJ9.fflePuXVpW24mpG1U57nA5XekQHA_XNueze9hOy25JnUinKAsVA1ZrxQpwmlGVykBVB7p9c10dE8MMpROsMv7pXIcFHzSmwIeKDPcpiXRMsdt789YcqaqqyFipb2v7amsLFGgZ4cNgzqn2EuCwxFWub-7BGhzKIMW9KHLXMLc-FYSRdPmNRAa830emD0v2CusacZNWz4Y3YR12jcffk8lnPOIw9LfMHhH_TckzTm32M4HYKNzTt1Idsf1SG1eLlqpIKdUaza0wv3Yy6oHWmVl7WEaFLgwCP5h8EblHpOeFw.OJkQWG8SwAyyu6fWCwACgJJi-KetMvpYQchRxEU3lrI&dib_tag=se&keywords=Salt%2B%26%2BStone%2BSantal%2B%26%2BVetiver%2BRefillable%2BBody%2BWash%2Bwith%2BNiacinamide%2B%2B%2BProbiotic%2B15.2%2Boz%2F450%2Bml%2B15.2%2Boz%2F450%2Bml%2B%2436.00&nsdOptOutParam=true&qid=1780989118&sprefix=salt%2B%26%2Bstone%2Bsantal%2B%26%2Bvetiver%2Brefillable%2Bbody%2Bwash%2Bwith%2Bniacinamide%2B%2B%2Bprobiotic%2B15.2%2Boz%2F450%2Bml%2B15.2%2Boz%2F450%2Bml%2B%2436.00%2Caps%2C562&sr=8-5&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=9702f36aae8cbb538f4cc7bb2ea6b746&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 70,
+  "name": "Zojirushi 3 Cup Rice Cooker/Steamer (White)",
+  "price": 59,
+  "rating": 4.5,
+  "reviews": 12178,
+  "description": "Zojirushi 3 Cup Rice Cooker/Steamer is a compact and easy-to-use electric rice cooker designed for preparing perfectly cooked rice with minimal effort. Featuring a simple single-switch control system, this cooker is ideal for small households, students, apartments, and everyday meal preparation. The durable nonstick inner cooking pan ensures easy food release and convenient cleaning, while the see-through glass lid allows users to monitor cooking progress without lifting the cover. Stay-cool side handles and lid knob provide safe handling and portability. The cooker can prepare up to 3 cups of uncooked rice, producing fluffy and evenly cooked rice every time. Its lightweight design, reliable performance, and included measuring cup make it a practical kitchen appliance for cooking rice, steaming vegetables, and preparing simple meals.",
+  "features": [
+    "3-cup uncooked rice capacity",
+    "Compact countertop design",
+    "Easy-to-use controls",
+    "Rice cooker and steamer function",
+    "See-through glass lid",
+    "Stay-cool lid knob",
+    "Stay-cool carrying handles",
+    "Durable nonstick inner cooking pan",
+    "Easy food release",
+    "Simple cleaning process",
+    "Even rice cooking performance",
+    "Ideal for small households",
+    "Suitable for apartments and dorms",
+    "Lightweight and portable",
+    "Corded electric power source",
+    "Consistent cooking results",
+    "Convenient everyday meal preparation",
+    "Includes plastic measuring cup",
+    "Suitable for white rice cooking",
+    "Energy-efficient cooking appliance",
+    "Space-saving kitchen appliance",
+    "Reliable Zojirushi quality",
+    "Hand-washable cooking pan",
+    "Easy maintenance design",
+    "Safe transport handles",
+    "Glass lid for cooking visibility",
+    "Beginner-friendly rice cooker",
+    "White finish design"
+  ],
+  "ingredients": [
+    "Nonstick Inner Cooking Pan",
+    "Tempered Glass Lid",
+    "Heat-Resistant Plastic Handles",
+    "Stay-Cool Lid Knob",
+    "Electrical Heating Element",
+    "Metal Cooker Body",
+    "Plastic Measuring Cup",
+    "Corded Electric Power System"
+  ],
+  image: "https://github.com/Aadhi6374/image/blob/main/kitchen%20product.png?raw=true",
+ amazon: "https://www.amazon.com/Zojirushi-NHS-06-3-Cup-Uncooked-Cooker/dp/B00004S575?crid=11QKR3R04NVCL&dib=eyJ2IjoiMSJ9.iWfnh_c3GcLNhUjzssZc5DEHo0r_Lq-YcHWYwb9TeMcH1SEosMmwSXHtJLeEOpr5CrpSmnb7QlUrb23M_K30fG8h7nMGgo-mr73r5GDlqiXFsbUNflloKcOwa8tVVCzinfRuai9-V_nU6XHF-NM2D_oytpMhT_LH3n3I09-UxfidSl1m3ECapRIEwmupqyqWgTyw7XB46cy7Hkd7ODdfyixVORJsrurcXtUfGkzXINTHEDgAMBp_8LlfA29EvWq-_fEULredBnW3xv8hBLy7ObbZH5bOUyWa6OfwOjjKHN0.mgIeNh_1scRBIWWVBDBBZ1-dTIwCv3_aKZCJBiVJIgU&dib_tag=se&keywords=Eurostar%2BRc603%2B3-Cup%2BRice%2BCooker%2C%2BWhite&qid=1781086610&s=home-garden&sprefix=eurostar%2Brc603%2B3-cup%2Brice%2Bcooker%2C%2Bwhite%2Cgarden%2C666&sr=1-3&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=e1b8c5e2f1537643480a2f2968b0155c&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
