@@ -2292,9 +2292,9 @@ let html = ""
 
 if(selectedIds){
 
-const selectedProducts = products.filter(p =>
-selectedIds.includes(p.id)
-)
+const selectedProducts = selectedIds
+    .map(id => products.find(p => p.id === id))
+    .filter(Boolean);
 
 if(selectedProducts.length === 0){
 grid.innerHTML = "<h2>Products not found</h2>"
