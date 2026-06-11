@@ -2195,6 +2195,46 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
   image: "https://github.com/Aadhi6374/image/blob/main/laundry.png?raw=true",
  amazon: "https://www.amazon.com/Casafield-Laundry-Hamper-Removable-Liner/dp/B0CQKFWLJF?crid=8473LQRUZ8KJ&dib=eyJ2IjoiMSJ9.g_wG1MHjNyF47KpmxcuT2XaIjNDeuky8nr9RBcMRx3HpylgC5gGd9Q_dylF6WNb4ZuWV7BD11TCFi58YKGqT658nOZIm3DgGjM-rwo7j4x7fu8kfo7S6bH3j4j8BtLhNtyRl9Vu98OY6E_RdzxYJzx9hUmW-K60B4kz4sVo7Lu8xFvzsJFB3ktRqpRTe6vjCzSW0_0q9NZgVsYcG9OH3WP97ibMzZHaT3EDncJTNylDVagHF3OXL1M58HqDrS7q83o2J3b733eN9AGew6U4lhdKNU6j0axJNSRXZTy2XUvg.5N7iH6dADnBVeQ67jpnlFYqBFu_5jEEzTAjcAYN7-0k&dib_tag=se&keywords=Casafield%2BHalf%2BMoon%2BLaundry%2BHamper%2Bwith%2BLid%2Band%2BRemovable%2BLiner%2BBag%2B-%2BEspresso%2BDark%2BBrown%2C%2BWoven%2BWater%2BHyacinth%2BLaundry%2BBasket%2Bfor%2BClothes%2Band%2BTowels&nsdOptOutParam=true&qid=1781100733&s=home-garden&sprefix=casafield%2Bhalf%2Bmoon%2Blaundry%2Bhamper%2Bwith%2Blid%2Band%2Bremovable%2Bliner%2Bbag%2B-%2Bespresso%2Bdark%2Bbrown%2C%2Bwoven%2Bwater%2Bhyacinth%2Blaundry%2Bbasket%2Bfor%2Bclothes%2Band%2Btowels%2Cgarden%2C372&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=7d4f09cf7c604887aa62cdfc470a39b4&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 72,
+  "name": "Elite Gourmet EWMST-325R Triple Slow Cooker Buffet Server, 3 x 2.5 Qt Capacity, Red",
+  "price": 65,
+  "rating": 4.7,
+  "reviews": 2851,
+  "description": "Elite Gourmet EWMST-325R Triple Slow Cooker Buffet Server is a versatile kitchen appliance designed for preparing, warming, and serving multiple dishes simultaneously. Featuring three removable 2.5-quart oval stoneware pots, this buffet-style slow cooker allows users to cook different recipes at separate temperatures using individual controls. Ideal for family gatherings, parties, holiday meals, potlucks, and entertaining, the unit includes low, high, and warm settings for each cooker, ensuring optimal cooking flexibility. Integrated lid rests provide a convenient place to hold lids while serving, reducing mess and saving counter space. The removable ceramic pots and tempered glass lids are dishwasher safe for easy cleanup. Finished in a vibrant red color, this multi-cooker combines functionality, convenience, and attractive presentation for everyday cooking and special occasions.",
+  "features": [
+    "Triple slow cooker buffet server design",
+    "Three separate 2.5-quart cooking pots",
+    "Total cooking capacity of 7.5 quarts",
+    "Independent temperature controls",
+    "Low, High, and Warm heat settings",
+    "Cook and serve three dishes simultaneously",
+    "Removable oval stoneware pots",
+    "Dishwasher-safe ceramic pots",
+    "Dishwasher-safe tempered glass lids",
+    "Built-in lid rests for convenience",
+    "Ideal for parties and family gatherings",
+    "Buffet-style serving functionality",
+    "Keeps food warm for extended periods",
+    "Suitable for appetizers, entrees, and side dishes",
+    "Easy-to-clean exterior housing",
+    "Compact countertop design",
+    "420-watt power output",
+    "Durable aluminum construction",
+    "Red finish for stylish presentation",
+    "Includes recipe ideas and cooking inspiration"
+  ],
+  "materials": [
+    "Aluminum Housing",
+    "Stoneware Ceramic Pots",
+    "Tempered Glass Lids",
+    "Plastic Control Knobs",
+    "Metal Lid Rests",
+    "Electrical Heating Elements"
+  ],
+  image: "https://github.com/Aadhi6374/image/blob/main/slow%20cookerrrrrrrr.png?raw=true",
+ amazon: "https://www.amazon.com/Elite-Platinum-Adjustable-Dishwasher-Safe-Capacity/dp/B07D7MF5HF?crid=1EUEER4HMACWF&dib=eyJ2IjoiMSJ9.oP-yHJRk-cyvca5AImprG8DaW7vGQSnvyeUc54oYWfegpMkT45T3NmdnTzFFj0fR2utdPDB0qnuyHbyRnwQYkQRSF1hQndNWj549Hx1RAsA-rjx2tfm0pnhvXjEokQM2l74kkMzYA1T2VWFBNz8-6A4_mwCoUPZEtgCwvtGWtp_wKNLDNNJUxNgLZLsz3gSS5EUIfPuUKqEI4SxAFUMDDQV_FEh7tJUp0RPom0wUO8xXd1ezlGBk55F4Rt4h_O0dL-B_BKqJc4a7ZeVoe5Zt6H1Pnzwq1ZiI5wmLP9KA7XE.MuOSXYzyvK-982zWdKTAkXXShQGmaV4dTdcUywqGQ5Y&dib_tag=se&keywords=Heynemo%2BTriple%2BSlow%2BCooker%2BBuffet%2BServers%2Band%2BWarmer%2Bwith%2BAdjustable%2BTemp%2C%2BStainless%2BSteel%2BLid%2BRests%2C%2BRemovable%2BCeramic%2BPot%2C%2B4.5%2BQT%2C%2BBlack&nsdOptOutParam=true&qid=1781169297&s=home-garden&sprefix=king%2Bkooker%2Btall%2Bcooker%2Bsingle%2Bburner%2Bhigh%2Bpressure%2Bpropane%2Bjambalaya%2Bkit%2B26.5%2Bh%2Bx%2B20.0%2Bw%2Bx%2B20.0%2Bd%2Bin%2Bblack%2Fgraysteel%2Cgarden%2C926&sr=1-5&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=8c038f9aa44c43cde0722f5db6d7d82d&language=en_US&ref_=as_li_ss_tl"
 }
 
 
