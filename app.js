@@ -2277,6 +2277,46 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
   image: "https://github.com/Aadhi6374/image/blob/main/laundry1.png?raw=true",
  amazon: "https://www.amazon.com/Tide-Laundry-Detergent-Liquid-Original/dp/B085V5PPP8?crid=17XD1HGKRHVDT&dib=eyJ2IjoiMSJ9.U1LofJwRWo_FmjAm2AWL3j7DDUJEMZRKEEZ88YbW4YHEe12lYiaemXAPpKGcxi_8EL8OYSis6e-tXeku54Si0bR2erEnhGOqlyV3yIwsGAGPWWpYbuDAwmHc7qwtzGQV22eUqdZiDMvwsx1SJX68wzB2vMP7WvavTpzDY3ogm3pVRMmknDq1a1x24LAGAC4V8XqbexYhFnJP15B_wX2Ez7j_BLyMyJIE-3I2STMi-PdjvL17gmKoXuT-J2nu2TYr7bfvvETvHnyzhNhQkLctHsUzoWQOAXh05lJcCy1jUFw.c1T8Z217yaVEFtmyNzCd5MPsCN4iZcxVZyanJRHm0sM&dib_tag=se&keywords=Laundry%2BDetergent%2B%7C%2BRosemary%2B%26%2BMint%2B-%2B5%2BGallon%2BEco%2BJug%2Bwith%2BPump&nsdOptOutParam=true&qid=1781244107&sprefix=laundry%2Bdetergent%2Brosemary%2B%26%2Bmint%2B-%2B5%2Bgallon%2Beco%2Bjug%2Bwith%2Bpump%2Caps%2C874&sr=8-23&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=b71b7fa1ccbb7a18a1a93f2ad5c99f93&language=en_US&ref_=as_li_ss_tl"
+} ,
+{
+  "id": 74,
+  "name": "Project Cloud 100% Genuine Leather Flat Sandals for Women 2026 Cork Footbed Memory Foam Arch Support Slides (Venita)",
+  "price": 35,
+  "rating": 4.4,
+  "reviews": 7638,
+  "description": "Project Cloud Venita Women's Flat Sandals are crafted from 100% genuine leather and designed to deliver premium comfort, durability, and everyday style. Featuring a plush memory foam insole and natural cork footbed, these sandals provide excellent cushioning, lightweight support, flexibility, and all-day arch support. The adjustable dual-buckle straps allow for a secure and customized fit, while the open-toe slide design keeps feet cool and comfortable during warm weather. Built with a durable EVA outsole for reliable traction and wear resistance, these sandals are ideal for casual outings, vacations, beach trips, walking, and daily wear. Their combination of comfort-focused construction and timeless style makes them a versatile addition to any summer wardrobe.",
+  "features": [
+    "100% genuine leather upper construction",
+    "Premium quality leather for durability",
+    "Memory foam cushioned insole",
+    "Natural cork footbed for comfort and support",
+    "Lightweight and flexible design",
+    "All-day arch support",
+    "Adjustable dual-buckle straps",
+    "Customizable and secure fit",
+    "Open-toe slide sandal design",
+    "Flat heel for everyday comfort",
+    "Durable EVA outsole",
+    "Excellent traction and grip",
+    "Wear-resistant outsole construction",
+    "Suitable for indoor and outdoor use",
+    "Slip-on convenience",
+    "Water-resistant design",
+    "Slip-resistant outsole",
+    "Ideal for walking and casual wear",
+    "Perfect for beach and vacation use",
+    "Stylish everyday summer footwear"
+  ],
+  "materials": [
+    "Genuine Leather Upper",
+    "Memory Foam Insole",
+    "Natural Cork Footbed",
+    "Ethylene Vinyl Acetate (EVA) Outsole",
+    "Adjustable Metal Buckles",
+    "Synthetic Support Materials"
+  ],
+  image: "https://github.com/Aadhi6374/image/blob/main/slipper11.png?raw=true",
+ amazon: "https://www.amazon.com/Project-Cloud-Comfortable-Essentials-Vacation/dp/B0FW857DCT?crid=QNIAP7D0AHDA&dib=eyJ2IjoiMSJ9.CPqwfMbKBk6Y_y1wQWxMZXvp-5DoyuPJznb2--knJ3i3q57KX72uPHY7KSM5M6x9tyPQr0KG9I4T_kk5RwcOlGdxSY-XGSngCFWBD6gxH-fiQRlAFxJWcSBv0xITMcDu-n5bhPNSbtORgrfMSBhRnX2FXozgw47vtt63V73FPJ-K03tMmvz9ThjvbDMbQWPRQlSuWBF3GODInTX3eIR6DGLv8p4fDnz5gJLusO3jZOH8-xIP7XdEBzYgYjEpYh41h6t7Ai5e9huYKhaGvll2VydYNB-VV9-kHLJhS_ie1Tk.MRqYuexhJ-w7wcH5pNdm_UJxQTtvOwO3zPcn8VRvJpY&dib_tag=se&keywords=top%2Bproducts%2Bon%2Bamazon%2B2026&qid=1781271093&sprefix=top%2Bproduct%2Caps%2C468&sr=8-11&th=1&psc=1&linkCode=ll2&tag=aadhithyan637-20&linkId=29129fbbbc98bc3c90cc4f41035a57a2&language=en_US&ref_=as_li_ss_tl"
 }
 
 
