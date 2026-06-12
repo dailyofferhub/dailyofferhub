@@ -2235,6 +2235,48 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
   image: "https://github.com/Aadhi6374/image/blob/main/slow%20cookerrrrrrrr.png?raw=true",
  amazon: "https://www.amazon.com/Elite-Platinum-Adjustable-Dishwasher-Safe-Capacity/dp/B07D7MF5HF?crid=1EUEER4HMACWF&dib=eyJ2IjoiMSJ9.oP-yHJRk-cyvca5AImprG8DaW7vGQSnvyeUc54oYWfegpMkT45T3NmdnTzFFj0fR2utdPDB0qnuyHbyRnwQYkQRSF1hQndNWj549Hx1RAsA-rjx2tfm0pnhvXjEokQM2l74kkMzYA1T2VWFBNz8-6A4_mwCoUPZEtgCwvtGWtp_wKNLDNNJUxNgLZLsz3gSS5EUIfPuUKqEI4SxAFUMDDQV_FEh7tJUp0RPom0wUO8xXd1ezlGBk55F4Rt4h_O0dL-B_BKqJc4a7ZeVoe5Zt6H1Pnzwq1ZiI5wmLP9KA7XE.MuOSXYzyvK-982zWdKTAkXXShQGmaV4dTdcUywqGQ5Y&dib_tag=se&keywords=Heynemo%2BTriple%2BSlow%2BCooker%2BBuffet%2BServers%2Band%2BWarmer%2Bwith%2BAdjustable%2BTemp%2C%2BStainless%2BSteel%2BLid%2BRests%2C%2BRemovable%2BCeramic%2BPot%2C%2B4.5%2BQT%2C%2BBlack&nsdOptOutParam=true&qid=1781169297&s=home-garden&sprefix=king%2Bkooker%2Btall%2Bcooker%2Bsingle%2Bburner%2Bhigh%2Bpressure%2Bpropane%2Bjambalaya%2Bkit%2B26.5%2Bh%2Bx%2B20.0%2Bw%2Bx%2B20.0%2Bd%2Bin%2Bblack%2Fgraysteel%2Cgarden%2C926&sr=1-5&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=8c038f9aa44c43cde0722f5db6d7d82d&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 72,
+  "name": "Tide Laundry Detergent Liquid, Original Scent, 64 Loads, 80 FL OZ",
+  "price": 19,
+  "rating": 4.8,
+  "reviews": 69880,
+  "description": "Tide Laundry Detergent Liquid, Original Scent is a powerful concentrated laundry detergent formulated to remove tough stains, grease, and everyday dirt while providing long-lasting freshness. Designed to work on 100% of common stains, this liquid detergent features a 6X boosted cleaning formula with enhanced stain-fighting performance compared to Tide Simply. Suitable for a variety of washing machines, water temperatures, and wash cycles, including cold water washes, it helps keep clothes looking clean and smelling fresh throughout the day. The 80-fluid-ounce bottle delivers up to 64 loads, making it a reliable choice for households seeking effective stain removal and consistent laundry care.",
+  "features": [
+    "6X boosted cleaning performance",
+    "Works on 100% of common stains",
+    "10X more grease-fighting ingredients versus leading bargain detergent",
+    "Concentrated liquid detergent formula",
+    "Provides enhanced stain removal power",
+    "Original Tide scent",
+    "Long-lasting freshness throughout the day",
+    "Suitable for everyday laundry use",
+    "Compatible with standard washing machines",
+    "Effective in cold water washes",
+    "Suitable for multiple water temperatures",
+    "Designed for a variety of wash cycles",
+    "Removes dirt, stains, and grease effectively",
+    "High-efficiency cleaning formula",
+    "Easy-pour liquid detergent bottle",
+    "Phosphate-free formula",
+    "80 fluid ounce bottle",
+    "Provides up to 64 loads",
+    "Trusted Tide cleaning performance",
+    "Ideal for family laundry needs"
+  ],
+  "ingredients": [
+    "Water",
+    "Surfactants",
+    "Cleaning Agents",
+    "Fragrance",
+    "Enzymes",
+    "Stain-Fighting Additives",
+    "Preservatives",
+    "Liquid Detergent Base"
+  ],
+  image: "https://github.com/Aadhi6374/image/blob/main/laundry1.png?raw=true",
+ amazon: "https://www.amazon.com/Tide-Laundry-Detergent-Liquid-Original/dp/B085V5PPP8?crid=17XD1HGKRHVDT&dib=eyJ2IjoiMSJ9.U1LofJwRWo_FmjAm2AWL3j7DDUJEMZRKEEZ88YbW4YHEe12lYiaemXAPpKGcxi_8EL8OYSis6e-tXeku54Si0bR2erEnhGOqlyV3yIwsGAGPWWpYbuDAwmHc7qwtzGQV22eUqdZiDMvwsx1SJX68wzB2vMP7WvavTpzDY3ogm3pVRMmknDq1a1x24LAGAC4V8XqbexYhFnJP15B_wX2Ez7j_BLyMyJIE-3I2STMi-PdjvL17gmKoXuT-J2nu2TYr7bfvvETvHnyzhNhQkLctHsUzoWQOAXh05lJcCy1jUFw.c1T8Z217yaVEFtmyNzCd5MPsCN4iZcxVZyanJRHm0sM&dib_tag=se&keywords=Laundry%2BDetergent%2B%7C%2BRosemary%2B%26%2BMint%2B-%2B5%2BGallon%2BEco%2BJug%2Bwith%2BPump&nsdOptOutParam=true&qid=1781244107&sprefix=laundry%2Bdetergent%2Brosemary%2B%26%2Bmint%2B-%2B5%2Bgallon%2Beco%2Bjug%2Bwith%2Bpump%2Caps%2C874&sr=8-23&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=30988ea6d3c488778797191e18fcb25b&language=en_US&ref_=as_li_ss_tl"
 }
 
 
