@@ -2237,7 +2237,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
  amazon: "https://www.amazon.com/Elite-Platinum-Adjustable-Dishwasher-Safe-Capacity/dp/B07D7MF5HF?crid=1EUEER4HMACWF&dib=eyJ2IjoiMSJ9.oP-yHJRk-cyvca5AImprG8DaW7vGQSnvyeUc54oYWfegpMkT45T3NmdnTzFFj0fR2utdPDB0qnuyHbyRnwQYkQRSF1hQndNWj549Hx1RAsA-rjx2tfm0pnhvXjEokQM2l74kkMzYA1T2VWFBNz8-6A4_mwCoUPZEtgCwvtGWtp_wKNLDNNJUxNgLZLsz3gSS5EUIfPuUKqEI4SxAFUMDDQV_FEh7tJUp0RPom0wUO8xXd1ezlGBk55F4Rt4h_O0dL-B_BKqJc4a7ZeVoe5Zt6H1Pnzwq1ZiI5wmLP9KA7XE.MuOSXYzyvK-982zWdKTAkXXShQGmaV4dTdcUywqGQ5Y&dib_tag=se&keywords=Heynemo%2BTriple%2BSlow%2BCooker%2BBuffet%2BServers%2Band%2BWarmer%2Bwith%2BAdjustable%2BTemp%2C%2BStainless%2BSteel%2BLid%2BRests%2C%2BRemovable%2BCeramic%2BPot%2C%2B4.5%2BQT%2C%2BBlack&nsdOptOutParam=true&qid=1781169297&s=home-garden&sprefix=king%2Bkooker%2Btall%2Bcooker%2Bsingle%2Bburner%2Bhigh%2Bpressure%2Bpropane%2Bjambalaya%2Bkit%2B26.5%2Bh%2Bx%2B20.0%2Bw%2Bx%2B20.0%2Bd%2Bin%2Bblack%2Fgraysteel%2Cgarden%2C926&sr=1-5&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=8c038f9aa44c43cde0722f5db6d7d82d&language=en_US&ref_=as_li_ss_tl"
 },
 {
-  "id": 72,
+  "id": 73,
   "name": "Tide Laundry Detergent Liquid, Original Scent, 64 Loads, 80 FL OZ",
   "price": 19,
   "rating": 4.8,
