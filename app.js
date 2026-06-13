@@ -2317,6 +2317,46 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
   image: "https://github.com/Aadhi6374/image/blob/main/slipper11.png?raw=true",
  amazon: "https://www.amazon.com/Project-Cloud-Comfortable-Essentials-Vacation/dp/B0FW857DCT?crid=QNIAP7D0AHDA&dib=eyJ2IjoiMSJ9.CPqwfMbKBk6Y_y1wQWxMZXvp-5DoyuPJznb2--knJ3i3q57KX72uPHY7KSM5M6x9tyPQr0KG9I4T_kk5RwcOlGdxSY-XGSngCFWBD6gxH-fiQRlAFxJWcSBv0xITMcDu-n5bhPNSbtORgrfMSBhRnX2FXozgw47vtt63V73FPJ-K03tMmvz9ThjvbDMbQWPRQlSuWBF3GODInTX3eIR6DGLv8p4fDnz5gJLusO3jZOH8-xIP7XdEBzYgYjEpYh41h6t7Ai5e9huYKhaGvll2VydYNB-VV9-kHLJhS_ie1Tk.MRqYuexhJ-w7wcH5pNdm_UJxQTtvOwO3zPcn8VRvJpY&dib_tag=se&keywords=top%2Bproducts%2Bon%2Bamazon%2B2026&qid=1781271093&sprefix=top%2Bproduct%2Caps%2C468&sr=8-11&th=1&psc=1&linkCode=ll2&tag=aadhithyan637-20&linkId=29129fbbbc98bc3c90cc4f41035a57a2&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 75,
+  "name": "SINGAYE 6 Shelves Bathroom Organizer and Storage Shelf Wire Closet Metal Pantry Kitchen Small Garage Shelving Unit Black 10\" D x 16\" W x 60\" H",
+  "price": 35,
+  "rating": 4.4,
+  "reviews": 19103,
+  "description": "SINGAYE 6-Tier Wire Shelving Unit is a versatile freestanding storage rack designed to maximize organization in narrow spaces and room corners. Constructed with durable stainless steel wire mesh and a rust-resistant coating, this shelving unit provides reliable storage for bathrooms, kitchens, laundry rooms, garages, offices, and pantries. The tightly woven wire shelves help prevent small items from falling through, while the adjustable shelf heights allow users to customize storage according to their needs. Featuring a tool-free assembly design and ground-leveling feet for improved stability, this lightweight yet sturdy organizer supports up to 720 lbs of total weight capacity. Its compact footprint and durable construction make it an ideal storage solution for home and utility spaces.",
+  "features": [
+    "6-tier wire shelving storage rack",
+    "720 lbs total weight capacity",
+    "Freestanding storage design",
+    "Tool-free assembly",
+    "Adjustable shelf heights",
+    "Stainless steel wire mesh shelves",
+    "Tightly woven shelf construction",
+    "Prevents small items from falling through",
+    "Rust-resistant protective coating",
+    "Corrosion-resistant finish",
+    "Ground-leveling feet for stability",
+    "Compact narrow-space design",
+    "Ideal for room corners",
+    "Suitable for bathroom storage",
+    "Perfect for kitchen organization",
+    "Laundry room storage solution",
+    "Garage storage organizer",
+    "Pantry shelving unit",
+    "Office storage rack",
+    "Easy DIY installation"
+  ],
+  "materials": [
+    "Stainless Steel Wire Mesh",
+    "Carbon Steel Frame",
+    "Rust-Resistant Coating",
+    "Metal Support Poles",
+    "Adjustable Plastic Connectors",
+    "Leveling Feet Components"
+  ],
+  image: "https://github.com/Aadhi6374/image/blob/main/new%20table.png?raw=true",
+ amazon: "https://www.amazon.com/SINGAYE-Bathroom-Organizers-Shelving-Organization/dp/B0DP74GCC8?dib=eyJ2IjoiMSJ9.LFMHZA06RXPZeu5OE178jctXxx_5-aq1C5hIXT_kHYQQE_XAaha0IqvfxJfYg1tbhDaLGbf_Nmotx7uGp0-gzmDzRYQN7Ver7I-oSRRrlHilyk0IASvl2itkpJZKuGtAu-RpSSIwJskaY9VvoajLIhZ-yVVp1qtl5O1IVpoWlOwpYCXpqpy3GnSoivIToe2roY6mdgpGVkr1GDKB7iy0yqLZTk2FRbOU5kpX-ttMAPpmHQHMrnisPk36eZa0tagviMte62U9XAe1YbEeaPWWOQM0G9wsVzN6ba4DJG8FWvQ.c9oKT7flN_FaQUMxROgk8su5eDweTXshtthd_DWqgnU&dib_tag=se&keywords=2-Tier%2BBathroom%2BShelf%2C%2BTowel%2BStorage%2Bfor%2BBathroom%2B-%2BBlack%2B%2F%2B20%2Bx%2B10%2Bx%2B6%2B%23%2B50%2Bx%2B25%2Bx%2B15&nsdOptOutParam=true&qid=1781327720&sr=8-11&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=cb83bf1f94d41190256656badaed9ba4&language=en_US&ref_=as_li_ss_tl"
 }
 
 
