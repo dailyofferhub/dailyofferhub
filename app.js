@@ -2397,7 +2397,47 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/new%20home%20decor.png?raw=true",
  amazon: "https://www.amazon.com/Pressed-Handmade-Suncatcher-Hanging-Ornament/dp/B0H2HKR26Y?crid=3BS416UDU5NIU&dib=eyJ2IjoiMSJ9.BYtJFT87ML5bZda66Wrtfyglojew1Tat3jwZaYm9A7Nygj3sevRlfOibrZc5-weMjmuZqgD-dAD77SpU0BdMLzwAA9kjfYXXq34LZeu1imT4JlcpqLMSPt-MNnIY1aK_wxUphv-8QT060R0aNj9iakdxWc5N5kWrN_dOPYnwsTTeZp7wOSmiVcYIYhI7PRI2-dg29CYzxZK96mC7yWb19WGkQGCZtKep-0WZCBR1eimpzavRJR4o8t9Y1aS-l-hmEY1mVVLba3zBD7tPSxgjPsmmiUgKmkBzT81eMkITePc.0mrmD1UUO7DoRzC8fLjWD3pOlb1XPVxsCMmYk4Je1zo&dib_tag=se&keywords=Pressed+Flower+Resin+Hanging+Mobile+%2F+Floral+Suncatcher&nsdOptOutParam=true&qid=1781364758&sprefix=illumea+floral+feast+diamond+handmade+suncatchers+hanging+pendant%2Caps%2C1569&sr=8-2&linkCode=ll2&tag=aadhithyan637-20&linkId=136fd3faee1d56ce5582c523424a4a72&language=en_US&ref_=as_li_ss_tl"
+},
+ {
+  "id": 77,
+  "name": "ROYAL CRAFT WOOD Premium Foldable Bathtub Tray Caddy",
+  "price": 40,
+  "rating": 4.6,
+  "reviews": 24979,
+  "description": "ROYAL CRAFT WOOD Premium Foldable Bathtub Tray Caddy is a luxury bamboo bath tray designed to transform ordinary baths into a relaxing spa-like experience. Crafted from high-quality natural bamboo with a protective waterproof lacquer coating, this expandable bathtub caddy adjusts from 29.5 to 43 inches to fit most standard and oversized tubs. The tray features dedicated compartments for bath essentials, including a wine glass holder, phone and tablet stand, book holder, candle holder, and removable accessory trays for snacks, towels, and personal care items. Slip-resistant silicone grips keep the caddy securely positioned while in use. Its foldable design allows for convenient storage when not needed, making it an ideal bathroom accessory for self-care, relaxation, date nights, and thoughtful gift-giving occasions.",
+  "features": [
+    "Expandable bathtub tray design",
+    "Adjusts from 29.5 to 43 inches",
+    "Fits most standard bathtubs",
+    "Premium natural bamboo construction",
+    "Waterproof protective lacquer coating",
+    "Luxury spa experience at home",
+    "Built-in wine glass holder",
+    "Phone and tablet stand",
+    "Book holder slot",
+    "Dedicated candle holder",
+    "Two removable accessory trays",
+    "Slip-resistant silicone grips",
+    "Foldable space-saving design",
+    "Easy to store after use",
+    "Durable handcrafted construction",
+    "Suitable for solo relaxation",
+    "Perfect for romantic bath setups",
+    "Holds bath essentials securely",
+    "Includes bonus bamboo soap dish",
+    "Ideal gift for mothers and homeowners"
+  ],
+  "materials": [
+    "Natural Bamboo Wood",
+    "Protective Lacquer Coating",
+    "Silicone Grips",
+    "Metal Hardware",
+    "Bamboo Soap Dish"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/bath%20tubbb.png?raw=true",
+ amazon: "https://www.amazon.com/ROYAL-CRAFT-WOOD-Accessories-Housewarming/dp/B01C4IS4Q2?crid=ECMITVG7Y7MW&dib=eyJ2IjoiMSJ9._Cu2bb-G0dRvagwMRgt4yAEok-blFUYy-KZKHLSOgZIJXACj_2-y46ceYRH2_PMvCsEntEksyOP-Ze0ItAxz_6e1gmvjeecO_MLn6nMlT5udNBWlUS2iAFKtDoFjCVQoHz6pKi4GmxMRap9sdcrFQ4xNSe8-WFCBEpSHU_nV1pgyY3Ey4X4u6uNtBDbqrfdEuJlScscBh0DfsBsGIPJSviOu1cXNmRAGUQF2RlcSIzs8OG4PySjarg_PrTNYVK_nXduoGFe40MtvltHc76p8Ven8cSUUnlPltWwT_yAtFNY.I6YcrPKMiGMtLc7DWW3-MiKxv9rRhKy8AspTZwmhewQ&dib_tag=se&keywords=Royal%2BCraft%2BWood%2BLuxury%2BBamboo%2BBathtub%2BCaddy%2BTray&nsdOptOutParam=true&qid=1781438735&sprefix=royal%2Bcraft%2Bwood%2Bluxury%2Bbamboo%2Bbathtub%2Bcaddy%2Btray%2Caps%2C717&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=c77ad811cb0b87af96ccbd1c8dd68446&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
