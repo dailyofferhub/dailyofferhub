@@ -2474,6 +2474,44 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/newwwww%20sink%20space.png?raw=true",
  amazon: "https://www.amazon.com/Ukeetap-Multi-Purpose-Pull-Out-Organizers-Bathroom/dp/B0DNTM2MK3?crid=2GT8BGN2XDJMT&dib=eyJ2IjoiMSJ9.SOSMkC0i8NJWY9mI6D7IXbH1-PzRrWATNByDMWgjlKI0gwjJbAJmO9Gw4qVBC2XgSV_YslgQQ9WViSdDyI6cKLHK-eMzCquV4XNHeWsmKfPs_C7mLp8oygFfHeghWaHMEST9EnbSlfnwoMMcYx3XMDszTU2JIMKKPM2tpm-8Ucwq5QkX3iPqeidAyWHg4jiH-X8hlIr2hPGXegnSb990O6IL4Q-EoLY0bXXtW0UhPvE_1muwSlEXbudK7p22QpuGn8S4GEDnhgkfPYfZHrcp9_G4LvbutZXiEAFcF1Yq86E._54vpN8k8wIKSZ_WoF2iBBmsQM98ZPyjg_NFkLd9_gc&dib_tag=se&keywords=Under%2BSink%2BOrganizer&qid=1781455103&sprefix=under%2Bsink%2Borganizer%2Caps%2C613&sr=8-9&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=9243f9fc5cf1247e4436a2a1cb46382b&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 78,
+  "name": "COPREE Bamboo 3-Tier Hanging Plant Stand Planter Shelves Flower Pot Organizer Rack",
+  "price": 40,
+  "rating": 4.4,
+  "reviews": 5859,
+  "description": "The COPREE Bamboo 3-Tier Hanging Plant Stand is a stylish and functional plant display shelf designed to showcase indoor and outdoor plants while maximizing vertical space. Crafted from premium Phyllostachys pubescens bamboo, this eco-friendly plant stand offers excellent durability, decay resistance, and long-lasting performance. The elegant hanging rod design provides additional space for hanging planters, while the three-tier shelving structure accommodates flower pots, succulents, herbs, and decorative plants. Featuring adjustable shelf spacing with multiple position holes, users can customize the display layout according to plant sizes. The foldable construction allows convenient storage and portability, making it ideal for patios, balconies, front porches, gardens, living rooms, and indoor décor. Reinforced with thickened feet, steel screws, rounded corners, and a back crossbar design, this plant stand ensures stability, safety, proper ventilation, and efficient water drainage for healthy plant growth.",
+  "features": [
+    "3-tier bamboo plant stand design",
+    "Integrated hanging rod for planters",
+    "Elegant decorative plant display",
+    "Premium Phyllostachys pubescens bamboo",
+    "Eco-friendly natural bamboo construction",
+    "High hardness and durability",
+    "Excellent decay resistance",
+    "Suitable for indoor and outdoor use",
+    "Adjustable shelf height positions",
+    "Four sets of adjustment holes",
+    "9.45-inch adjustable spacing range",
+    "Foldable space-saving design",
+    "Convenient storage and portability",
+    "Strong weight-bearing capacity",
+    "Thickened feet for added stability",
+    "Reinforced steel screw construction",
+    "Back crossbar support system",
+    "Rounded corner safety design",
+    "Promotes proper ventilation",
+    "Allows efficient water drainage"
+  ],
+  "materials": [
+    "Natural Bamboo",
+    "Phyllostachys Pubescens Bamboo",
+    "Steel Screws",
+    "Metal Hardware Components"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/plant%20decoring.png?raw=true",
+ amazon: "https://www.amazon.com/Hanging-Planter-Shelves-Organizer-Shelving/dp/B08XLN49WQ?crid=1RJX4GFMANEQU&dib=eyJ2IjoiMSJ9.mPvAJQv00NyonGU8tBT8n8L1ZSkuzJmPnv4kXlAgfCMAB3Lp8DPB2KI1j1d2vn7Ww5HA4Xiyo5xGhu3EHT2TLYc6HEGm4RP8CgI4PmYvyryY16ByqZGXYqNIGJ0ckPxFVNszABoboLCYgEixyoaX7_ZvAhUmIl-gI7NsPUpvDnnC5StI6Xl5qlSnMd9hYa_qQtA5FOcAbg22wvYH33jwuizOjS-TIOqHuBrQTMl9x-rZqiD_l-ukWT1SE0HYCyuQx7NGu53x7kTCrf3sFQv8MBPShve4sKx1xyDio2nfQgQ.ljnLT-frHY7tyvuqnBd3YKPULthDsz5KHz7SiakQ910&dib_tag=se&keywords=Homero%2B3%2BTier%2BBamboo%2BFolding%2BPlant%2BStand%2Bhigh%2Brating&nsdOptOutParam=true&qid=1781523230&sprefix=homero%2B3%2Btier%2Bbamboo%2Bfolding%2Bplant%2Bstand%2Bhigh%2Brating%2Caps%2C829&sr=8-18&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=7fa7720e840ea7556fe6ed6b0fb057a8&language=en_US&ref_=as_li_ss_tl"
 }
 
 
