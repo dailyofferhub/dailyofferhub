@@ -2512,7 +2512,49 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/plant%20decoring.png?raw=true",
  amazon: "https://www.amazon.com/Hanging-Planter-Shelves-Organizer-Shelving/dp/B08XLN49WQ?crid=1RJX4GFMANEQU&dib=eyJ2IjoiMSJ9.mPvAJQv00NyonGU8tBT8n8L1ZSkuzJmPnv4kXlAgfCMAB3Lp8DPB2KI1j1d2vn7Ww5HA4Xiyo5xGhu3EHT2TLYc6HEGm4RP8CgI4PmYvyryY16ByqZGXYqNIGJ0ckPxFVNszABoboLCYgEixyoaX7_ZvAhUmIl-gI7NsPUpvDnnC5StI6Xl5qlSnMd9hYa_qQtA5FOcAbg22wvYH33jwuizOjS-TIOqHuBrQTMl9x-rZqiD_l-ukWT1SE0HYCyuQx7NGu53x7kTCrf3sFQv8MBPShve4sKx1xyDio2nfQgQ.ljnLT-frHY7tyvuqnBd3YKPULthDsz5KHz7SiakQ910&dib_tag=se&keywords=Homero%2B3%2BTier%2BBamboo%2BFolding%2BPlant%2BStand%2Bhigh%2Brating&nsdOptOutParam=true&qid=1781523230&sprefix=homero%2B3%2Btier%2Bbamboo%2Bfolding%2Bplant%2Bstand%2Bhigh%2Brating%2Caps%2C829&sr=8-18&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=7fa7720e840ea7556fe6ed6b0fb057a8&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 80,
+  "name": "Espoir Glowrizer Face Primer | Hydrating & Moisturizing Makeup Base with Hyaluronic Acid & Niacinamide",
+  "brand": "Espoir",
+  "price": 31,
+  "rating": 4.5,
+  "reviews": 114,
+  "description": "The Espoir Glowrizer Face Primer is a hydrating Korean makeup base designed to create a smooth, radiant complexion before foundation application. Featuring a unique water-gel formula enriched with pink capsules containing hyaluronic acid, peptides, niacinamide, and vitamin C, this primer helps improve the appearance of dryness and uneven texture while providing long-lasting hydration. The encapsulated technology maintains ingredient freshness and melts effortlessly into the skin for quick absorption and a lightweight feel. Suitable for all skin types, it enhances foundation application, delivers a dewy glow, and helps achieve a flawless, luminous makeup look. The convenient pump packaging ensures easy, controlled dispensing for daily use and travel.",
+  "features": [
+    "Hydrating face primer for makeup",
+    "Smooths skin texture before foundation",
+    "Creates a radiant Korean makeup base",
+    "Water-gel formula with pink capsules",
+    "Infused with hyaluronic acid",
+    "Contains niacinamide",
+    "Enriched with peptides",
+    "Includes vitamin C",
+    "Encapsulated ingredient technology",
+    "Lightweight and fast-absorbing formula",
+    "Helps reduce the appearance of dryness",
+    "Promotes even foundation application",
+    "Provides long-lasting hydration",
+    "Suitable for all skin types",
+    "Dewy finish for radiant-looking skin",
+    "Rose water scent",
+    "Pump dispenser for controlled application",
+    "Travel-friendly packaging",
+    "Ideal for daily makeup preparation",
+    "Suitable for festivals and outdoor events"
+  ],
+  "ingredients": [
+    "Hyaluronic Acid",
+    "Niacinamide",
+    "Peptides",
+    "Vitamin C",
+    "Water-Gel Base",
+    "Rose Water Extract"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/new%20beauty%20product%20for%20korean%20skin.png?raw=true",
+ amazon: "https://www.amazon.com/Espoir-Glowrizer-Moisturizing-Natural-born-Recommended/dp/B0DBQG9HVP?crid=3I9ZCHUJNVEZR&dib=eyJ2IjoiMSJ9.B0ZbP3tC-VV0SLXaFUqSi67PqE4ItOa5o4v_CjJ0DGWXP__Yv5NW62Ihoe3v7hpjn3HfH2jstfBfkYEnhDNxt2uBD4EudCMmHc-dTWI259-DVkugyD3UR0Q4qc8Y2FRm8G-5p_q70g038sx0UTGriafQE8CkXkb0fiw2oW7LXzsjcmcBr7zK6xS6hcS04cRMczDydg1WfNyisruH8l_ZN9IKbjOrPqAAFxKCBX15p3Trjq8Tb292WGraA9X_OUROZOGAKzfSO3ciqupaIdKv3VlBl3gEBqKFjifYuzlFn-M.Snmlmzo-ra0Tb8r6GUQJci8VUapZVez9xVSR2p2j-z4&dib_tag=se&keywords=Espoir+Glowrizer+Face+Primer+%7C+Hydrating+%26+Moisturizing+Makeup+Base+with+Hyaluronic+Acid+%26+Niacinamide%2C+All+Skin+Types%2C+Perfect+for+Glow+and+Radiant&nsdOptOutParam=true&qid=1781592013&sprefix=espoir+glowrizer+face+primer+hydrating+%26+moisturizing+makeup+base+with+hyaluronic+acid+%26+niacinamide%2C+all+skin+types%2C+perfect+for+glow+and+radiant%2Caps%2C684&sr=8-1&linkCode=ll2&tag=aadhithyan637-20&linkId=5c8912a0b2288be6a32370e31b168270&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
