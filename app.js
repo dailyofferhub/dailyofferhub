@@ -2553,6 +2553,43 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/new%20beauty%20product%20for%20korean%20skin.png?raw=true",
  amazon: "https://www.amazon.com/Espoir-Glowrizer-Moisturizing-Natural-born-Recommended/dp/B0DBQG9HVP?crid=3I9ZCHUJNVEZR&dib=eyJ2IjoiMSJ9.B0ZbP3tC-VV0SLXaFUqSi67PqE4ItOa5o4v_CjJ0DGWXP__Yv5NW62Ihoe3v7hpjn3HfH2jstfBfkYEnhDNxt2uBD4EudCMmHc-dTWI259-DVkugyD3UR0Q4qc8Y2FRm8G-5p_q70g038sx0UTGriafQE8CkXkb0fiw2oW7LXzsjcmcBr7zK6xS6hcS04cRMczDydg1WfNyisruH8l_ZN9IKbjOrPqAAFxKCBX15p3Trjq8Tb292WGraA9X_OUROZOGAKzfSO3ciqupaIdKv3VlBl3gEBqKFjifYuzlFn-M.Snmlmzo-ra0Tb8r6GUQJci8VUapZVez9xVSR2p2j-z4&dib_tag=se&keywords=Espoir+Glowrizer+Face+Primer+%7C+Hydrating+%26+Moisturizing+Makeup+Base+with+Hyaluronic+Acid+%26+Niacinamide%2C+All+Skin+Types%2C+Perfect+for+Glow+and+Radiant&nsdOptOutParam=true&qid=1781592013&sprefix=espoir+glowrizer+face+primer+hydrating+%26+moisturizing+makeup+base+with+hyaluronic+acid+%26+niacinamide%2C+all+skin+types%2C+perfect+for+glow+and+radiant%2Caps%2C684&sr=8-1&linkCode=ll2&tag=aadhithyan637-20&linkId=5c8912a0b2288be6a32370e31b168270&language=en_US&ref_=as_li_ss_tl"
+},{
+  "id": 81,
+  "name": "GEEBOBO 5 Tiered Tall Plant Stand for Indoor, Wood Plant Shelf Corner Display Rack",
+  "price": 30,
+  "rating": 4.3,
+  "reviews": 4399,
+  "description": "The GEEBOBO 5 Tiered Tall Plant Stand is a compact and stylish indoor plant display rack designed to maximize vertical space while showcasing multiple plants. Crafted from durable carbonized pine wood, this multi-tier plant shelf features five display levels and a stable triangular structure for enhanced support. Its natural wood finish complements bedrooms, living rooms, hallways, balconies, patios, and garden spaces. Each tier provides ample room for flower pots while allowing plants to receive balanced sunlight and airflow. Equipped with detachable wheels for easy mobility, the stand can be used as either a stationary or movable plant organizer. The eco-friendly, paint-free construction preserves the natural wood texture and offers resistance to fading, shrinking, warping, and cracking.",
+  "features": [
+    "5-tier vertical plant stand design",
+    "Space-saving corner display rack",
+    "Suitable for indoor and outdoor use",
+    "Five levels of plant display space",
+    "Stable triangular base construction",
+    "Made from durable pine wood",
+    "High-temperature carbonized wood treatment",
+    "Natural wood grain finish",
+    "Paint-free eco-friendly design",
+    "Resistant to fading and warping",
+    "Resistant to shrinking and cracking",
+    "Detachable wheels for mobility",
+    "Can be used with or without wheels",
+    "Ideal for bedrooms and living rooms",
+    "Suitable for balconies and patios",
+    "Decorative flower pot organizer",
+    "Promotes balanced sunlight exposure",
+    "Supports proper plant airflow",
+    "Easy assembly with included tools",
+    "Compact design for small spaces"
+  ],
+  "materials": [
+    "Pine Wood",
+    "Carbonized Pine Wood",
+    "Metal Hardware Components",
+    "Plastic Wheels"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/home%20decorrrrrrr.png?raw=true",
+ amazon: "https://www.amazon.com/GEEBOBO-Outdoor-Display-Multi-tier-Planter/dp/B09GY113GL?crid=1SC38LQ8SALF3&dib=eyJ2IjoiMSJ9.GMQtXDDlopZToy_kEWMgI1l3WaKaW0mP8FxyUjTEmPhNRmave3TU7fo8RdpDVfhMusqU-ZOV1YXdUhQXOJMtdfAe61OKV9QDV5I7X0RnbdCjUO6HcHOXfQe5CQORYIAneqtQjr7FtgMEBOfQaPGrsrKCDCKK-xtMQyJEK2BmQFXd5gLmY4KU7TkBN3Q-RtvKxV6kDMr12j4IdZcWk_gHjGH5PH9MBbwBpmOP8jXLo1417Rt6o1zADdMupmQEPLMIUrBRM-kaCBkjLObSWI5wLBaDMD3K--X59sIFJX-Ki5E.UfwvK7HNqzs46pd3Wt_ehbn4WZuzrD1Q7Zd9d2J2d00&dib_tag=se&keywords=6%2BTier%2BWooden%2BPlant%2BStand%2BIndoor%2Bwith%2BWheels&nsdOptOutParam=true&qid=1781606066&sprefix=6%2Btier%2Bwooden%2Bplant%2Bstand%2Bindoor%2Bwith%2Bwheels%2Caps%2C418&sr=8-10&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=0f10dd4e46a72a6f55e85d753568043a&language=en_US&ref_=as_li_ss_tl"
 }
 
 
