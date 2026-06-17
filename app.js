@@ -2627,6 +2627,43 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/toilet%20storage%20ideas.png?raw=true",
  amazon: "https://www.amazon.com/Kalrin-Bathroom-Organizer-Adjustable-Freestanding/dp/B0CYZW6NZJ?crid=2WIR1PZQOKIAW&dib=eyJ2IjoiMSJ9.fkS87wERZEidIMKjcQDZUt5kTqiBe5eCbJTPGkuaQPxxQIGTB6r4xXknjjWk1CxW-lKQ2k3buIskUA75r0HljwPyNBA2M3PBn6VNmYo3X1cHZvQfI8I9g7hWLMljC3uBFmfMmb53P-n8mRxsJxG6w73rtY1MSa2858HbAqrKVqkiJgcJl24pM2nbbZMUIoZMvraZe0m3MWjaNDoeAgz_3t0gj6iEYpZ4HBgJhJcEAZB6pnZP9WXOX9CbbqdX_ptNy892OCJv645ni3_q9atXONyr0EDOGE52wffBiVv1OjI.PB8mAWnMJPB4CAYojAOd2yz7V7l_cqZRsiTvwJxPmtA&dib_tag=se&keywords=Djuize%2BWall%2BShelf%2Bwith%2BWooden%2BTop&qid=1781690062&sprefix=djuize%2Bwall%2Bshelf%2Bwith%2Bwooden%2Btop%2Caps%2C580&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=4e85a84e7ac94401388ca06bb4f734ac&language=en_US&ref_=as_li_ss_tl"
+},{
+  "id": 83,
+  "name": "Downy Liquid Fabric Softener, April Fresh 2-in-1 Fresh & Soft, 140 Fl Oz",
+  "price": 18,
+  "rating": 4.8,
+  "reviews": 36434,
+  "description": "Downy April Fresh 2-in-1 Liquid Fabric Softener is a premium laundry conditioner designed to provide long-lasting freshness and exceptional softness with every wash. Featuring Downy's signature April Fresh scent, this fabric softener delivers up to three times more freshness while helping clothes feel softer, smoother, and more comfortable. The liquid formula works effectively in all washing machines and can be added directly to the fabric softener dispenser or agitator. Suitable for everyday laundry routines, it enhances fabrics with a fresh scent and soft touch while helping garments maintain their quality wash after wash. The large 140-fluid-ounce bottle provides enough fabric conditioner for up to 190 loads.",
+  "features": [
+    "2-in-1 softness and freshness formula",
+    "Signature April Fresh scent",
+    "Provides up to 3X more freshness",
+    "Long-lasting fragrance performance",
+    "Leaves clothes soft and comfortable",
+    "Helps reduce fabric stiffness",
+    "Easy-to-use liquid formula",
+    "Works in all washing machines",
+    "Compatible with HE washers",
+    "Can be added to fabric softener drawer",
+    "Suitable for direct agitator use",
+    "Enhances overall laundry freshness",
+    "Helps fabrics feel smoother",
+    "Ideal for everyday laundry care",
+    "Pairs with any laundry detergent",
+    "Large 140 fl oz bottle",
+    "Provides up to 190 loads",
+    "Convenient pour bottle design",
+    "Trusted Downy fabric conditioner",
+    "Suitable for most washable fabrics"
+  ],
+  "ingredients": [
+    "Liquid Fabric Conditioner",
+    "Freshness Enhancing Agents",
+    "Fabric Softening Agents",
+    "April Fresh Fragrance"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/flower%20smell%20laundryy.png?raw=true",
+ amazon: "https://www.amazon.com/Downy-Fabric-Softener-April-Fresh/dp/B0C8XBKZYG?crid=35SYIIF3N78UE&dib=eyJ2IjoiMSJ9.tiueCtGpsQ29Nh6FDAIUv26GEu7MlbejwsLYDpKIvsaRsz8XoGI-YcNvohwvJ40H9IADATHLvvOYX2pAUEOTxibwCxGOI0J_iF0LgWgRg2VIN__f4AuwCn8xhdNtMl3coHY2V2ow8Jqfb0gY5mcEhaM0IbyQvThblpkSzbaCluzJ0Sx_cslX_mNoWDEMmb6KTfOEMvdcnr1j7HsWuzeZvKJqHPN85SHSoJU0x0dm1eR2Bd8_POAU-E4mftECx9z1dtkrw1tFP5r15Pa41f6be514rB0UUwLoeXd2qN8pgcE.s9K174HlCx9TfrpY3EXaVmJIT0wSRxLa2Fek8pLS7pI&dib_tag=se&keywords=Ultra%2BApril%2BFresh%2BScent%2BLiquid%2BFabric%2BSoftener%2C%2B190-Loads%2C%2B140%2Bfl.%2Boz.&nsdOptOutParam=true&qid=1781692992&sprefix=revitalize%2Byour%2Bfloral%2Barrangement%2Caps%2C1238&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=507af7a5c947e6c867a7ea8b1db57902&language=en_US&ref_=as_li_ss_tl"
 }
 
 
