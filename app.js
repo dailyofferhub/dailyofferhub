@@ -2664,6 +2664,43 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/flower%20smell%20laundryy.png?raw=true",
  amazon: "https://www.amazon.com/Downy-Fabric-Softener-April-Fresh/dp/B0C8XBKZYG?crid=35SYIIF3N78UE&dib=eyJ2IjoiMSJ9.tiueCtGpsQ29Nh6FDAIUv26GEu7MlbejwsLYDpKIvsaRsz8XoGI-YcNvohwvJ40H9IADATHLvvOYX2pAUEOTxibwCxGOI0J_iF0LgWgRg2VIN__f4AuwCn8xhdNtMl3coHY2V2ow8Jqfb0gY5mcEhaM0IbyQvThblpkSzbaCluzJ0Sx_cslX_mNoWDEMmb6KTfOEMvdcnr1j7HsWuzeZvKJqHPN85SHSoJU0x0dm1eR2Bd8_POAU-E4mftECx9z1dtkrw1tFP5r15Pa41f6be514rB0UUwLoeXd2qN8pgcE.s9K174HlCx9TfrpY3EXaVmJIT0wSRxLa2Fek8pLS7pI&dib_tag=se&keywords=Ultra%2BApril%2BFresh%2BScent%2BLiquid%2BFabric%2BSoftener%2C%2B190-Loads%2C%2B140%2Bfl.%2Boz.&nsdOptOutParam=true&qid=1781692992&sprefix=revitalize%2Byour%2Bfloral%2Barrangement%2Caps%2C1238&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=507af7a5c947e6c867a7ea8b1db57902&language=en_US&ref_=as_li_ss_tl"
+},{
+  "id": 84,
+  "name": "ROMOON Laundry Sorter Hamper with Hanging Bar, 3 Section Rolling Laundry Cart Organizer",
+  "price": 40,
+  "rating": 4.6,
+  "reviews": 11099,
+  "description": "The ROMOON Laundry Sorter Hamper with Hanging Bar is a versatile laundry organization solution designed to simplify sorting, storing, and transporting clothes. Featuring three large removable laundry bags with a combined 135L capacity, this rolling laundry cart allows users to separate clothes by color, fabric type, or family member. The integrated hanging bar provides additional space for air-drying garments, organizing outfits, or hanging freshly ironed clothes. Built with a heavy-duty alloy steel frame and waterproof Oxford fabric bags, the sorter supports up to 75 lbs while maintaining stability and durability. Four smooth-rolling wheels, including two lockable casters, ensure effortless mobility and secure positioning. Ideal for apartments, dormitories, laundry rooms, and small living spaces, this modern laundry organizer maximizes storage while keeping clothes neatly organized.",
+  "features": [
+    "3-section laundry sorting system",
+    "Large 135L total capacity",
+    "Built-in hanging bar for clothes",
+    "Rolling laundry cart design",
+    "Four smooth-rolling wheels",
+    "Two heavy-duty lockable casters",
+    "Easy mobility across floors",
+    "Removable laundry bags",
+    "Waterproof fabric bag construction",
+    "Durable alloy steel frame",
+    "Supports up to 75 lbs",
+    "Sorts clothes by color or fabric",
+    "Suitable for family laundry needs",
+    "Ideal for apartments and dorms",
+    "Space-saving vertical design",
+    "Keeps laundry organized",
+    "Portable clothes storage solution",
+    "Modern rectangular design",
+    "Easy assembly with numbered parts",
+    "No tools required for setup"
+  ],
+  "materials": [
+    "Alloy Steel",
+    "Oxford Fabric",
+    "Plastic Wheels",
+    "Metal Hardware Components"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/new%20home%20decor%20for%20clothessss.png?raw=true",
+ amazon: "https://www.amazon.com/ROMOON-Laundry-3-Section-Capacity-Removable/dp/B0G6JJRCWD?crid=4AMVDO0CIM4C&dib=eyJ2IjoiMSJ9.W0ElTMb-JUf7Qt6Iu2oCNvXDrp15_Qw2fLZoIDzVEXK7hn3495zbJcn_boxzx5aLbBw4VBXmiBORcL44savN55HoMO7e6CDOREKWI9uGMrv8UYPRDVhdFXVwQlXMRq3Qv9Ns0YtGbd_PIbQbkY1_8gCiAKMz15tjUfQaw5jbP8nGaUAFwWH56IpPIbNUthsdcwEgv1q3aF51K2TIJSXHmf_x-iauVLFx4kCkzZTi0NdhJxulyrflinykDih7vAYEI8l52wawmiESCz-dTlo_yfzf1FLv8HorB0QTI7H7YsU.I72NjMyS8panzFhcSMneQGdjrGduL_AEBXHFweThSk0&dib_tag=se&keywords=Dark%2BGray%2B36%2Bin.%2Bx%2B17.3%2Bin.%2Bx%2B30.7%2Bin.%2BWood%2B%28Bamboo%29%2B3-Bag%2BLaundry%2BSorter&nsdOptOutParam=true&qid=1781766055&sprefix=dark%2Bgray%2B36%2Bin.%2Bx%2B17.3%2Bin.%2Bx%2B30.7%2Bin.%2Bwood%2Bbamboo%2B3-bag%2Blaundry%2Bsorter%2Caps%2C484&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=993923a33b086938ce7d6beb2c097ec8&language=en_US&ref_=as_li_ss_tl"
 }
 
 
