@@ -2776,6 +2776,40 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/drawer.png?raw=true",
  amazon: "https://www.amazon.com/Vtopmart-Organizers-Versatile-Organizer-Jewelries/dp/B08KXKVT4K?dib=eyJ2IjoiMSJ9.NlQu8OoN6RQtUfE9jLFnXedJ0igM7SLNSrl3nUECVv97TnSnN_hBlx8BHqNtU34wFGuvhbS7c-g2R0OHqkD_ZKiIMetxvevGUnTnoEhTL_fiCXV323xsMKLMoiwiqA42KOtNWS_EQSTCPWPjgZPZ8qRZ3rRtonBf7dUlYndo755otYSdsJnpgCKOjnNBc9yqprfQeqjl2DfrsooRkw5rmiVdi75PLmQJAsff4nz2P0zFTj71T9bHaNYTVaY-8cT2WCy80xOF95Yy4N2j-SAptSuz2gduaCYIoxDySJ2ozxo.DkqSXWaCLcKPzgXvHYj7Oy_pz58lER8MAUFQjX4kD14&dib_tag=se&keywords=Storage%2Borganizers&qid=1781857616&sr=8-10&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=3f3dd74a85159a665a8ff896b6ba527a&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 87,
+  "name": "JASAI 18Oz Simple Glass Soap Dispenser with Black Rust Proof Pump",
+  "price": 15,
+  "rating": 4.6,
+  "reviews": 26821,
+  "description": "The JASAI 18Oz Simple Glass Soap Dispenser is an elegant and functional accessory designed to enhance the appearance of kitchens and bathrooms. Crafted from premium lead-free clear glass with a stylish vertical stripe texture, this dispenser features a durable black 304 stainless steel rust-proof pump for long-lasting performance. With an 18-ounce capacity, it is ideal for dispensing hand soap, dish soap, lotion, shampoo, body wash, and other liquid products. The transparent glass body makes it easy to monitor soap levels and refill when needed. Its timeless design complements modern, farmhouse, rustic, and minimalist home decor styles, making it a practical addition to any sink area and a thoughtful gift for friends and family.",
+  "features": [
+    "18-ounce large capacity",
+    "Premium clear glass construction",
+    "Lead-free glass material",
+    "Black rust-proof pump",
+    "304 stainless steel pump mechanism",
+    "Durable and long-lasting construction",
+    "Transparent body for easy refill monitoring",
+    "Suitable for hand soap dispensing",
+    "Ideal for dish soap storage",
+    "Compatible with lotion",
+    "Can hold shampoo and body wash",
+    "Refillable and reusable design",
+    "Perfect for bathroom countertops",
+    "Great for kitchen sink organization",
+    "Includes decorative hanging tag",
+    "Suitable as a gift for friends and relatives"
+  ],
+  "materials": [
+    "Lead-Free Glass",
+    "304 Stainless Steel",
+    "Plastic Internal Pump Components",
+    "Natural Twine Tag"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/new%20product%20for%20kitchen.png?raw=true",
+ amazon: "https://www.amazon.com/JASAI-Dispenser-Refillable-Vertical-Bathroom/dp/B0D3F5WDLS?dib=eyJ2IjoiMSJ9.PtlNvx2CXwUJLvOSyZazYecLAx2AuECJO8g4EJPbftVFoQoBK5GAqJItSzuu4T9ploGxEWVTPl8kR6InqGWwpWCt_Apsq51AdRUzv7BEeVgkVopoh0DHhugSNj5wIdRjiBy3h3QvOX-iP57QhHn-yKo1FF7Yi8plLZGhU_YOkfsd84EugXArIPt7D-sRfsUidFfcalERW8jgHYKP6cpas0nTiI7FqAakYBHtO9UCiQ6fCAb5546haSvX-MR0VPfousU_7TcBZcNfkeA2HAN8FBj7iLRow0iRSn_rIjuPHYs.8o8I_oKEAAYobzD0zuHil1o3z4VO7xz-ehRG3omZ0hU&dib_tag=se&keywords=Dispensador%2Bde%2Bjab%C3%B3n%2Bde%2Bvidrio%2Bexclusivo%2B%7C%2BGrabado%2C%2BImpreso%2Bo%2BEtiquetado%2B-%2BDispensador%2Bde%2Bjab%C3%B3n%2Bde%2Bvidrio%2Bexclusivo%2B%7C%2BGrabado%2C%2BImpreso%2Bo%2BEtiquetado&nsdOptOutParam=true&qid=1781934280&sr=8-2&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=7a45de155a52d5709ac0cdfa2b7048da&language=en_US&ref_=as_li_ss_tl"
 }
 
 
