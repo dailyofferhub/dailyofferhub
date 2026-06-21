@@ -2842,7 +2842,45 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/love%20product.png?raw=true",
  amazon: "https://www.amazon.com/Heart-Sculpture-Bookshelf-Aesthetic-Christmas/dp/B0DNSYD2V9?crid=12PE3LTVJS548&dib=eyJ2IjoiMSJ9.B7Dj6cEmNeS-Rr0buoaG-PWn7MSHoYSrRS59SROJiTNWKbJXBknMl-nqk6br3sm3nZ3dOPbEZpPrI2MSTiMdd0alwz_CpeRM_--o-Hi4mHzV2qHbQMnWu14dWatao06K-2m0XeXZ1A5YwsQaertvZw7IURp5K_gcYqGxz8RH51mk-dXuYyZ_64N5Kw6TOuhgL3tT1o_Agebg6O3rG5iaPGa8hXrxlS66UBgG2H3I1KiyrWSXy-IhEwPxCPLAw87ZyRk1lc0EK4oAqmmmHVTc6uqPGXwgHWeMwqNztWYc2wo.PMU9mT1ya1Wn8wS2TdCdN5XEzKro1LjizNt5Tz02YtA&dib_tag=se&keywords=home%2Bdecor&qid=1782031285&sprefix=home%2Bdec%2Caps%2C483&sr=8-6&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=2bcb33d6afc9de693f5c432c1479fc0e&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 89,
+  "name": "Hatch Baby Sound Machine & Night Light, Wi-Fi Sleep Support Device with Time-to-Rise Alarm Clock and White Noise (Putty)",
+  "price": 80,
+  "rating": 4.8,
+  "reviews": 36300,
+  "description": "The Hatch Baby Sound Machine and Night Light is an all-in-one sleep support device designed to help infants, babies, toddlers, and parents build healthy sleep routines. Featuring customizable night lights, science-backed sleep sounds, white noise, lullabies, nursery stories, and a Time-to-Rise alarm clock, it creates a soothing sleep environment from newborn stages through toddler years. The companion Hatch Sleep app allows parents to remotely control settings, create schedules, access sleep guides, and even chat with sleep consultants. Its modern nursery-friendly design includes a simple touch interface, adjustable volume controls, LED clock display, and Wi-Fi connectivity for seamless operation. Hatch Baby helps establish consistent bedtime habits while providing comfort and convenience for the entire family.",
+  "features": [
+    "All-in-one baby sleep support device",
+    "Customizable night light colors and brightness",
+    "White noise and soothing sleep sounds",
+    "Science-backed sleep routines",
+    "Time-to-Rise alarm clock for toddlers",
+    "Custom sleep schedules through mobile app",
+    "Remote control via Wi-Fi connection",
+    "LED digital clock display",
+    "Sleep consultant chat access",
+    "Baby sleep guides and routine support",
+    "Nursery stories and bedtime content",
+    "Lullabies and calming music",
+    "Quick-touch controls on device",
+    "Adjustable volume control",
+    "Supports infants, babies, and toddlers",
+    "Modern nursery-friendly design",
+    "Favorite routine presets",
+    "Nightlight button for late-night feeding",
+    "Routine builder for healthy sleep habits",
+    "Works with Hatch Sleep app"
+  ],
+  "materials": [
+    "Plastic Housing",
+    "LED Light Components",
+    "Electronic Circuit Components"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/productfor%20baby.png?raw=true",
+ amazon: "https://www.amazon.com/Hatch-Baby-Machine-Registry-Essential/dp/B0F7C6XJ3P?crid=12PE3LTVJS548&dib=eyJ2IjoiMSJ9.Em51ZZJujCyoTfnquwDN-AzAsCowhBqJ-sQH7E1INyn_7MlHXx1q_cJZULMS-s0GGFaUgiepSs68yCRzrCaUzDrzHYiOlKoltFcbQljbHJqd4PgkBZzdElk4ceSuOTi92hyPOkQVIligLyzURVJguMEkTr9TUE2rbBiDaaMQ7AAus7J0H-SG5afTthc5flqLh-ZUTpULL5ADQKr916DNjplw8rzu3FTa8TT73DRkj1D9bXYK3bEA78HNXLp6XH0p9O0_SOBR2tECAU0P2Y-1FeqPGXwgHWeMwqNztWYc2wo.JDj4Vp0lCqxleTRsR5Lng7fUiGaiTO6Xogk4fRhMG_I&dib_tag=se&keywords=home%2Bdecor&qid=1782032983&sprefix=home%2Bdec%2Caps%2C483&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=576f066c4c51eb1d4bcaaa41fd82a5ef&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
