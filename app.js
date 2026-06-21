@@ -2810,6 +2810,38 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/new%20product%20for%20kitchen.png?raw=true",
  amazon: "https://www.amazon.com/JASAI-Dispenser-Refillable-Vertical-Bathroom/dp/B0D3F5WDLS?dib=eyJ2IjoiMSJ9.PtlNvx2CXwUJLvOSyZazYecLAx2AuECJO8g4EJPbftVFoQoBK5GAqJItSzuu4T9ploGxEWVTPl8kR6InqGWwpWCt_Apsq51AdRUzv7BEeVgkVopoh0DHhugSNj5wIdRjiBy3h3QvOX-iP57QhHn-yKo1FF7Yi8plLZGhU_YOkfsd84EugXArIPt7D-sRfsUidFfcalERW8jgHYKP6cpas0nTiI7FqAakYBHtO9UCiQ6fCAb5546haSvX-MR0VPfousU_7TcBZcNfkeA2HAN8FBj7iLRow0iRSn_rIjuPHYs.8o8I_oKEAAYobzD0zuHil1o3z4VO7xz-ehRG3omZ0hU&dib_tag=se&keywords=Dispensador%2Bde%2Bjab%C3%B3n%2Bde%2Bvidrio%2Bexclusivo%2B%7C%2BGrabado%2C%2BImpreso%2Bo%2BEtiquetado%2B-%2BDispensador%2Bde%2Bjab%C3%B3n%2Bde%2Bvidrio%2Bexclusivo%2B%7C%2BGrabado%2C%2BImpreso%2Bo%2BEtiquetado&nsdOptOutParam=true&qid=1781934280&sr=8-2&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=7a45de155a52d5709ac0cdfa2b7048da&language=en_US&ref_=as_li_ss_tl"
+} ,
+{
+  "id": 88,
+  "name": "Lynagert Small Heart Hands Sculpture Decor, Modern Love Finger Statue for Living Room, Bedroom, Bookshelf & Coffee Table (Gold)",
+  "price": 19,
+  "rating": 4.7,
+  "reviews": 1296,
+  "description": "The Lynagert Small Heart Hands Sculpture is a beautifully crafted decorative accent designed to symbolize love, friendship, and affection. Featuring an elegant heart-shaped hand gesture in a luxurious gold finish, this modern sculpture adds a sophisticated touch to living rooms, bedrooms, offices, bookshelves, coffee tables, and display cabinets. Made from durable high-quality resin with a smooth textured surface, it is easy to clean and maintain. Its compact size makes it a noticeable decorative piece without taking up much space. The versatile design can also be used as a bracelet holder or keepsake display, making it both functional and stylish. Perfect as a thoughtful gift for weddings, anniversaries, Valentine's Day, birthdays, Christmas, Mother's Day, and other special occasions.",
+  "features": [
+    "Modern heart-shaped hand sculpture design",
+    "Symbolizes love, friendship, and affection",
+    "Elegant gold finish",
+    "Compact and space-saving size",
+    "Handcrafted decorative accent",
+    "Smooth textured surface",
+    "Easy to clean and maintain",
+    "Suitable for living room decor",
+    "Ideal for bedroom decoration",
+    "Perfect for office desk display",
+    "Great for bookshelves and coffee tables",
+    "Can be used as a bracelet holder",
+    "Versatile keepsake display stand",
+    "Complements modern and minimalist interiors",
+    "Thoughtful gift for special occasions"
+  ],
+  "materials": [
+    "High-Quality Resin",
+    "Gold Finish Coating",
+    "Handcrafted Decorative Material"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/love%20product.png?raw=true",
+ amazon: "https://www.amazon.com/Heart-Sculpture-Bookshelf-Aesthetic-Christmas/dp/B0DNSYD2V9?crid=12PE3LTVJS548&dib=eyJ2IjoiMSJ9.B7Dj6cEmNeS-Rr0buoaG-PWn7MSHoYSrRS59SROJiTNWKbJXBknMl-nqk6br3sm3nZ3dOPbEZpPrI2MSTiMdd0alwz_CpeRM_--o-Hi4mHzV2qHbQMnWu14dWatao06K-2m0XeXZ1A5YwsQaertvZw7IURp5K_gcYqGxz8RH51mk-dXuYyZ_64N5Kw6TOuhgL3tT1o_Agebg6O3rG5iaPGa8hXrxlS66UBgG2H3I1KiyrWSXy-IhEwPxCPLAw87ZyRk1lc0EK4oAqmmmHVTc6uqPGXwgHWeMwqNztWYc2wo.PMU9mT1ya1Wn8wS2TdCdN5XEzKro1LjizNt5Tz02YtA&dib_tag=se&keywords=home%2Bdecor&qid=1782031285&sprefix=home%2Bdec%2Caps%2C483&sr=8-6&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=2bcb33d6afc9de693f5c432c1479fc0e&language=en_US&ref_=as_li_ss_tl"
 }
 
 
