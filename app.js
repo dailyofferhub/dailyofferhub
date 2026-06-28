@@ -2909,6 +2909,42 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
  
  image: "https://github.com/Aadhi6374/image/blob/main/homee.png?raw=true",
  amazon: "https://www.amazon.com/Ceramic-Decorative-Tabletop-Flower-Present/dp/B0G324M8KG?dib=eyJ2IjoiMSJ9.Bp9r0pYNhw3RDBJvawoZQQM4cdoGlY6wzhtqN8ThtBhx1p7Kas6uUzFweg_uMeG6qxhZJPibTJPu6g50tDko1vhH0FMcRwrSIzIKWXzN-wWoqnq8mqDC_GpRkNFOjwRjetF-PA4Vk1YNooREovhXzWzO6qkdiIjyE3dxqSPGmQ0v_bpzSDol5r3eZy76LRa9YT6o85h5oP_XxntPxjqwdgUOtjVNbvzisCYoMyix87XMEw4c13gCedqaPpueWIxeG9lWVxeVMS4Q_cEbj4P-YEfpj2Kf_gFnvzmwfsWq-DY.453F0ZApTQS5cIyk98O8-x7IibROHufhzWlSqs7oHIw&dib_tag=se&keywords=Lemon+Ceramic+Vase%2C+3D+Decorative+Tabletop+Vase%2C+Small+Flower+Vase+for+Home+Decor%2C+Lemon+Themed+Present%2C+7.91+x+4.25+x+3.31+in&nsdOptOutParam=true&qid=1782657047&sr=8-3&linkCode=ll2&tag=aadhithyan637-20&linkId=a6d26cff5de773b091482055175c620c&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 91,
+  "name": "SCANDINORDICA Disco Ball Planter Value Package with Chain, Macrame Hanger, Acrylic Stand & Self-Watering Insert, 6 Inch Silver",
+  "price": 21,
+  "rating": 4.7,
+  "reviews": 2016,
+  "description": "The SCANDINORDICA Disco Ball Planter Value Package is a handcrafted 6-inch silver hanging planter designed to bring a stylish bohemian touch to any indoor space. Made with hand-applied mirrored glass pieces over a durable plastic planter, it creates dazzling reflections when exposed to natural sunlight. This value package includes a sturdy hanging chain, decorative macrame hanger, elegant acrylic tabletop stand, and a self-watering insert pot for improved drainage and healthier plants. The 6-inch planter with a 4-inch opening is ideal for succulents, pothos, ivy, cacti, herbs, flowers, and other indoor houseplants. Perfect for living rooms, bedrooms, offices, balconies, kitchens, apartments, dorms, and modern home decor, it also makes a thoughtful gift for birthdays, weddings, anniversaries, housewarmings, Mother's Day, Christmas, and plant lovers.",
+  "features": [
+    "6-inch handcrafted silver disco ball planter",
+    "Hand-applied mirrored glass tile finish",
+    "Includes durable hanging metal chain",
+    "Premium macrame hanger included",
+    "Elegant acrylic tabletop display stand",
+    "Self-watering insert pot for improved drainage",
+    "Perfect for succulents, herbs, pothos, ivy and flowers",
+    "Reflective mirror surface creates beautiful sunlight effects",
+    "Bohemian and modern home decor design",
+    "Suitable for indoor hanging or tabletop display",
+    "Strong lightweight plastic planter construction",
+    "Great for apartments, bedrooms, offices and living rooms",
+    "Beautiful gift-ready packaging",
+    "Ideal for birthdays, weddings, housewarmings and Christmas",
+    "Handmade craftsmanship with unique mirror placement",
+    "Backed by a 1-year warranty and after-sales support"
+  ],
+  "materials": [
+    "Hand-Applied Mirrored Glass",
+    "Durable Plastic",
+    "Metal Hanging Chain",
+    "Cotton Macrame Hanger",
+    "Clear Acrylic Stand"
+  ],
+ 
+ image: "https://github.com/Aadhi6374/image/blob/main/homee%20plant%20disco.png?raw=true",
+ amazon: "https://www.amazon.com/SCANDINORDICA-Disco-Ball-Planter-Hanging/dp/B08Y1YVL7R?crid=O1X8U9PLFV01&dib=eyJ2IjoiMSJ9.Q0f7DVzqaHGbEqEmHcExA6kQXOmZGq8CGmtgiiCWw2mlbJtUWRU7OyUwBDZLxx24knfihdJVnJKQgvjDthq7eQRlGuGySLsa6wc7NDC4YbCDTmK1xmcvGVggTeYanwmL2-EE5HnvPWSK4ADS7F6efegDccxoi-hur0LwJOqibgkZkCExUssj5M_ZHs7wEkhBarsem2oc7FrOv6ehjg2NX7UO_31Dwmjc7kr7DhMsHhELJ8JaxfAbgukVU81xsk-DkvEwGhLZe9e08rIRNiJTuRKGXX6fiAsZ6wladiUp_II.acRijHDRSVUDzmRbfRcYrbpaBtGcvuBm79TqZck9AbU&dib_tag=se&keywords=SCANDINORDICA%2BDisco%2BBall%2BPlanter%2B%E2%80%93%2BValue%2BPackage%3A%2BMirror%2BDisco%2BPlanter%2Bwith%2BChain%2C%2BMacrame%2BHanger%2Band%2BAcrylic%2BStand%2Bfor%2BDesk%2C%2BIncludes%2BSelf%2BWatering%2BInsert%2C%2BDisco%2BBall%2BDecor%2B%7C%2B6%2Binch%2BSilver&nsdOptOutParam=true&qid=1782662947&sprefix=scandinordica%2Bdisco%2Bball%2Bplanter%2Bvalue%2Bpackage%2Bmirror%2Bdisco%2Bplanter%2Bwith%2Bchain%2C%2Bmacrame%2Bhanger%2Band%2Bacrylic%2Bstand%2Bfor%2Bdesk%2C%2Bincludes%2Bself%2Bwatering%2Binsert%2C%2Bdisco%2Bball%2Bdecor%2B6%2Binch%2Bsilver%2Caps%2C533&sr=8-6&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=e077bdcceaa754da3690cbfa79b94770&language=en_US&ref_=as_li_ss_tl"
 }
 
 
